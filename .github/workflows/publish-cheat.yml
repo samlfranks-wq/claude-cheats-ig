@@ -5,7 +5,7 @@ name: Publish one Cheat
 # that stops the same Reel going out twice.
 on:
   schedule:
-    - cron: '58 * * * *'      # :58 - offset from lost-empires-ig (:42) and -yt (:17)
+    - cron: '13,28,43,58 * * * *'      # :58 - offset from lost-empires-ig (:42) and -yt (:17)
   workflow_dispatch:
 
 permissions:
