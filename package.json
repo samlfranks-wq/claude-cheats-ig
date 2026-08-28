@@ -1,0 +1,11 @@
+{
+  "name": "claude-cheats-publisher",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Publishes carousels to @claude.cheats on Instagram via the Graph API. No Canva, no browser automation. No dependencies.",
+  "scripts": {
+    "check": "node check.js",
+    "post": "node post-carousel.js"
+  }
+}

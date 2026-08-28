@@ -1,0 +1,25 @@
+Same prompt. Ten times the price.
+
+Four Claude models, four price tiers, one decision most people make by accident:
+
+01 Haiku 4.5 — $1 in / $5 out per MTok, 200K context
+Classification, extraction, routing. Anything you run ten thousand times.
+
+02 Sonnet 5 — $2 in / $10 out, 1M context
+The high-volume production choice. Same context as the top tier, a fifth of the price.
+
+03 Opus 5 — $5 in / $25 out, 1M context
+Anthropic's own docs say it: unsure which to use? Start here.
+
+04 Fable 5 — $10 in / $50 out, 1M context
+Hardest reasoning and long-horizon agents. Thinking is always on.
+
+The rule nobody follows: picking a cheaper model is the crude lever. The effort dial cuts spend on the same model, and token counting tells you whether you had a cost problem at all.
+
+Which one are you defaulting to? Comment the name.
+
+Save this one — you will want the price table next time you are picking. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #claudecode #claudeopus #anthropic #aiagents #devtools #aitools #buildinpublic #agenticai

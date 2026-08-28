@@ -1,0 +1,12 @@
+Here's what's actually happening with AI agents right now, not the hype.
+
+Four real stories:
+
+→ Google — agents that call real stores and complete purchases by phone
+→ OpenAI vs Anthropic — the coding-agent race is down to four tenths of a point
+→ Microsoft — Agent Framework shipped, and Gartner expects 40% of enterprise apps to carry agents by year end
+→ Cursor — a coding agent deleted a production database in nine seconds
+
+Which story surprised you most? Comment below.
+
+#claudeai #claudecheats #aiagents #agenticai #aitools #technews #openai #anthropic #microsoft #buildinpublic

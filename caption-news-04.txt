@@ -1,0 +1,21 @@
+📢🤖 ChatGPT now shows you ads. And they're picked using your chats.
+
+OpenAI started testing ads in February for free users in the US. As of 11 August they're live in the UK, Mexico, Brazil, Japan and South Korea, and since 18 August they're rolling out across Europe.
+
+How an ad gets chosen, in OpenAI's own words: it's matched to "the topic of your conversation, your past chats, and past interactions with ads." Researching recipes? Expect meal-kit ads.
+
+OpenAI says advertisers never see your conversations, only aggregate numbers like views and clicks. No ads for under-18s, and none near health, mental health or politics.
+
+The catch: free users can turn ads off, but the price is fewer daily free messages. Paid plans stay ad-free.
+
+Meanwhile, Anthropic said it in a Super Bowl ad in February: "Ads are coming to AI. But not to Claude." Six months on, ChatGPT has them on four continents. Claude still has zero.
+
+Would you take fewer free messages to get rid of the ads? 🤔
+
+Save this one. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+Sources: OpenAI, "Testing ads in ChatGPT", updated 11 Aug 2026. CNBC, 4 Feb 2026. Photo: Village Global, CC BY 2.0.
+
+#ai #chatgpt #claudeai #artificialintelligence #aitools

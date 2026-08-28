@@ -1,0 +1,21 @@
+# Never commit credentials — these live in GitHub repo secrets instead.
+.env
+.env.*
+!.env.example
+
+node_modules/
+queue.log
+run.log
+snapshots.jsonl
+
+# Renders are fetched from the CDN at publish time, not stored in git.
+*.mp4
+*.jpg
+
+# one-off working files from manual posting runs
+upload-*.log
+urls-*.txt
+reel-upload.log
+reel-urls.txt
+thumb-url.txt
+t.txt

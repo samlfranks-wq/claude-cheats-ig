@@ -1,0 +1,51 @@
+name: Publish one Cheat
+
+# Hourly. queue.js publishes at most ONE due item per run and records the result
+# back into queue.json, which this workflow commits. That commit is the lock
+# that stops the same Reel going out twice.
+on:
+  schedule:
+    - cron: '58 * * * *'      # :58 - offset from lost-empires-ig (:42) and -yt (:17)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-cheat
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '20'
+
+      - name: Publish the one due Cheat reel
+        shell: bash
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          AUTH_MODE: ${{ secrets.AUTH_MODE }}
+          GRAPH_VERSION: ${{ secrets.GRAPH_VERSION }}
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+        run: |
+          set -o pipefail
+          node queue.js --confirm | tee run.log
+
+      - name: Commit queue.json if something was published
+        run: |
+          if git diff --quiet queue.json; then
+            echo "Nothing due - queue.json unchanged."
+            exit 0
+          fi
+          git config user.name  "lost-empires-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add queue.json
+          git commit -m "publish: $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

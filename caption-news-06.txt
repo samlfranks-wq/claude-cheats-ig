@@ -1,0 +1,36 @@
+🧑‍💻⚡ How to set up Claude Code in under 10 minutes, even if you've never opened a terminal.
+
+Five steps. Swipe for each one. The exact commands are here so you can copy them.
+
+1. INSTALL
+Mac / Linux / WSL, paste into your terminal:
+curl -fsSL https://claude.ai/install.sh | bash
+Windows PowerShell:
+irm https://claude.ai/install.ps1 | iex
+(Homebrew: brew install --cask claude-code. WinGet: winget install Anthropic.ClaudeCode)
+Check it worked: claude --version
+
+2. LOG IN ONCE
+Type claude and press enter. A browser window opens. Sign in with your Claude account (Pro, Max or Team). It remembers you after that.
+
+3. OPEN A PROJECT
+Go to any folder with code in it, then type claude. No code yet? Make an empty folder and start there.
+
+4. ASK, DON'T COMMAND
+Start with: what does this project do?
+Claude reads the files itself. Then try: add a hello world function to the main file. On your first session it asks before changing anything.
+
+5. GIVE IT MEMORY
+Type /init. Claude scans the project and writes a CLAUDE.md file: what it is, how it is built, how to run it. Every future session starts already knowing that. Edit it any time.
+
+(Terminals shown are rendered walkthroughs of each step, not live captures.)
+
+Stuck on a step? Comment the number and we'll help. 👇
+
+Save this one. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+Source: code.claude.com/docs/en/quickstart. Photo: Pexels.
+
+#claudecode #claudeai #aitools #codingforbeginners #learntocode

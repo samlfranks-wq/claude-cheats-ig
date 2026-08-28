@@ -1,0 +1,32 @@
+The only Claude Code commands you actually need. 🗂️
+
+Save this one — it's the whole list on one screen.
+
+WHEN YOU WANT TO → TYPE THIS
+
+Start working → claude
+Start with a question → claude "explain this project"
+Ask one thing, then quit → claude -p "explain this function"
+Pick up where you left off → claude -c
+Reopen an older session → claude -r
+Update to the latest → claude update
+Teach it your project → /init
+See every command you have → /
+Wipe the conversation → /clear
+Get out → /exit
+
+Two that beginners always miss:
+
+/init makes Claude read your project and write a CLAUDE.md file, so every future session starts already knowing what your code is and how to run it. Do it once, on day one.
+
+claude -c is the one you'll use most. It picks up your last conversation in that folder instead of starting cold.
+
+COMMENT "CHEAT" and we'll send you the full command list. 👇
+
+Then follow @claude.cheats — we post the ones worth knowing.
+
+/install @claude.cheats
+
+Every command verified against code.claude.com/docs, August 2026.
+
+#claudecode #claudeai #aitools #devtools #codingtips

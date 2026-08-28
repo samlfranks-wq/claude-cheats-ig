@@ -1,0 +1,22 @@
+17,000 MCP servers exist. You're running two.
+
+MCP is how Claude reaches the tools your work actually lives in. Ten worth the config:
+
+01 github — read any repo, review PRs, open issues
+02 linear — triage the backlog overnight
+03 notion — your docs become searchable context
+04 slack — 400 unread, summarised in one line
+05 postgres — query prod without leaving the chat
+06 bigquery — plain questions, warehouse answers
+07 stripe — refunds, disputes, live revenue
+08 quickbooks — books reconciled, no spreadsheet
+09 figma — designs in, components out
+10 playwright — drives a real browser, finds real bugs
+
+70% of teams run between two and seven. Most people stop at the first one they installed.
+
+Which one are you connecting first? Comment the number.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #mcp #modelcontextprotocol #claudecode #aiagents #devtools #aitools #buildinpublic #agenticai

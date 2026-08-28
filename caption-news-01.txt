@@ -1,0 +1,21 @@
+Claude Code just stopped asking permission by default.
+
+From 14 August, new sessions on Pro, Max and Team plans start in auto mode unless you've pinned something else. Instead of asking before each action, a classifier blocks destructive, irreversible or external actions, tries a safer route, and only falls back to manual approval after repeated denials.
+
+The number that stopped us: Anthropic reports the classifier caught 89% of dangerous test commands. Human reviewers in the same test caught 13.6%.
+
+That is Anthropic's own evaluation, so treat it as directional rather than settled. But the trade is clear either way: fewer approval prompts, more reliance on automated policy enforcement.
+
+Still opt-in on Enterprise, API and cloud deployments.
+
+Worth knowing which mode you're actually in before your next session.
+
+(Terminal shown is a rendered walkthrough of the behaviour, not a live capture.)
+
+Source: Anthropic, 14 August 2026
+
+Save this one. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #claudecode #anthropic #ainews #aiagents #devtools #aisafety #buildinpublic #agenticai
