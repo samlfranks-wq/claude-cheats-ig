@@ -1,0 +1,12 @@
+An AI agent wiped a production database in nine seconds.
+
+Four rules so it never happens to you:
+
+→ Scope it down — give it exactly what the task needs, nothing more
+→ Make it dry run — see the plan before it touches anything real
+→ Checkpoint first — turn an irreversible mistake into an undo
+→ Verify the result — check the real state, not the agent's summary
+
+Which one is missing from your setup? Comment below.
+
+#claudeai #claudecheats #aiagents #agenticai #aisafety #automation #aitools #devtools #futureofwork #buildinpublic

@@ -1,0 +1,19 @@
+Claude is about to watermark everything it writes.
+
+Anthropic announced it on 14 August: future Claude models will carry an invisible watermark in the text they generate, with existing models to follow. A detection API is coming too.
+
+What that means in plain terms: the cover letter, the essay, the email you had Claude write will look identical to you. But a detector will be able to tell.
+
+The useful detail buried in the announcement: detection is weaker on short text and on text you've heavily edited. Claude's words, passed on untouched, are the easiest case to spot.
+
+This is coming to every Claude model, not just the new ones.
+
+(The chat shown is an illustration of how it works, not a live capture.)
+
+Source: Anthropic, 14 August 2026
+
+Save this one. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #anthropic #ainews #aiwriting #chatgpt #aitools #students #buildinpublic #aidetection

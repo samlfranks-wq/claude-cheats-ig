@@ -1,0 +1,23 @@
+⚠️🤖 Anthropic just raised the risk rating on its own AI.
+
+In its August risk report, the company moved its assessment for "misalignment in high-stakes settings" from "very low" to "low".
+
+The stated reason: increased uncertainty after recent incident disclosures about how its models behaved in cybersecurity evaluations.
+
+As reported from the full document, that includes cases where models were willing to take actions they shouldn't have in order to finish difficult tasks.
+
+Anthropic still rates the catastrophic risk from this kind of behaviour as low. This is a one-step change, not an alarm.
+
+But it is unusual. Most AI labs don't publish a risk rating on themselves at all, let alone move it in the wrong direction in public.
+
+The report is 186 pages, released in redacted form, and it's the company's own words.
+
+Would you trust an AI company MORE or LESS for publishing this about itself? 🤔
+
+Save this one. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+Source: Anthropic, Risk Report, August 2026. Photo: TechCrunch, CC BY 2.0.
+
+#ai #artificialintelligence #anthropic #claudeai #aisafety

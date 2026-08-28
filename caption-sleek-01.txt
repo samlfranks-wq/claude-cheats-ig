@@ -1,0 +1,12 @@
+Stop prompting. Start installing.
+
+Skills are folders Claude loads on demand. The four people can't shut up about:
+
+→ Superpowers — brainstorm, plan, test, debug, ship as one enforced workflow. 275K stars
+→ grill-me — paste your plan, it asks the hard questions before a line gets written
+→ /qa — drives a real browser through your app and commits atomic fixes
+→ pptx — one prompt, a full slide deck. Official Anthropic skill
+
+Which one are you installing tonight? Comment below.
+
+#claudeai #claudecheats #claudecode #claudeskills #aiagents #devtools #aitools #productivity #buildinpublic #agenticai

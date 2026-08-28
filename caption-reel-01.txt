@@ -1,0 +1,12 @@
+Researchers just showed AI agents can infect each other. Through a text file.
+
+A new Anthropic + EPFL preprint, in four parts:
+
+→ The finding — a prompt payload copying itself agent to agent through shared memory files
+→ The vector — files like SOUL.md and MEMORY.md. One carried 88% of successful attempts
+→ The pushback — Claude Sonnet 4.6 refused to pass it along. Nothing found spreading in the wild
+→ The fix — one warning paragraph in the system prompt cut propagation to near zero
+
+Do your agents write their own memory files? Comment below.
+
+#claudeai #claudecheats #aiagents #agenticai #aisafety #promptinjection #anthropic #airesearch #devtools #buildinpublic

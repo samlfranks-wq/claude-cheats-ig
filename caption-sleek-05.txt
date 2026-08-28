@@ -1,0 +1,27 @@
+10 plugins Claude Code should have shipped with.
+
+Without the first two, Claude can't see the type error it just wrote. Most people never install a single one.
+
+01 typescript-lsp — type errors caught as they happen
+02 pyright-lsp — same, for Python
+03 security-guidance — reviews every change for vulnerabilities
+04 pr-review-toolkit — agents that actually read the PR
+05 commit-commands — commit, push, PR in one flow
+06 github — issues and PRs without leaving the terminal
+07 linear — your backlog, as context
+08 notion — every past decision, searchable
+09 plugin-dev — build and ship your own
+10 agent-sdk-dev — for building agents proper
+
+The first two matter most and almost nobody has them. With a language server attached, Claude gets diagnostics back after every edit — so it spots the error it just wrote and fixes it in the same turn, instead of finding out when your build breaks.
+
+Install any of them with one command:
+/plugin install <name>@claude-plugins-official
+
+Which one are you installing first? Comment the number.
+
+Save this one — you'll want the list next time you set up a machine. Then follow @claude.cheats.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #claudecode #claudeplugins #anthropic #aiagents #devtools #aitools #buildinpublic #agenticai

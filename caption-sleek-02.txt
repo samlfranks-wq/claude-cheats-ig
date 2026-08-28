@@ -1,0 +1,20 @@
+10 skills you wish you knew 6 months ago.
+
+You already have all ten. They shipped with Claude Code and nobody told you.
+
+01 /security-review — audits your diff for injection, auth holes, leaked secrets
+02 /simplify — deletes the code you over-built
+03 /loop — repeat any prompt on an interval
+04 /schedule — proper cron jobs for Claude
+05 skill-creator — build and eval your own skills
+06 hooks — whenever X happens, run Y, automatically
+07 /fewer-permission-prompts — reads your transcripts, writes your allowlist
+08 /init — maps a repo you just cloned and writes its CLAUDE.md
+09 /xlsx — spreadsheets with real formulas, not pasted values
+10 dataviz — charts built on an actual design system
+
+Which one did you not know existed? Comment the number.
+
+/install @claude.cheats
+
+#claudeai #claudecheats #claudecode #claudeskills #aiagents #devtools #aitools #productivity #buildinpublic #agenticai

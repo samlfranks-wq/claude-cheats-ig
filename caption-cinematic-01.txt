@@ -1,0 +1,12 @@
+An AI just moved a 167-year-old unsolved problem. In a day and a half.
+
+The Riemann hypothesis, in four parts:
+
+→ The prompt — "Take a real stab at it." From an Anthropic staffer with no serious maths training
+→ The search — 60 agents, 650 ideas. 30 failed, 13 fed ideas, 13 validated, 2 found the key insight
+→ The result — the proven share of zeta zeros on the critical line jumped from 41.6% to 67.2%. Biggest single step in the bound's history
+→ The proof — formalised in Lean 4 and machine-checked. The $1M Millennium Prize is still unclaimed. Progress, not a proof
+
+What would you point 60 agents at? Comment below.
+
+#claudeai #claudecheats #aiagents #mathematics #riemannhypothesis #anthropic #airesearch #agenticai #machinelearning #buildinpublic
