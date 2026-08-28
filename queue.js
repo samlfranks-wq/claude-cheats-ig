@@ -42,6 +42,17 @@ if (dueIndex === -1) {
   process.exit(0);
 }
 
+// One post per day — hard rule for this account. Burst posting on 27 Aug 2026
+// cost 30x reach (posts 3 and 4 got 4 and 6 views against 179 for post 2).
+// Without this, a missed day would drain the backlog at one per HOUR, because
+// the runner fires hourly and only ever checks "is this item due yet".
+const today = new Date().toISOString().slice(0, 10);
+const alreadyToday = items.find((it) => it.posted && it.posted.slice(0, 10) === today);
+if (alreadyToday) {
+  console.log(`Already posted today (${alreadyToday.at}). One per day — stopping.`);
+  process.exit(0);
+}
+
 const item = items[dueIndex];
 const confirm = process.argv.includes('--confirm');
 console.log(`Due: ${item.at}\n  ${item.url}`);
