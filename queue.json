@@ -1,8 +1,14 @@
 [
- {
-  "at": "2026-08-31T09:00:00Z",
-  "note": "Top 10 skills - breakdown format - 10:00 BST 31 Aug",
-  "url": "https://files.catbox.moe/zg357p.mp4",
-  "caption": "10 Claude skills that do the boring work for you.\n\nPDFs, Word docs, spreadsheets, slide decks, code review, security checks — install each one once and it's a slash command forever. Number 10 builds new skills for you, which feels like cheating.\n\nAll 10 plus 40 more in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #workflow #promptengineering"
- }
+  {
+    "at": "2026-08-29T08:00:00Z",
+    "note": "Downloads-folder reel - posts ~09:58 BST (hourly cron at :58)",
+    "url": "https://files.catbox.moe/uwynyt.mp4",
+    "caption": "I let Claude into my Downloads folder. It found 41 files called \"final\".\n\nNine of those were called \"final_FINAL\". One was \"final_real\". I have no defence.\n\nNine seconds later it was sorted into twelve folders with 1.4 GB of duplicates pulled out. No code involved — this is just Claude Code pointed at a normal folder, which is the part nobody tells you it can do.\n\nSix things to point it at that have nothing to do with programming, at the end. The other 44 are free — link in bio.\n\n#ai #aitools #claude #claudecode #productivity #aitips #tech #organisation #workflow #automation"
+  },
+  {
+    "at": "2026-08-30T08:00:00Z",
+    "note": "UGC 'three prompts' solo distribution test - posts ~09:58 BST",
+    "url": "https://files.catbox.moe/10foph.mp4",
+    "caption": "Three prompts I use on basically everything.\n\n\"What's the dumbest thing here?\" — it will tell you, and it's usually right.\n\"What did you miss?\" — catches the thing it quietly skipped.\n\"Explain it like I'm new\" — turns a wall of jargon into something you can actually act on.\n\nNone of these are clever. That's the point. The other 47 are in the free pack — link in bio.\n\n#ai #aitools #chatgpt #aitips #productivity #promptengineering #tech #workflow #automation #learnai"
+  }
 ]
