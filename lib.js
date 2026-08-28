@@ -19,7 +19,7 @@ export function loadEnv(required = ['IG_USER_ID', 'IG_ACCESS_TOKEN']) {
     const fromProcess = {};
     for (const k of ['IG_USER_ID', 'IG_ACCESS_TOKEN', 'AUTH_MODE', 'GRAPH_VERSION',
                      'FB_PAGE_ID', 'FB_PAGE_TOKEN', 'FB_APP_ID', 'FB_APP_SECRET']) {
-      if (process.env[k]) fromProcess[k] = process.env[k];
+      if (process.env[k]) fromProcess[k] = process.env[k].trim();  // a pasted secret can carry a trailing newline
     }
     const missingEnv = required.filter((k) => !fromProcess[k]);
     if (missingEnv.length) {
