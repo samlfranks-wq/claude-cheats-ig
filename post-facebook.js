@@ -21,20 +21,21 @@
 //   default  → a normal Page video post (any aspect, single call)
 
 import {readFileSync} from 'node:fs';
+import {loadEnv} from './lib.js';
 
 const argv = process.argv.slice(2);
 const arg = (n) => { const i = argv.indexOf(`--${n}`); return i === -1 ? null : argv[i + 1]; };
 const confirm = argv.includes('--confirm');
 const asReel = argv.includes('--reel');
 
-const fail = (m) => { console.error(`\n✖ ${m}\n`); process.exit(1); };
+const fail = (m) => { console.error(`
+✖ ${m}
+`); process.exit(1); };
 
 // --- env ----------------------------------------------------------------
-const env = {};
-for (const line of readFileSync('.env', 'utf8').split(/\r?\n/)) {
-  const m = line.match(/^([A-Z0-9_]+)=(.*)$/);
-  if (m) env[m[1]] = m[2].trim();
-}
+// loadEnv reads .env locally and falls back to process.env in GitHub Actions,
+// so the same script cross-posts from the runner using repo secrets.
+const env = loadEnv(['FB_PAGE_ID', 'FB_PAGE_TOKEN']);
 const PAGE_ID = env.FB_PAGE_ID;
 const PAGE_TOKEN = env.FB_PAGE_TOKEN;
 const V = env.GRAPH_VERSION || 'v23.0';
