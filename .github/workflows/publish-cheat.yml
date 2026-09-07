@@ -51,6 +51,15 @@ jobs:
           # (e.g. if Instagram's own auto-share is enabled — running both double-posts),
           # set the repo VARIABLE FB_CROSSPOST=0 under Settings -> Secrets and variables.
           FB_CROSSPOST: ${{ vars.FB_CROSSPOST || '1' }}
+          # YouTube Shorts: the same file, uploaded to the Claude Cheats channel.
+          # ON by default; set the repo VARIABLE YT_UPLOAD=0 to stop it.
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_CHANNEL_ID: ${{ secrets.YT_CHANNEL_ID }}
+          YT_CATEGORY_ID: ${{ vars.YT_CATEGORY_ID || '28' }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'public' }}
+          YT_UPLOAD: ${{ vars.YT_UPLOAD || '1' }}
         run: |
           set -o pipefail
           node queue.js --confirm | tee run.log

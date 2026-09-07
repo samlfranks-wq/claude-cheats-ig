@@ -26,6 +26,7 @@ import {dirname, join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {fail} from './lib.js';
+import {ytConfigured} from './yt-lib.js';
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const QUEUE = join(HERE, 'queue.json');
@@ -79,6 +80,40 @@ if (missed) {
   if (r === 'ok' || r === 'fail') save();
 }
 
+// --- YouTube cross-post ------------------------------------------------------
+// Same queue entry, third surface (Sam, 2026-09-07). Instagram caps this account
+// at roughly its follower count for reach; YouTube Shorts pushes to non-followers
+// and is searchable, which is why the same file is worth uploading twice.
+// ON by default; set YT_UPLOAD=0 to disable. Items carry:
+//   yt: ISO time       -> uploaded
+//   ytSkip: true       -> never upload (the backlog that predates the channel)
+//   ytAttempts/ytError -> retried up to 3 times, then given up with ytSkip
+// A queue item should carry `ytTitle`: a real YouTube headline. Without one the
+// uploader derives a title from the caption and warns.
+const ytEnabled = () => (process.env.YT_UPLOAD || '1') !== '0';
+function crossPostYT(it) {
+  if (!ytEnabled()) return 'off';
+  if (!ytConfigured()) { console.log('  YT: no YouTube credentials here - skipped (backfill will retry).'); return 'skipped'; }
+  const args = ['post-youtube.js', '--url', it.url, '--caption', it.caption ?? ''];
+  if (it.ytTitle) args.push('--title', it.ytTitle);
+  if (it.ytCover) args.push('--cover', it.ytCover);
+  if (confirm) args.push('--confirm');
+  const r = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
+  if (!confirm) return 'dry';
+  if (r.status === 0) { it.yt = new Date().toISOString(); delete it.ytError; return 'ok'; }
+  it.ytAttempts = (it.ytAttempts || 0) + 1; it.ytError = 'exit ' + r.status + ' at ' + new Date().toISOString();
+  if (it.ytAttempts >= 3) { it.ytSkip = true; console.error('  YT: given up after 3 attempts - marked ytSkip.'); }
+  return 'fail';
+}
+// backfill: at most ONE missed upload per run
+const missedYT = ytEnabled() ? items.find((it) => it.posted && !it.yt && !it.ytSkip) : null;
+if (missedYT) {
+  console.log('YT backfill due: ' + missedYT.at);
+  console.log('  ' + missedYT.url);
+  const r = crossPostYT(missedYT);
+  if (r === 'ok' || r === 'fail') save();
+}
+
 const dueIndex = items.findIndex((it) => !it.posted && new Date(it.at) <= now);
 
 if (dueIndex === -1) {
@@ -110,9 +145,12 @@ const res = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
 if (!confirm) process.exit(0);
 
 if (res.status === 0) {
-  items[dueIndex] = {...item, posted: new Date().toISOString()};
-  writeFileSync(QUEUE, JSON.stringify(items, null, 2) + '\n');
+  item.posted = new Date().toISOString();
+  save();
   console.log('✔ Marked as posted in queue.json');
+  crossPostFB(item);          // same Reel to the Facebook Page
+  crossPostYT(item);          // and to YouTube Shorts
+  save();                     // record fb / yt results
 } else {
   console.error('✖ Publish failed — leaving the item in the queue to retry next run.');
   process.exit(1);
