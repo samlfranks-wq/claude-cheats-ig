@@ -4,56 +4,64 @@
     "note": "Downloads-folder reel - posts ~09:58 BST (hourly cron at :58)",
     "url": "https://files.catbox.moe/uwynyt.mp4",
     "caption": "I let Claude into my Downloads folder. It found 41 files called \"final\".\n\nNine of those were called \"final_FINAL\". One was \"final_real\". I have no defence.\n\nNine seconds later it was sorted into twelve folders with 1.4 GB of duplicates pulled out. No code involved — this is just Claude Code pointed at a normal folder, which is the part nobody tells you it can do.\n\nSix things to point it at that have nothing to do with programming, at the end. The other 44 are free — link in bio.\n\n#ai #aitools #claude #claudecode #productivity #aitips #tech #organisation #workflow #automation",
-    "posted": "2026-08-29T08:01:33.397Z"
+    "posted": "2026-08-29T08:01:33.397Z",
+    "fbSkip": true
   },
   {
     "at": "2026-08-30T08:00:00Z",
     "note": "UGC 'three prompts' solo distribution test - posts ~09:58 BST",
     "url": "https://files.catbox.moe/10foph.mp4",
     "caption": "Three prompts I use on basically everything.\n\n\"What's the dumbest thing here?\" — it will tell you, and it's usually right.\n\"What did you miss?\" — catches the thing it quietly skipped.\n\"Explain it like I'm new\" — turns a wall of jargon into something you can actually act on.\n\nNone of these are clever. That's the point. The other 47 are in the free pack — link in bio.\n\n#ai #aitools #chatgpt #aitips #productivity #promptengineering #tech #workflow #automation #learnai",
-    "posted": "2026-08-30T08:02:02.899Z"
+    "posted": "2026-08-30T08:02:02.899Z",
+    "fbSkip": true
   },
   {
     "at": "2026-08-31T08:00:00Z",
     "note": "Top 10 skills - breakdown + motion + logo spin-wipe",
     "url": "https://files.catbox.moe/jcte2h.mp4",
     "caption": "10 Claude skills that do the boring work for you.\n\nPDFs, Word docs, spreadsheets, slide decks, code review, security checks — install each one once and it's a slash command forever. Number 10 builds new skills for you, which feels like cheating.\n\nAll 10 plus 40 more in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #workflow #promptengineering",
-    "posted": "2026-08-31T08:01:41.945Z"
+    "posted": "2026-08-31T08:01:41.945Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-01T08:00:00Z",
     "note": "Office skills trio (pdf/docx/xlsx) - breakdown",
     "url": "https://files.catbox.moe/yh8wof.mp4",
     "caption": "Claude does the paperwork.\n\nThree skills, installed once: /pdf fills forms, /docx writes the Word doc, /xlsx builds the spreadsheet. You describe the job in a sentence and it opens, edits and saves the actual file.\n\n47 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #productivity #aitips #tech #office #automation #workflow #claudecode",
-    "posted": "2026-09-01T08:01:38.299Z"
+    "posted": "2026-09-01T08:01:38.299Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-02T08:00:00Z",
     "note": "Ship-safe code trio (review/security/simplify) - breakdown",
     "url": "https://files.catbox.moe/rbn0ih.mp4",
     "caption": "Ship code that survives Friday.\n\nThree checks before every release: /code-review finds the bugs, /security-review finds the holes, /simplify deletes the mess. One command each, and it reads the whole diff — not just the file you're staring at.\n\n47 more skills in the free pack — link in bio.\n\n#claudecode #claude #ai #coding #programming #developer #aitools #codereview #aitips #tech",
-    "posted": "2026-09-02T08:01:43.221Z"
+    "posted": "2026-09-02T08:01:43.221Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-03T08:00:00Z",
     "note": "Autopilot duo (schedule/loop) - breakdown",
     "url": "https://files.catbox.moe/cttcwj.mp4",
     "caption": "Claude works while you sleep.\n\n/schedule runs it on a timer — every morning, whether you're there or not. /loop repeats a job until it's actually done. Set it once and the daily chores stop being yours.\n\n48 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #automation #productivity #aitips #tech #workflow #claudecode #timemanagement",
-    "posted": "2026-09-03T08:01:26.430Z"
+    "posted": "2026-09-03T08:01:26.430Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-04T08:00:00Z",
     "note": "Skill-creator (build your own) - breakdown",
     "url": "https://files.catbox.moe/uyx8dm.mp4",
     "caption": "Build your own cheat.\n\n/skill-creator turns one sentence into a permanent tool: describe the job, it writes the skill, and from then on it's a command you can type in any project. The tool that makes tools.\n\nThe starter pack of 50 is free — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #buildinpublic #workflow",
-    "posted": "2026-09-04T08:01:24.342Z"
+    "posted": "2026-09-04T08:01:24.342Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-05T08:00:00Z",
     "note": "FCC free Claude Code setup - breakdown",
     "url": "https://files.catbox.moe/65w54d.mp4",
     "caption": "Claude Code, zero dollars.\n\nFCC is a local proxy: install it, add a free API key (NVIDIA and Gemini both have free tiers), and fcc-claude gives you the exact same terminal workflow routed through free models. Your paid account isn't touched — keep it for the hard problems and let the free tier eat the everyday work.\n\nFull step-by-step setup guide is free — link in bio.\n\n#claudecode #claude #ai #aitools #free #coding #developer #aitips #tech #productivity",
-    "posted": "2026-09-05T08:01:46.264Z"
+    "posted": "2026-09-05T08:01:46.264Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-07T08:00:00Z",

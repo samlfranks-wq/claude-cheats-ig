@@ -34,6 +34,51 @@ if (!existsSync(QUEUE)) fail(`No queue.json at ${QUEUE}. See the format in this 
 
 const items = JSON.parse(readFileSync(QUEUE, 'utf8'));
 const now = new Date();
+const confirm = process.argv.includes('--confirm');
+const save = () => writeFileSync(QUEUE, JSON.stringify(items, null, 2) + '\n');
+
+// --- Facebook cross-post (API route, OPT-IN) ---------------------------------
+// Primary route is Instagram's own "Automatically share to Facebook" toggle
+// (Sam, 2026-09-07: "you can crosspost from insta") — one post, both surfaces.
+// This API route is the fallback if that toggle does not cover API-published
+// Reels. It only runs when FB_CROSSPOST=1 is set (repo variable/secret or .env);
+// with the toggle on AND this on, every Reel would land on the Page TWICE.
+// When enabled: runs right after the IG publish, plus a backfill pass at the
+// top of every run for anything that missed. Items carry:
+//   fb: ISO time      -> cross-posted
+//   fbSkip: true      -> never cross-post (the pre-Sept-7 backlog)
+//   fbAttempts/fbError-> retried up to 3 times, then given up with fbSkip
+const fbEnabled = () => {
+  if (process.env.FB_CROSSPOST) return process.env.FB_CROSSPOST === '1';
+  if (!existsSync(join(HERE, '.env'))) return false;
+  return /^FB_CROSSPOST=1/m.test(readFileSync(join(HERE, '.env'), 'utf8'));
+};
+const fbCreds = () => {
+  if (process.env.FB_PAGE_ID && process.env.FB_PAGE_TOKEN) return true;
+  if (!existsSync(join(HERE, '.env'))) return false;
+  const env = readFileSync(join(HERE, '.env'), 'utf8');
+  return /^FB_PAGE_ID=\S+/m.test(env) && /^FB_PAGE_TOKEN=\S+/m.test(env);
+};
+function crossPostFB(it) {
+  if (!fbEnabled()) return 'off';
+  if (!fbCreds()) { console.log('  FB: no FB_PAGE_ID/FB_PAGE_TOKEN here — skipped (backfill will retry).'); return 'skipped'; }
+  const args = ['post-facebook.js', '--url', it.url, '--caption', it.caption ?? '', '--reel'];
+  if (confirm) args.push('--confirm');
+  const r = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
+  if (!confirm) return 'dry';
+  if (r.status === 0) { it.fb = new Date().toISOString(); delete it.fbError; return 'ok'; }
+  it.fbAttempts = (it.fbAttempts || 0) + 1; it.fbError = `exit ${r.status} at ${new Date().toISOString()}`;
+  if (it.fbAttempts >= 3) { it.fbSkip = true; console.error('  FB: given up after 3 attempts — marked fbSkip.'); }
+  return 'fail';
+}
+// backfill: at most ONE missed cross-post per run
+const missed = fbEnabled() ? items.find((it) => it.posted && !it.fb && !it.fbSkip) : null;
+if (missed) {
+  console.log(`FB backfill due: ${missed.at}\n  ${missed.url}`);
+  const r = crossPostFB(missed);
+  if (r === 'ok' || r === 'fail') save();
+}
+
 const dueIndex = items.findIndex((it) => !it.posted && new Date(it.at) <= now);
 
 if (dueIndex === -1) {
@@ -54,7 +99,6 @@ if (alreadyToday) {
 }
 
 const item = items[dueIndex];
-const confirm = process.argv.includes('--confirm');
 console.log(`Due: ${item.at}\n  ${item.url}`);
 
 const args = ['post-reel.js', '--url', item.url, '--caption', item.caption ?? ''];

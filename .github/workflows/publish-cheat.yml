@@ -45,6 +45,11 @@ jobs:
           GRAPH_VERSION: ${{ secrets.GRAPH_VERSION }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          # API cross-post to the Facebook Page. OFF by default: Instagram's own
+          # "Automatically share to Facebook" toggle is the primary route. Set the
+          # repo VARIABLE FB_CROSSPOST=1 (Settings -> Secrets and variables -> Variables)
+          # only if that toggle turns out not to cover API-published Reels.
+          FB_CROSSPOST: ${{ vars.FB_CROSSPOST }}
         run: |
           set -o pipefail
           node queue.js --confirm | tee run.log
