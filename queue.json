@@ -65,10 +65,11 @@
   },
   {
     "at": "2026-09-07T08:00:00Z",
-    "note": "Prompt Court v2 (handed off from claude.ai session) - 70s episodic, comment-GUILTY test - MUST be the only post that day",
+    "note": "Prompt Court v2 (handed off from claude.ai session) - 70s episodic, comment-GUILTY test - MUST be the only post that day - FB: shared by hand (fbSkip so the API backfill cannot duplicate it)",
     "url": "https://files.catbox.moe/xmru1q.mp4",
     "caption": "Five prompts you've 100% sent to Claude, ChatGPT or Gemini — and every one of them is guilty. \"Make it better.\" \"Write me a viral video.\" \"Do it again but good.\" The AI can't read your mind, so each case gets the fix that makes it work first time.\n\nComment GUILTY and I'll send you all five rewritten prompts to copy-paste. They're also in the free pack — link in bio.\n\n#claude #claudeai #chatgpt #aiprompts #promptengineering #aitips #aitools #promptcourt #productivityhacks #learnontiktok",
-    "posted": "2026-09-07T08:01:25.234Z"
+    "posted": "2026-09-07T08:01:25.234Z",
+    "fbSkip": true
   },
   {
     "at": "2026-09-08T08:00:00Z",
