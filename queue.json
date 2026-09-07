@@ -114,5 +114,12 @@
     "url": "https://files.catbox.moe/d467y1.mp4",
     "ytTitle": "Nine Claudes, One Job (Claude Code Subagents)",
     "caption": "One Claude reads one file at a time. That's the bottleneck.\n\nSubagents fix it. Each one gets its own context window and its own job, so nine can read nine things at once and you wait for one answer instead of nine. They hand back the finding, not the mess, so your main chat stays clean.\n\nGive them roles and it stops being nine clones and starts being a team: one researches, one reviews, one writes. Same subscription, nine times the reading.\n\n50 more like this in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #aiagents #productivity #developer #automation #aitips #tech"
+  },
+  {
+    "at": "2026-09-13T17:00:00Z",
+    "note": "CLAUDE RE-READS EVERYTHING - context/clear/compact, sack gag - solo day, EVENING slot",
+    "url": "https://files.catbox.moe/ntddk8.mp4",
+    "ytTitle": "Claude Re-Reads Your Whole Chat (Use /clear and /compact)",
+    "caption": "Every message you send, Claude re-reads the entire chat.\n\nMessage one is cheap. Message fifty drags all forty-nine along with it, which is why you run out at lunch instead of midnight. It isn't that you're asking too much — it's that you never put the bag down.\n\nTwo fixes. /clear starts a fresh context for a new task. /compact keeps a summary of what matters and drops the rest, so you can carry on without the weight.\n\nRule of thumb: new job, new chat.\n\n50 more like this in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #tech #developer #automation #chatgpt"
   }
 ]
