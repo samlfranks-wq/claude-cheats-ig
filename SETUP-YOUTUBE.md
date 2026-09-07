@@ -1,108 +1,88 @@
-# YouTube for @claude.cheats — the five manual steps
+# YouTube for @claude.cheats — what is left
 
-The code is done. One queue entry now fans out to Instagram, Facebook and YouTube
-Shorts. What is left needs a browser and your Google account, so it has to be you.
+Checked in Chrome on 2026-09-07. Most of the setup turned out to be unnecessary:
 
-Nothing uploads until these steps are finished: the runner prints
-`YT: no YouTube credentials here - skipped` and carries on posting to Instagram
-as normal, so the queue is never blocked by this.
+- **Google Cloud: nothing to do.** The `lore-drop-publisher` project already has a
+  Desktop OAuth client and its consent screen is **In production**, so refresh
+  tokens do not expire. One OAuth app can authorise many channels — the refresh
+  token is what binds it to one — so the Claude Cheats channel reuses it.
+- **`.env`: done.** `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_CATEGORY_ID=28`,
+  `YT_PRIVACY=public`, `YT_UPLOAD=1` are all filled in. The two credentials were
+  copied file-to-file from `yt-publisher/.env`; they never passed through a chat.
+
+Three things remain, and the first is the blocker.
 
 ---
 
-## 1. Create the channel
+## 1. Verify the Google account  (you — a few hours)
 
-youtube.com, signed in as the Google account that should own it →
-Settings → Channel → **Create a new channel**.
+YouTube will not create a new channel on this account until it is verified.
+The dialog is open in YouTube Studio; it offers three routes:
 
-Make it a **Brand Account** channel, not the personal one tied to your name. A
-Brand Account can be handed to another Google account later; a personal channel
-cannot. Name it **Claude Cheats** and set the handle to `@claudecheats` if it is
-free (the Instagram dot does not exist in YouTube handles).
+| Route | Time |
+|---|---|
+| Six-second video of yourself | fastest, minutes to a few hours for approval |
+| Photo of your ID | slower |
+| Build history as you grow | about two months of active use |
 
-Do NOT reuse the Lost Empires channel.
+Take the six-second video. Approval usually lands within a few hours.
 
-## 2. Get an OAuth client
+This is identity verification, so it is yours to do — Claude does not handle ID
+or biometric data.
 
-console.cloud.google.com → pick a project (the Lost Empires one is fine, or make
-a new one) → **APIs & Services**:
+## 2. Create the channel  (you — one minute, after step 1 clears)
 
-1. **Library** → enable **YouTube Data API v3**.
-2. **OAuth consent screen** → set publishing status to **In production**.
-   Leaving it in "Testing" expires the refresh token after 7 days and the
-   uploads silently stop.
-3. **Credentials** → Create credentials → **OAuth client ID** → type
-   **Desktop app**. Any name.
+youtube.com → Settings → Channel → **Create a channel**.
 
-Copy the client ID and secret.
+Make it a **Brand Account**, name it **Claude Cheats**, handle `@claudecheats`
+if free. Do not reuse Lost Empires or VisualAlchemy.
 
-## 3. Put them in .env
-
-Open `claude-cheats-publisher/.env` and fill in:
-
-    YT_CLIENT_ID=...
-    YT_CLIENT_SECRET=...
-    YT_CATEGORY_ID=28
-    YT_PRIVACY=public
-    YT_UPLOAD=1
-
-Never paste these into a chat window.
-
-## 4. Authorise, and pick the right channel
+## 3. Authorise and finish  (Claude, one command)
 
 ```bash
 node yt-auth.js
 ```
 
-A browser opens. **When Google asks which channel to authorise, choose Claude
-Cheats** — not Lost Empires, not your personal channel. Choosing wrong uploads
-this account's Shorts to the wrong place.
+A browser opens. **Pick the Claude Cheats channel** when Google asks which one to
+authorise, then Allow. The refresh token writes itself into `.env`.
 
-Then confirm what the token actually owns:
+Then:
 
 ```bash
 node post-youtube.js --check
 ```
 
-It prints the channel name, id and subscriber count. Copy the id into
-`YT_CHANNEL_ID=` in `.env`. From then on a wrong-channel token is refused
-instead of uploading to the wrong place.
+It prints the channel name and id. Put the id in `YT_CHANNEL_ID=` in `.env` so a
+wrong-channel token is refused rather than uploading to Lost Empires.
 
-## 5. Add the same values as GitHub secrets
+## 4. Four GitHub secrets  (you — pasting)
 
-The GitHub Actions runner does the scheduled posting and has no `.env`.
+The scheduled runner has no `.env`. Repo → Settings → Secrets and variables →
+Actions → Secrets:
 
-Repo → Settings → Secrets and variables → Actions → **Secrets**:
+`YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`, `YT_CHANNEL_ID` — all
+four copied from `.env`. Claude does not type credentials into forms, so this
+part is yours.
 
-| Secret | Value |
-|---|---|
-| `YT_CLIENT_ID` | from step 2 |
-| `YT_CLIENT_SECRET` | from step 2 |
-| `YT_REFRESH_TOKEN` | from `.env` after step 4 |
-| `YT_CHANNEL_ID` | from step 4 |
-
-While you are there, check `FB_PAGE_ID` and `FB_PAGE_TOKEN` are present too —
-the Facebook cross-post needs them in the runner, not just locally.
+While there, confirm `FB_PAGE_ID` and `FB_PAGE_TOKEN` exist too — the Facebook
+cross-post needs them in the runner, not just locally.
 
 ---
 
-## What happens then
+## What happens once it is live
 
-- Every queued Reel publishes to Instagram at 17:00Z, then goes straight to the
-  Facebook Page and up to YouTube as a Short.
-- The back catalogue backfills at one video per 15-minute run, so the channel
-  fills out over a couple of hours instead of arriving empty.
-- Each entry records `yt` on success, or `ytError` and a retry count on failure,
-  and gives up after three attempts with `ytSkip`.
-- `ytTitle` on a queue entry is the YouTube headline. Every current entry has
-  one. Without it the uploader derives a title from the caption and warns.
+Every queued Reel publishes to Instagram at 17:00Z, then goes straight to the
+Facebook Page and up to YouTube as a Short. The back catalogue backfills at one
+video per fifteen-minute run, so the channel fills out over roughly two hours
+instead of launching empty. Each entry records `yt` on success, or `ytError`
+with a retry count, giving up after three attempts with `ytSkip`.
 
-## Turning it off
-
-Set the repo variable `YT_UPLOAD=0` (or the same in `.env` locally).
+Until step 3 is done the runner logs `YT: no YouTube credentials here` and
+Instagram is completely unaffected.
 
 ## The known gotcha
 
-An unverified Google Cloud project force-locks every upload to **private**,
-whatever `YT_PRIVACY` says. If that happens the upload still worked — flip the
-videos to public in YouTube Studio, and complete the API compliance audit when
-you can be bothered, which removes the lock permanently.
+An unverified Cloud project force-locks uploads to **private** whatever
+`YT_PRIVACY` says. `lore-drop-publisher` has been uploading Lost Empires Shorts
+publicly for weeks, so this is unlikely to bite — but if the first Short lands
+private, that is the cause, and flipping it in YouTube Studio is the fix.
