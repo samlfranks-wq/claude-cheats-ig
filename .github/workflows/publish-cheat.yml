@@ -5,7 +5,12 @@ name: Publish one Cheat
 # that stops the same Reel going out twice.
 on:
   schedule:
-    - cron: '13,28,43,58 * * * *'  # every 15 min, offset from the other two repos
+  # Narrowed 2026-09-09. Running every 15 min around the clock was 8,670 runs a
+  # month across the three repos - past the Actions quota on private repos, and
+  # when that runs out GitHub silently stops scheduled workflows. One post a day
+  # only needs a window: 8 attempts over two hours still absorbs dropped ticks,
+  # and a missed day is picked up by the next window because the item stays due.
+    - cron: '3,18,33,48 17-18 * * *'   # posts 17:00Z
   workflow_dispatch:
 
 permissions:
