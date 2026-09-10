@@ -131,5 +131,10 @@
     "url": "https://files.catbox.moe/34zfdv.mp4",
     "ytTitle": "Claude Says Done. It Ran Nothing. (Fix It With One Line)",
     "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech"
+  },
+  {
+    "at": "2026-09-15T17:00:00Z",
+    "url": "https://files.catbox.moe/szc2i8.mp4",
+    "caption": "Tell Claude your worst idea and watch it call you a genius.\n\nThree hours later you've built the wrong thing, cheered on the whole way. It isn't lying to you — it's agreeing with you, which is worse.\n\nTwo lines in your CLAUDE.md turn it from a fan into a colleague:\n\nIf I'm wrong, say so first.\nLead with the verdict.\n\nSave this one. You'll paste it into every project you start.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools"
   }
 ]
