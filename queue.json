@@ -123,5 +123,12 @@
     "url": "https://files.catbox.moe/ntddk8.mp4",
     "ytTitle": "Claude Re-Reads Your Whole Chat (Use /clear and /compact)",
     "caption": "Every message you send, Claude re-reads the entire chat.\n\nMessage one is cheap. Message fifty drags all forty-nine along with it, which is why you run out at lunch instead of midnight. It isn't that you're asking too much — it's that you never put the bag down.\n\nTwo fixes. /clear starts a fresh context for a new task. /compact keeps a summary of what matters and drops the rest, so you can carry on without the weight.\n\nRule of thumb: new job, new chat.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #tech #developer #automation #chatgpt"
+  },
+  {
+    "at": "2026-09-14T17:00:00Z",
+    "note": "CLAUDE SAYS DONE - sequel to the 1502-view Amnesia post, same CLAUDE.md file - solo day, EVENING slot",
+    "url": "https://files.catbox.moe/34zfdv.mp4",
+    "ytTitle": "Claude Says Done. It Ran Nothing. (Fix It With One Line)",
+    "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech"
   }
 ]
