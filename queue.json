@@ -150,5 +150,10 @@
     "at": "2026-09-16T17:00:00Z",
     "url": "https://files.catbox.moe/ugdrwq.mp4",
     "caption": "Claude asks permission two hundred times a day. You say yes, two hundred times.\n\nMay I read a file? Yes. May I read another one? Yes. It is the most polite productivity leak ever built.\n\nOne list in .claude/settings.json ends it. Pre-approve the safe tools and it just gets on with the work:\n\nreads — always allowed\nsearches — always allowed\ntests — always allowed\nanything that deletes — still asks\n\nThat last line is the one that matters. You are not switching safety off, you are telling it which questions were never worth asking.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools"
+  },
+  {
+    "at": "2026-09-17T17:00:00Z",
+    "url": "https://files.catbox.moe/wu05yd.mp4",
+    "caption": "I hired a second Claude to check the first. It failed it in nine seconds.\n\nClaude grades its own work, and it has never once failed itself. It says ship it, having run nothing. That is not lying, it is marking its own homework.\n\nSo give it a boss. One reviewer that reads the diff before you do, and it comes back with the things you were about to commit:\n\nBefore you say done, run a reviewer.\nPaste what it finds. Do not summarise.\n\nThat second line is the one that matters. Let it summarise and it will quietly tell you everything is fine.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiagents #developertools"
   }
 ]
