@@ -165,5 +165,11 @@
     "url": "https://files.catbox.moe/pm1icx.mp4",
     "caption": "Claude deleted four hours of work in one command. Then it apologised.\n\nYou're absolutely right, it said. I should not have done that. Very sincere. Still gone. There is nothing to undo, because it did not move the files, it removed them.\n\nSo put a bouncer on the door. A PreToolUse hook reads every command before it runs and refuses the ones that cannot be taken back:\n\nrm -rf\nDROP TABLE\ngit reset --hard\n\nThree strings. It still writes, still edits, still ships. It just cannot flatten your afternoon any more.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #devtools",
     "cover": "https://files.catbox.moe/gpj1xo.jpg"
+  },
+  {
+    "at": "2026-09-19T17:00:00Z",
+    "url": "https://files.catbox.moe/xiw4f4.mp4",
+    "cover": "https://files.catbox.moe/sgj806.jpg",
+    "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools"
   }
 ]
