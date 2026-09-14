@@ -105,8 +105,23 @@ function crossPostYT(it) {
   if (it.ytAttempts >= 3) { it.ytSkip = true; console.error('  YT: given up after 3 attempts - marked ytSkip.'); }
   return 'fail';
 }
-// backfill: at most ONE missed upload per run
-const missedYT = ytEnabled() ? items.find((it) => it.posted && !it.yt && !it.ytSkip) : null;
+const today = new Date().toISOString().slice(0, 10);
+// Backfill: at most one missed upload per run AND at most one per DAY.
+//
+// The per-day guard is not optional. This block runs on every invocation, and
+// the schedule fires 18 times a day - without it Actions would attempt 18
+// YouTube uploads daily. The YouTube Data API allows 10,000 quota units a day
+// and an upload costs 1,600, so everything past the sixth attempt 403s, and
+// three failures on an item set ytSkip and abandon it permanently.
+const ytToday = items.some((it) => it.yt && it.yt.slice(0, 10) === today);
+//
+// Order: ytPriority first (lowest number wins), then oldest. The channel opens
+// at zero subscribers, so the first uploads should be the reels that actually
+// performed on Instagram rather than whatever happens to be oldest.
+const ytCandidates = items
+  .filter((it) => it.posted && !it.yt && !it.ytSkip)
+  .sort((a, b) => (a.ytPriority ?? 99) - (b.ytPriority ?? 99) || a.at.localeCompare(b.at));
+const missedYT = (ytEnabled() && !ytToday) ? ytCandidates[0] : null;
 if (missedYT) {
   console.log('YT backfill due: ' + missedYT.at);
   console.log('  ' + missedYT.url);
@@ -126,7 +141,6 @@ if (dueIndex === -1) {
 // cost 30x reach (posts 3 and 4 got 4 and 6 views against 179 for post 2).
 // Without this, a missed day would drain the backlog at one per HOUR, because
 // the runner fires hourly and only ever checks "is this item due yet".
-const today = new Date().toISOString().slice(0, 10);
 const alreadyToday = items.find((it) => it.posted && it.posted.slice(0, 10) === today);
 if (alreadyToday) {
   console.log(`Already posted today (${alreadyToday.at}). One per day — stopping.`);
