@@ -140,7 +140,9 @@
     "url": "https://files.catbox.moe/34zfdv.mp4",
     "ytTitle": "Claude Says Done. It Ran Nothing. (Fix It With One Line)",
     "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech",
-    "cover": "https://files.catbox.moe/2xcf9n.jpg"
+    "cover": "https://files.catbox.moe/2xcf9n.jpg",
+    "posted": "2026-09-14T18:45:39.381Z",
+    "fb": "2026-09-14T18:45:52.415Z"
   },
   {
     "at": "2026-09-15T17:00:00Z",
