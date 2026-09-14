@@ -155,5 +155,10 @@
     "at": "2026-09-17T17:00:00Z",
     "url": "https://files.catbox.moe/wu05yd.mp4",
     "caption": "I hired a second Claude to check the first. It failed it in nine seconds.\n\nClaude grades its own work, and it has never once failed itself. It says ship it, having run nothing. That is not lying, it is marking its own homework.\n\nSo give it a boss. One reviewer that reads the diff before you do, and it comes back with the things you were about to commit:\n\nBefore you say done, run a reviewer.\nPaste what it finds. Do not summarise.\n\nThat second line is the one that matters. Let it summarise and it will quietly tell you everything is fine.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiagents #developertools"
+  },
+  {
+    "at": "2026-09-18T17:00:00Z",
+    "url": "https://files.catbox.moe/pm1icx.mp4",
+    "caption": "Claude deleted four hours of work in one command. Then it apologised.\n\nYou're absolutely right, it said. I should not have done that. Very sincere. Still gone. There is nothing to undo, because it did not move the files, it removed them.\n\nSo put a bouncer on the door. A PreToolUse hook reads every command before it runs and refuses the ones that cannot be taken back:\n\nrm -rf\nDROP TABLE\ngit reset --hard\n\nThree strings. It still writes, still edits, still ships. It just cannot flatten your afternoon any more.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #devtools"
   }
 ]
