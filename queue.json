@@ -178,5 +178,11 @@
     "url": "https://files.catbox.moe/xiw4f4.mp4",
     "cover": "https://files.catbox.moe/sgj806.jpg",
     "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools"
+  },
+  {
+    "at": "2026-09-20T17:00:00Z",
+    "url": "https://files.catbox.moe/bgarnf.mp4",
+    "cover": "https://files.catbox.moe/errab4.jpg",
+    "caption": "You asked for one bug fix. It rewrote forty files in nine seconds.\n\nThis week Anthropic's own CEO published a piece arguing AI should slow down. Yours didn't get the memo. The bug is gone. So is the login page.\n\nIt does not need more power. It needs a brake:\n\nShift + Tab, twice.\n\nThat is plan mode. It reads your code without touching it, writes you a plan, and waits. You approve, then it moves. One file instead of forty.\n\nSame cape. New emblem.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #aiagents"
   }
 ]
