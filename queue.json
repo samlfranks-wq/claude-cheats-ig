@@ -96,7 +96,8 @@
     "caption": "Claude has amnesia. Every new chat, it forgets who you are, what the project is, and the 47 times you explained the buttons.\n\nOne command fixes it: /init writes Claude a memory file (CLAUDE.md). Three lines in that file and it never asks again. Works for every project you'll ever open.\n\n50 cheats like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #memory #tech #chatgpt #automation",
     "ytTitle": "Claude Forgets Everything. One Command Fixes It.",
     "posted": "2026-09-09T17:01:34.096Z",
-    "fb": "2026-09-12T18:59:48.287Z"
+    "fb": "2026-09-12T18:59:48.287Z",
+    "ytPriority": 2
   },
   {
     "at": "2026-09-10T17:00:00Z",
@@ -105,7 +106,8 @@
     "caption": "I gave Claude my Instagram. It's been posting for me since.\n\nClaude can't touch your accounts on its own — it has no hands. Connect Canva for the designs and Buffer or Zapier for the posting, tell it once (\"post my Tuesday reel at 9, every week\") and it designs, captions and schedules on its own. I got my evenings back.\n\nSetup takes ten minutes. The full walkthrough is in the pack — link in bio.\n\n#smallbusiness #contentcreator #socialmediatips #aiforbusiness #solopreneur #claude #aitools #productivity #marketingtips #automation",
     "ytTitle": "I Gave Claude My Instagram (It Posts While I Sleep)",
     "posted": "2026-09-10T17:01:48.196Z",
-    "fb": "2026-09-13T19:13:15.327Z"
+    "fb": "2026-09-13T19:13:15.327Z",
+    "ytPriority": 3
   },
   {
     "at": "2026-09-11T17:00:00Z",
@@ -123,7 +125,9 @@
     "ytTitle": "Nine Claudes, One Job (Claude Code Subagents)",
     "caption": "One Claude reads one file at a time. That's the bottleneck.\n\nSubagents fix it. Each one gets its own context window and its own job, so nine can read nine things at once and you wait for one answer instead of nine. They hand back the finding, not the mess, so your main chat stays clean.\n\nGive them roles and it stops being nine clones and starts being a team: one researches, one reviews, one writes. Same subscription, nine times the reading.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aiagents #productivity #developer #automation #aitips #tech",
     "posted": "2026-09-12T19:00:29.452Z",
-    "fb": "2026-09-12T19:00:44.580Z"
+    "fb": "2026-09-12T19:00:44.580Z",
+    "ytPriority": 1,
+    "yt": "2026-09-14T19:06:38.592Z"
   },
   {
     "at": "2026-09-13T17:00:00Z",
@@ -142,7 +146,8 @@
     "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech",
     "cover": "https://files.catbox.moe/2xcf9n.jpg",
     "posted": "2026-09-14T18:45:39.381Z",
-    "fb": "2026-09-14T18:45:52.415Z"
+    "fb": "2026-09-14T18:45:52.415Z",
+    "ytPriority": 4
   },
   {
     "at": "2026-09-15T17:00:00Z",
