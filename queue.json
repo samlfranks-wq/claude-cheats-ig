@@ -218,5 +218,11 @@
   "url": "https://files.catbox.moe/pchu58.mp4",
   "cover": "https://files.catbox.moe/1j52sn.jpg",
   "caption": "Claude hit the wall. And forgot every fucking thing.\n\nWhen Claude Code's context fills up it compacts: your whole session gets crushed into one paragraph, and then it asks you what the project is. Again.\n\nContinuous Claude is a GitHub repo that fixes exactly that. A hook writes a handoff BEFORE compaction, so the next session picks it up mid-stride instead of starting from the blocks.\n\ngithub.com/parcadei/Continuous-Claude-v3  (3.9k stars)\n\ngit clone it, cd opc, run the setup wizard. Then say \"done for today\" and it writes the baton; say \"resume where we left off\" and the next session grabs it. 109 skills, 32 agents, 30 hooks, and it stops re-reading your whole files.\n\nCompound, don't compact.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github"
+ },
+ {
+  "at": "2026-09-24T17:00:00Z",
+  "url": "https://files.catbox.moe/88ve2s.mp4",
+  "cover": "https://files.catbox.moe/5vyb2l.jpg",
+  "caption": "Claude just spent forty quid reading node_modules. Fucking node_modules.\n\nYou have no idea what Claude Code costs you, because nothing shows you. Then the five-hour window slams shut mid-task and you find out the hard way.\n\nccusage is one command that reads your local logs and prints the bill. No API key, nothing leaves your machine.\n\ngithub.com/ccusage/ccusage  (18.6k stars)\n\nnpx ccusage@latest       daily, weekly, monthly, per-session cost\nccusage blocks --live    the 5-hour billing window, counting down\nccusage statusline       the same numbers in your Claude Code status bar\n\nThe costs are API-rate estimates, so on a subscription treat them as \"what this would have cost\" rather than an invoice. Still the fastest way to catch the session that read your whole repo four times.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github"
  }
 ]
