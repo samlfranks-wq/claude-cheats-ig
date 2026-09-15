@@ -64,6 +64,7 @@ function crossPostFB(it) {
   if (!fbEnabled()) return 'off';
   if (!fbCreds()) { console.log('  FB: no FB_PAGE_ID/FB_PAGE_TOKEN here — skipped (backfill will retry).'); return 'skipped'; }
   const args = ['post-facebook.js', '--url', it.url, '--caption', it.caption ?? '', '--reel'];
+  if (it.cover) args.push('--cover', it.cover);
   if (confirm) args.push('--confirm');
   const r = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
   if (!confirm) return 'dry';
@@ -96,7 +97,11 @@ function crossPostYT(it) {
   if (!ytConfigured()) { console.log('  YT: no YouTube credentials here - skipped (backfill will retry).'); return 'skipped'; }
   const args = ['post-youtube.js', '--url', it.url, '--caption', it.caption ?? ''];
   if (it.ytTitle) args.push('--title', it.ytTitle);
-  if (it.ytCover) args.push('--cover', it.ytCover);
+  // ytCover exists so YouTube CAN take a different thumbnail from Instagram,
+  // but no queue entry has ever set it - so every Short went up with a frame
+  // YouTube picked. Fall back to the plate we already made for the Reel.
+  const ytThumb = it.ytCover || it.cover;
+  if (ytThumb) args.push('--cover', ytThumb);
   if (confirm) args.push('--confirm');
   const r = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
   if (!confirm) return 'dry';

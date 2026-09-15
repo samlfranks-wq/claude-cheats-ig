@@ -49,6 +49,20 @@ if (!PAGE_ID || !PAGE_TOKEN) {
   );
 }
 
+// Like fb(), but returns the error instead of aborting. The Reel is already
+// live by the time we try the cover, so a rejected thumbnail must never mark
+// the whole cross-post as failed.
+async function fbTry(path, {method = 'GET', params = {}} = {}) {
+  const u = new URL(`https://graph.facebook.com/${V}/${path}`);
+  const body = new URLSearchParams({...params, access_token: PAGE_TOKEN});
+  try {
+    const res = method === 'GET' ? await fetch(`${u}?${body}`) : await fetch(u, {method, body});
+    return await res.json();
+  } catch (e) {
+    return {error: {message: e.message, code: 'network'}};
+  }
+}
+
 async function fb(path, {method = 'GET', params = {}} = {}) {
   const u = new URL(`https://graph.facebook.com/${V}/${path}`);
   const body = new URLSearchParams({...params, access_token: PAGE_TOKEN});
@@ -109,6 +123,7 @@ if (argv.includes('--check')) {
 
 const url = arg('url');
 const captionFile = arg('caption-file');
+const cover = arg('cover');
 const caption = captionFile ? readFileSync(captionFile, 'utf8').trim() : (arg('caption') || '');
 
 if (!url) fail('Missing --url (a public https URL Facebook can fetch).');
@@ -144,6 +159,13 @@ if (asReel) {
     params: {upload_phase: 'finish', video_id: start.video_id, video_state: 'PUBLISHED', description: caption},
   });
   console.log(`\n✔ PUBLISHED as Facebook Reel — ${fin.post_id || start.video_id}\n`);
+
+  if (cover) {
+    const t = await fbTry(`${start.video_id}/thumbnails`, {
+      method: 'POST', params: {video_thumbnail_url: cover, is_preferred: 'true'},
+    });
+    console.log(t.error ? `  cover: not applied — ${t.error.message}` : '  cover: applied');
+  }
 } else {
   const r = await fb(`${PAGE_ID}/videos`, {method: 'POST', params: {file_url: url, description: caption}});
   console.log(`\n✔ PUBLISHED as Page video — ${r.id}\n`);
