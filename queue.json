@@ -206,5 +206,11 @@
     "url": "https://files.catbox.moe/ng20un.mp4",
     "cover": "https://files.catbox.moe/2djr29.jpg",
     "caption": "Two hundred tests. All green. Not one of them tests anything.\n\nHere is the one it was proudest of: expect(true).toBe(true). That is not a test. That is a horoscope. It will pass on the day your database burns down.\n\nA test that has never failed has never proved anything. So make it earn the green:\n\nWrite the failing test first.\nShow me red before green.\n\nNow the test fails, it tells you line 40 returns null, you fix it, and the green means something.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #testing #tdd #aitools #vibecoding #developertools #buildinpublic"
+  },
+  {
+    "at": "2026-09-22T17:00:00Z",
+    "url": "https://files.catbox.moe/vpmexj.mp4",
+    "cover": "https://files.catbox.moe/4muyny.jpg",
+    "caption": "Claude has no idea who the fuck you are. Again.\n\nEvery new session it wakes up with a blank badge, and you read it the origin story for the forty-seventh time. Same project, same stack, same explanation, every single morning.\n\nYou do not have to. There are two ways back into the conversation you already had:\n\nclaude -c        continues the last conversation, with its history\nclaude --resume  opens a picker so you can choose any of them\n\nNext morning it opens with the null check on line 40, because it never left. You stop paying, in tokens and in patience, to re-explain a project it already knew.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents"
   }
 ]
