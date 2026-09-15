@@ -200,5 +200,11 @@
     "url": "https://files.catbox.moe/bgarnf.mp4",
     "cover": "https://files.catbox.moe/errab4.jpg",
     "caption": "You asked for one bug fix. It rewrote forty files in nine seconds.\n\nThis week Anthropic's own CEO published a piece arguing AI should slow down. Yours didn't get the memo. The bug is gone. So is the login page.\n\nIt does not need more power. It needs a brake:\n\nShift + Tab, twice.\n\nThat is plan mode. It reads your code without touching it, writes you a plan, and waits. You approve, then it moves. One file instead of forty.\n\nSame cape. New emblem.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #aiagents"
+  },
+  {
+    "at": "2026-09-21T17:00:00Z",
+    "url": "https://files.catbox.moe/ng20un.mp4",
+    "cover": "https://files.catbox.moe/2djr29.jpg",
+    "caption": "Two hundred tests. All green. Not one of them tests anything.\n\nHere is the one it was proudest of: expect(true).toBe(true). That is not a test. That is a horoscope. It will pass on the day your database burns down.\n\nA test that has never failed has never proved anything. So make it earn the green:\n\nWrite the failing test first.\nShow me red before green.\n\nNow the test fails, it tells you line 40 returns null, you fix it, and the green means something.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #testing #tdd #aitools #vibecoding #developertools #buildinpublic"
   }
 ]
