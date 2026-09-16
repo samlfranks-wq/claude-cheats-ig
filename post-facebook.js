@@ -63,6 +63,31 @@ async function fbTry(path, {method = 'GET', params = {}} = {}) {
   }
 }
 
+// Set a custom cover on a published video/Reel.
+//
+// The /{video-id}/thumbnails edge does NOT take a URL: passing
+// video_thumbnail_url comes back as "(#100) The parameter source is required".
+// It wants the image BYTES as a multipart file field called `source`, so the
+// cover has to be fetched here and forwarded. Non-fatal by design — the Reel
+// is already live by the time this runs, so a rejected cover is a log line.
+async function setCover(videoId, coverUrl) {
+  try {
+    const img = await fetch(coverUrl);
+    if (!img.ok) return {error: {message: `cover fetch ${img.status}`}};
+    const type = img.headers.get('content-type') || 'image/jpeg';
+    const buf = Buffer.from(await img.arrayBuffer());
+    const form = new FormData();
+    form.append('access_token', PAGE_TOKEN);
+    form.append('is_preferred', 'true');
+    form.append('source', new Blob([buf], {type}), 'cover.jpg');
+    const res = await fetch(`https://graph.facebook.com/${V}/${videoId}/thumbnails`,
+                            {method: 'POST', body: form});
+    return await res.json();
+  } catch (e) {
+    return {error: {message: e.message, code: 'network'}};
+  }
+}
+
 async function fb(path, {method = 'GET', params = {}} = {}) {
   const u = new URL(`https://graph.facebook.com/${V}/${path}`);
   const body = new URLSearchParams({...params, access_token: PAGE_TOKEN});
@@ -161,9 +186,7 @@ if (asReel) {
   console.log(`\n✔ PUBLISHED as Facebook Reel — ${fin.post_id || start.video_id}\n`);
 
   if (cover) {
-    const t = await fbTry(`${start.video_id}/thumbnails`, {
-      method: 'POST', params: {video_thumbnail_url: cover, is_preferred: 'true'},
-    });
+    const t = await setCover(start.video_id, cover);
     console.log(t.error ? `  cover: not applied — ${t.error.message}` : '  cover: applied');
   }
 } else {
