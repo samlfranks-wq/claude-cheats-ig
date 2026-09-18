@@ -88,7 +88,8 @@
     "posted": "2026-09-07T08:01:25.234Z",
     "fbSkip": true,
     "ytTitle": "Prompt Court: 5 Prompts You've Definitely Sent (All Guilty)",
-    "ytPriority": 5
+    "ytPriority": 5,
+    "yt": "2026-09-18T17:32:36.771Z"
   },
   {
     "at": "2026-09-08T17:00:00Z",
@@ -195,7 +196,10 @@
     "at": "2026-09-18T17:00:00Z",
     "url": "https://files.catbox.moe/05cg91.mp4",
     "caption": "Claude deleted four hours of work in one command. Then it apologised.\n\nYou're absolutely right, it said. I should not have done that. Very sincere. Still gone. There is nothing to undo, because it did not move the files, it removed them.\n\nSo put a bouncer on the door. A PreToolUse hook reads every command before it runs and refuses the ones that cannot be taken back:\n\nrm -rf\nDROP TABLE\ngit reset --hard\n\nThree strings. It still writes, still edits, still ships. It just cannot flatten your afternoon any more.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #devtools",
-    "cover": "https://files.catbox.moe/gpj1xo.jpg"
+    "cover": "https://files.catbox.moe/gpj1xo.jpg",
+    "posted": "2026-09-18T17:33:07.415Z",
+    "fb": "2026-09-18T17:33:17.156Z",
+    "yt": "2026-09-18T17:33:21.272Z"
   },
   {
     "at": "2026-09-19T17:00:00Z",
