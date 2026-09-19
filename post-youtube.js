@@ -13,6 +13,32 @@ const argv = process.argv.slice(2);
 const arg = (n) => { const i = argv.indexOf(`--${n}`); return i === -1 ? null : argv[i + 1]; };
 const confirm = argv.includes('--confirm');
 
+// Ask YouTube which channel this token owns, retrying only the failures that
+// mean "we could not ask". A clean HTTP 200 whose items[] is empty is a real
+// answer and is returned as-is, so the caller still refuses to upload.
+async function confirmChannel(token, tries = 4) {
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fetch(
+        'https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true',
+        {headers: {Authorization: `Bearer ${token}`}});
+      if (res.ok) {
+        const who = await res.json();
+        return who.items?.[0] ?? null;          // 200 with no channel = real answer
+      }
+      if (res.status < 500 && res.status !== 429) {
+        console.log(`  channel check: HTTP ${res.status} — not retryable`);
+        return null;
+      }
+      console.log(`  channel check: HTTP ${res.status}, retry ${i + 1}/${tries - 1}`);
+    } catch (e) {
+      console.log(`  channel check: ${e.message}, retry ${i + 1}/${tries - 1}`);
+    }
+    if (i < tries - 1) await new Promise((r) => setTimeout(r, 2000 * 2 ** i));
+  }
+  return null;
+}
+
 async function main() {
   const env = loadYtEnv(['YT_CLIENT_ID', 'YT_CLIENT_SECRET', 'YT_REFRESH_TOKEN']);
 
@@ -59,10 +85,14 @@ async function main() {
   }
 
   // Identity guard: never upload before confirming which channel the token owns.
+  //
+  // This used to be one unretried call, so a transient blip on channels.list —
+  // a 5xx, a rate limit, a dropped connection — read exactly like "wrong
+  // channel" and aborted the upload. That cost the 19 Sept Short, which had to
+  // go up by hand. The guard still refuses on a real answer it does not like;
+  // it just no longer treats "could not ask" as "answered wrong".
   const token = await getAccessToken(env);
-  const who = await fetch('https://www.googleapis.com/youtube/v3/channels?part=snippet&mine=true',
-    {headers: {Authorization: `Bearer ${token}`}}).then((r) => r.json()).catch(() => ({}));
-  const ch = who.items?.[0];
+  const ch = await confirmChannel(token);
   if (!ch) fail('Could not confirm the channel this token owns — refusing to upload.');
   if (env.YT_CHANNEL_ID && env.YT_CHANNEL_ID !== ch.id) {
     fail(`REFUSING TO UPLOAD — token authorises "${ch.snippet.title}" (${ch.id}),\n` +
