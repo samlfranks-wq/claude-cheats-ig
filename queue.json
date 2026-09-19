@@ -131,7 +131,8 @@
     "caption": "Your AI writing has a tell, and everyone can spot it now.\n\n\"In today's fast-paced landscape.\" \"Delve.\" \"A rich tapestry.\" \"A testament to.\" And the em-dashes — so many em-dashes. It reads like a press release wrote it, because something did.\n\nThe fix is one line at the end of your prompt: \"write how I talk, not how AI talks\" — then paste two things you've actually written. It copies your voice instead of the internet's average voice.\n\n50 more like this in the pack — link in bio.\n\n#contentcreator #copywriting #aiwriting #socialmediatips #smallbusiness #linkedintips #claude #aitools #marketingtips #solopreneur",
     "posted": "2026-09-11T19:22:12.391Z",
     "fb": "2026-09-11T19:22:21.696Z",
-    "ytPriority": 6
+    "ytPriority": 6,
+    "yt": "2026-09-19T17:01:47.371Z"
   },
   {
     "at": "2026-09-12T17:00:00Z",
@@ -205,7 +206,11 @@
     "at": "2026-09-19T17:00:00Z",
     "url": "https://files.catbox.moe/o9ui9z.mp4",
     "cover": "https://files.catbox.moe/sgj806.jpg",
-    "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools"
+    "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools",
+    "posted": "2026-09-19T17:02:43.559Z",
+    "fb": "2026-09-19T17:03:56.132Z",
+    "ytAttempts": 1,
+    "ytError": "exit 1 at 2026-09-19T17:03:56.425Z"
   },
   {
     "at": "2026-09-20T17:00:00Z",
