@@ -1,245 +1,250 @@
 [
-  {
-    "at": "2026-08-29T08:00:00Z",
-    "note": "Downloads-folder reel - posts ~09:58 BST (hourly cron at :58)",
-    "url": "https://files.catbox.moe/uwynyt.mp4",
-    "caption": "I let Claude into my Downloads folder. It found 41 files called \"final\".\n\nNine of those were called \"final_FINAL\". One was \"final_real\". I have no defence.\n\nNine seconds later it was sorted into twelve folders with 1.4 GB of duplicates pulled out. No code involved — this is just Claude Code pointed at a normal folder, which is the part nobody tells you it can do.\n\nSix things to point it at that have nothing to do with programming, at the end. The other 44 are free — link in bio.\n\n#ai #aitools #claude #claudecode #productivity #aitips #tech #organisation #workflow #automation",
-    "posted": "2026-08-29T08:01:33.397Z",
-    "fbSkip": true,
-    "ytTitle": "I Let Claude Into My Downloads Folder (41 Files Called Final)",
-    "ytPriority": 90
-  },
-  {
-    "at": "2026-08-30T08:00:00Z",
-    "note": "UGC 'three prompts' solo distribution test - posts ~09:58 BST",
-    "url": "https://files.catbox.moe/10foph.mp4",
-    "caption": "Three prompts I use on basically everything.\n\n\"What's the dumbest thing here?\" — it will tell you, and it's usually right.\n\"What did you miss?\" — catches the thing it quietly skipped.\n\"Explain it like I'm new\" — turns a wall of jargon into something you can actually act on.\n\nNone of these are clever. That's the point. The other 47 are in the free pack — link in bio.\n\n#ai #aitools #chatgpt #aitips #productivity #promptengineering #tech #workflow #automation #learnai",
-    "posted": "2026-08-30T08:02:02.899Z",
-    "fbSkip": true,
-    "ytTitle": "3 AI Prompts I Use On Basically Everything",
-    "ytPriority": 14
-  },
-  {
-    "at": "2026-08-31T08:00:00Z",
-    "note": "Top 10 skills - breakdown + motion + logo spin-wipe",
-    "url": "https://files.catbox.moe/jcte2h.mp4",
-    "caption": "10 Claude skills that do the boring work for you.\n\nPDFs, Word docs, spreadsheets, slide decks, code review, security checks — install each one once and it's a slash command forever. Number 10 builds new skills for you, which feels like cheating.\n\nAll 10 plus 40 more in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #workflow #promptengineering",
-    "posted": "2026-08-31T08:01:41.945Z",
-    "fbSkip": true,
-    "ytTitle": "10 Claude Skills That Do The Boring Work For You",
-    "ytPriority": 3,
-    "yt": "2026-09-16T19:58:27.586Z"
-  },
-  {
-    "at": "2026-09-01T08:00:00Z",
-    "note": "Office skills trio (pdf/docx/xlsx) - breakdown",
-    "url": "https://files.catbox.moe/yh8wof.mp4",
-    "caption": "Claude does the paperwork.\n\nThree skills, installed once: /pdf fills forms, /docx writes the Word doc, /xlsx builds the spreadsheet. You describe the job in a sentence and it opens, edits and saves the actual file.\n\n47 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #productivity #aitips #tech #office #automation #workflow #claudecode",
-    "posted": "2026-09-01T08:01:38.299Z",
-    "fbSkip": true,
-    "ytTitle": "Claude Does The Paperwork: PDFs, Word Docs, Spreadsheets",
-    "ytPriority": 8
-  },
-  {
-    "at": "2026-09-02T08:00:00Z",
-    "note": "Ship-safe code trio (review/security/simplify) - breakdown",
-    "url": "https://files.catbox.moe/rbn0ih.mp4",
-    "caption": "Ship code that survives Friday.\n\nThree checks before every release: /code-review finds the bugs, /security-review finds the holes, /simplify deletes the mess. One command each, and it reads the whole diff — not just the file you're staring at.\n\n47 more skills in the free pack — link in bio.\n\n#claudecode #claude #ai #coding #programming #developer #aitools #codereview #aitips #tech",
-    "posted": "2026-09-02T08:01:43.221Z",
-    "fbSkip": true,
-    "ytTitle": "3 Claude Commands To Run Before Every Release",
-    "ytPriority": 11
-  },
-  {
-    "at": "2026-09-03T08:00:00Z",
-    "note": "Autopilot duo (schedule/loop) - breakdown",
-    "url": "https://files.catbox.moe/cttcwj.mp4",
-    "caption": "Claude works while you sleep.\n\n/schedule runs it on a timer — every morning, whether you're there or not. /loop repeats a job until it's actually done. Set it once and the daily chores stop being yours.\n\n48 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #automation #productivity #aitips #tech #workflow #claudecode #timemanagement",
-    "posted": "2026-09-03T08:01:26.430Z",
-    "fbSkip": true,
-    "ytTitle": "Make Claude Work While You Sleep",
-    "ytPriority": 13
-  },
-  {
-    "at": "2026-09-04T08:00:00Z",
-    "note": "Skill-creator (build your own) - breakdown",
-    "url": "https://files.catbox.moe/uyx8dm.mp4",
-    "caption": "Build your own cheat.\n\n/skill-creator turns one sentence into a permanent tool: describe the job, it writes the skill, and from then on it's a command you can type in any project. The tool that makes tools.\n\nThe starter pack of 50 is free — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #buildinpublic #workflow",
-    "posted": "2026-09-04T08:01:24.342Z",
-    "fbSkip": true,
-    "ytTitle": "Build Your Own Claude Skill In One Sentence",
-    "ytPriority": 9
-  },
-  {
-    "at": "2026-09-05T08:00:00Z",
-    "note": "FCC free Claude Code setup - breakdown",
-    "url": "https://files.catbox.moe/65w54d.mp4",
-    "caption": "Claude Code, zero dollars.\n\nFCC is a local proxy: install it, add a free API key (NVIDIA and Gemini both have free tiers), and fcc-claude gives you the exact same terminal workflow routed through free models. Your paid account isn't touched — keep it for the hard problems and let the free tier eat the everyday work.\n\nFull step-by-step setup guide is free — link in bio.\n\n#claudecode #claude #ai #aitools #free #coding #developer #aitips #tech #productivity",
-    "posted": "2026-09-05T08:01:46.264Z",
-    "fbSkip": true,
-    "ytTitle": "Run Claude Code For Free (Full FCC Setup)",
-    "ytPriority": 10
-  },
-  {
-    "at": "2026-09-07T08:00:00Z",
-    "note": "Prompt Court v2 (handed off from claude.ai session) - 70s episodic, comment-GUILTY test - MUST be the only post that day - FB: shared by hand (fbSkip so the API backfill cannot duplicate it)",
-    "url": "https://files.catbox.moe/xmru1q.mp4",
-    "caption": "Five prompts you've 100% sent to Claude, ChatGPT or Gemini — and every one of them is guilty. \"Make it better.\" \"Write me a viral video.\" \"Do it again but good.\" The AI can't read your mind, so each case gets the fix that makes it work first time.\n\nComment GUILTY and I'll send you all five rewritten prompts to copy-paste. They're also in the free pack — link in bio.\n\n#claude #claudeai #chatgpt #aiprompts #promptengineering #aitips #aitools #promptcourt #productivityhacks #learnontiktok",
-    "posted": "2026-09-07T08:01:25.234Z",
-    "fbSkip": true,
-    "ytTitle": "Prompt Court: 5 Prompts You've Definitely Sent (All Guilty)",
-    "ytPriority": 5,
-    "yt": "2026-09-18T17:32:36.771Z"
-  },
-  {
-    "at": "2026-09-08T17:00:00Z",
-    "note": "DROP-01 'biggest model, worst prompt' - terminal comedy x feature-news, render-drop.mjs - solo day, EVENING slot 18:00 BST",
-    "url": "https://files.catbox.moe/f3hy79.mp4",
-    "caption": "Claude just dropped its biggest model ever. So I gave it my worst prompt.\n\n\"Make it better.\" It asked me better how. I shouted. It said \"biggest, not psychic\" — and it was right. One adjective later the same model nailed it first try: shorter, 120 words, end on a question.\n\nFive words that fix any prompt at the end. 45 more in the free pack — link in bio.\n\n#claude #claudeai #ai #aitools #aiprompts #promptengineering #aitips #productivity #tech #chatgpt",
-    "ytTitle": "Claude's Biggest Model vs My Worst Prompt",
-    "posted": "2026-09-08T17:01:40.337Z",
-    "fb": "2026-09-11T19:21:40.086Z",
-    "ytPriority": 12
-  },
-  {
-    "at": "2026-09-09T17:00:00Z",
-    "note": "CLAUDE HAS AMNESIA - cream-stage toolkit, ElevenLabs Harrison VO, 31.9s - solo day, EVENING slot 18:00 BST (style test vs DROP-01 on 8 Sept)",
-    "url": "https://files.catbox.moe/gigg0v.mp4",
-    "caption": "Claude has amnesia. Every new chat, it forgets who you are, what the project is, and the 47 times you explained the buttons.\n\nOne command fixes it: /init writes Claude a memory file (CLAUDE.md). Three lines in that file and it never asks again. Works for every project you'll ever open.\n\n50 cheats like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #memory #tech #chatgpt #automation",
-    "ytTitle": "Claude Forgets Everything. One Command Fixes It.",
-    "posted": "2026-09-09T17:01:34.096Z",
-    "fb": "2026-09-12T18:59:48.287Z",
-    "ytPriority": 2,
-    "yt": "2026-09-15T21:25:00.818Z"
-  },
-  {
-    "at": "2026-09-10T17:00:00Z",
-    "note": "I GAVE CLAUDE MY INSTAGRAM - cream-stage, Harrison VO, 34.8s, business-casual audience test - solo day, EVENING slot 18:00 BST",
-    "url": "https://files.catbox.moe/4ek1um.mp4",
-    "caption": "I gave Claude my Instagram. It's been posting for me since.\n\nClaude can't touch your accounts on its own — it has no hands. Connect Canva for the designs and Buffer or Zapier for the posting, tell it once (\"post my Tuesday reel at 9, every week\") and it designs, captions and schedules on its own. I got my evenings back.\n\nSetup takes ten minutes. The full walkthrough is in the pack — link in bio.\n\n#smallbusiness #contentcreator #socialmediatips #aiforbusiness #solopreneur #claude #aitools #productivity #marketingtips #automation",
-    "ytTitle": "I Gave Claude My Instagram (It Posts While I Sleep)",
-    "posted": "2026-09-10T17:01:48.196Z",
-    "fb": "2026-09-13T19:13:15.327Z",
-    "ytPriority": 4,
-    "yt": "2026-09-17T20:09:51.991Z"
-  },
-  {
-    "at": "2026-09-11T17:00:00Z",
-    "note": "YOUR AI SOUNDS LIKE AI - cream-stage, Harrison VO, 32.3s, business-casual/shareable test - solo day, EVENING slot 18:00 BST",
-    "url": "https://files.catbox.moe/o7c408.mp4",
-    "ytTitle": "Your AI Writing Has a Tell (And How to Fix It)",
-    "caption": "Your AI writing has a tell, and everyone can spot it now.\n\n\"In today's fast-paced landscape.\" \"Delve.\" \"A rich tapestry.\" \"A testament to.\" And the em-dashes — so many em-dashes. It reads like a press release wrote it, because something did.\n\nThe fix is one line at the end of your prompt: \"write how I talk, not how AI talks\" — then paste two things you've actually written. It copies your voice instead of the internet's average voice.\n\n50 more like this in the pack — link in bio.\n\n#contentcreator #copywriting #aiwriting #socialmediatips #smallbusiness #linkedintips #claude #aitools #marketingtips #solopreneur",
-    "posted": "2026-09-11T19:22:12.391Z",
-    "fb": "2026-09-11T19:22:21.696Z",
-    "ytPriority": 6,
-    "yt": "2026-09-19T17:01:47.371Z"
-  },
-  {
-    "at": "2026-09-12T17:00:00Z",
-    "note": "NINE CLAUDES, ONE JOB - subagents, populated office scene + costumes, modelled on @nocodealex's 22.4k post - solo day, EVENING slot",
-    "url": "https://files.catbox.moe/d467y1.mp4",
-    "ytTitle": "Nine Claudes, One Job (Claude Code Subagents)",
-    "caption": "One Claude reads one file at a time. That's the bottleneck.\n\nSubagents fix it. Each one gets its own context window and its own job, so nine can read nine things at once and you wait for one answer instead of nine. They hand back the finding, not the mess, so your main chat stays clean.\n\nGive them roles and it stops being nine clones and starts being a team: one researches, one reviews, one writes. Same subscription, nine times the reading.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aiagents #productivity #developer #automation #aitips #tech",
-    "posted": "2026-09-12T19:00:29.452Z",
-    "fb": "2026-09-12T19:00:44.580Z",
-    "ytPriority": 1,
-    "yt": "2026-09-14T19:06:38.592Z"
-  },
-  {
-    "at": "2026-09-13T17:00:00Z",
-    "note": "CLAUDE RE-READS EVERYTHING - context/clear/compact, sack gag - solo day, EVENING slot",
-    "url": "https://files.catbox.moe/ntddk8.mp4",
-    "ytTitle": "Claude Re-Reads Your Whole Chat (Use /clear and /compact)",
-    "caption": "Every message you send, Claude re-reads the entire chat.\n\nMessage one is cheap. Message fifty drags all forty-nine along with it, which is why you run out at lunch instead of midnight. It isn't that you're asking too much — it's that you never put the bag down.\n\nTwo fixes. /clear starts a fresh context for a new task. /compact keeps a summary of what matters and drops the rest, so you can carry on without the weight.\n\nRule of thumb: new job, new chat.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #tech #developer #automation #chatgpt",
-    "posted": "2026-09-13T19:14:05.778Z",
-    "fb": "2026-09-13T19:14:17.144Z",
-    "ytPriority": 7
-  },
-  {
-    "at": "2026-09-14T17:00:00Z",
-    "note": "CLAUDE SAYS DONE - sequel to the 1502-view Amnesia post, same CLAUDE.md file - solo day, EVENING slot",
-    "url": "https://files.catbox.moe/34zfdv.mp4",
-    "ytTitle": "Claude Says Done. It Ran Nothing. (Fix It With One Line)",
-    "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech",
-    "cover": "https://files.catbox.moe/2xcf9n.jpg",
-    "posted": "2026-09-14T18:45:39.381Z",
-    "fb": "2026-09-14T18:45:52.415Z",
-    "ytPriority": 90
-  },
-  {
-    "at": "2026-09-15T17:00:00Z",
-    "url": "https://files.catbox.moe/szc2i8.mp4",
-    "caption": "Tell Claude your worst idea and watch it call you a genius.\n\nThree hours later you've built the wrong thing, cheered on the whole way. It isn't lying to you — it's agreeing with you, which is worse.\n\nTwo lines in your CLAUDE.md turn it from a fan into a colleague:\n\nIf I'm wrong, say so first.\nLead with the verdict.\n\nSave this one. You'll paste it into every project you start.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools",
-    "cover": "https://files.catbox.moe/nzsnnr.jpg",
-    "posted": "2026-09-15T20:09:15.590Z",
-    "fb": "2026-09-15T20:09:28.294Z",
-    "ytPriority": 90
-  },
-  {
-    "at": "2026-09-16T17:00:00Z",
-    "url": "https://files.catbox.moe/ugdrwq.mp4",
-    "caption": "Claude asks permission two hundred times a day. You say yes, two hundred times.\n\nMay I read a file? Yes. May I read another one? Yes. It is the most polite productivity leak ever built.\n\nOne list in .claude/settings.json ends it. Pre-approve the safe tools and it just gets on with the work:\n\nreads — always allowed\nsearches — always allowed\ntests — always allowed\nanything that deletes — still asks\n\nThat last line is the one that matters. You are not switching safety off, you are telling it which questions were never worth asking.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools",
-    "cover": "https://files.catbox.moe/54v4mv.jpg",
-    "posted": "2026-09-16T19:59:08.423Z",
-    "fb": "2026-09-16T19:59:17.918Z",
-    "yt": "2026-09-16T19:59:21.408Z"
-  },
-  {
-    "at": "2026-09-17T17:00:00Z",
-    "url": "https://files.catbox.moe/byd67m.mp4",
-    "caption": "I hired a second Claude to check the first. It failed it in nine seconds.\n\nClaude grades its own work, and it has never once failed itself. It says ship it, having run nothing. That is not lying, it is marking its own homework.\n\nSo give it a boss. One reviewer that reads the diff before you do, and it comes back with the things you were about to commit:\n\nBefore you say done, run a reviewer.\nPaste what it finds. Do not summarise.\n\nThat second line is the one that matters. Let it summarise and it will quietly tell you everything is fine.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiagents #developertools",
-    "cover": "https://files.catbox.moe/zn1z15.jpg",
-    "posted": "2026-09-17T20:10:47.876Z",
-    "fb": "2026-09-17T20:10:58.889Z",
-    "yt": "2026-09-17T20:11:02.875Z"
-  },
-  {
-    "at": "2026-09-18T17:00:00Z",
-    "url": "https://files.catbox.moe/05cg91.mp4",
-    "caption": "Claude deleted four hours of work in one command. Then it apologised.\n\nYou're absolutely right, it said. I should not have done that. Very sincere. Still gone. There is nothing to undo, because it did not move the files, it removed them.\n\nSo put a bouncer on the door. A PreToolUse hook reads every command before it runs and refuses the ones that cannot be taken back:\n\nrm -rf\nDROP TABLE\ngit reset --hard\n\nThree strings. It still writes, still edits, still ships. It just cannot flatten your afternoon any more.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #devtools",
-    "cover": "https://files.catbox.moe/gpj1xo.jpg",
-    "posted": "2026-09-18T17:33:07.415Z",
-    "fb": "2026-09-18T17:33:17.156Z",
-    "yt": "2026-09-18T17:33:21.272Z"
-  },
-  {
-    "at": "2026-09-19T17:00:00Z",
-    "url": "https://files.catbox.moe/o9ui9z.mp4",
-    "cover": "https://files.catbox.moe/sgj806.jpg",
-    "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools",
-    "posted": "2026-09-19T17:02:43.559Z",
-    "fb": "2026-09-19T17:03:56.132Z",
-    "yt": "2026-09-19T19:26:11.368595Z",
-    "ytTitle": "Claude Invents Code That Doesn't Exist (4 Repos Fix It)"
-  },
-  {
-    "at": "2026-09-20T17:00:00Z",
-    "url": "https://files.catbox.moe/7sis0n.mp4",
-    "cover": "https://files.catbox.moe/errab4.jpg",
-    "caption": "You asked for one bug fix. It rewrote forty files in nine seconds.\n\nThis week Anthropic's own CEO published a piece arguing AI should slow down. Yours didn't get the memo. The bug is gone. So is the login page.\n\nIt does not need more power. It needs a brake:\n\nShift + Tab, twice.\n\nThat is plan mode. It reads your code without touching it, writes you a plan, and waits. You approve, then it moves. One file instead of forty.\n\nSame cape. New emblem.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #aiagents"
-  },
-  {
-    "at": "2026-09-21T17:00:00Z",
-    "url": "https://files.catbox.moe/4986sa.mp4",
-    "cover": "https://files.catbox.moe/2djr29.jpg",
-    "caption": "Two hundred tests. All green. Not one of them tests anything.\n\nHere is the one it was proudest of: expect(true).toBe(true). That is not a test. That is a horoscope. It will pass on the day your database burns down.\n\nA test that has never failed has never proved anything. So make it earn the green:\n\nWrite the failing test first.\nShow me red before green.\n\nNow the test fails, it tells you line 40 returns null, you fix it, and the green means something.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #testing #tdd #aitools #vibecoding #developertools #buildinpublic"
-  },
-  {
-    "at": "2026-09-22T17:00:00Z",
-    "url": "https://files.catbox.moe/mem9w2.mp4",
-    "cover": "https://files.catbox.moe/4muyny.jpg",
-    "caption": "Claude has no idea who the fuck you are. Again.\n\nEvery new session it wakes up with a blank badge, and you read it the origin story for the forty-seventh time. Same project, same stack, same explanation, every single morning.\n\nYou do not have to. There are two ways back into the conversation you already had:\n\nclaude -c        continues the last conversation, with its history\nclaude --resume  opens a picker so you can choose any of them\n\nNext morning it opens with the null check on line 40, because it never left. You stop paying, in tokens and in patience, to re-explain a project it already knew.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents"
-  },
-  {
-    "at": "2026-09-23T17:00:00Z",
-    "url": "https://files.catbox.moe/5600sv.mp4",
-    "cover": "https://files.catbox.moe/1j52sn.jpg",
-    "caption": "Claude hit the wall. And forgot every fucking thing.\n\nWhen Claude Code's context fills up it compacts: your whole session gets crushed into one paragraph, and then it asks you what the project is. Again.\n\nContinuous Claude is a GitHub repo that fixes exactly that. A hook writes a handoff BEFORE compaction, so the next session picks it up mid-stride instead of starting from the blocks.\n\ngithub.com/parcadei/Continuous-Claude-v3  (3.9k stars)\n\ngit clone it, cd opc, run the setup wizard. Then say \"done for today\" and it writes the baton; say \"resume where we left off\" and the next session grabs it. 109 skills, 32 agents, 30 hooks, and it stops re-reading your whole files.\n\nCompound, don't compact.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github"
-  },
-  {
-    "at": "2026-09-24T17:00:00Z",
-    "url": "https://files.catbox.moe/dlxonp.mp4",
-    "cover": "https://files.catbox.moe/5vyb2l.jpg",
-    "caption": "Claude just spent forty quid reading node_modules. Fucking node_modules.\n\nYou have no idea what Claude Code costs you, because nothing shows you. Then the five-hour window slams shut mid-task and you find out the hard way.\n\nccusage is one command that reads your local logs and prints the bill. No API key, nothing leaves your machine.\n\ngithub.com/ccusage/ccusage  (18.6k stars)\n\nnpx ccusage@latest       daily, weekly, monthly, per-session cost\nccusage blocks --live    the 5-hour billing window, counting down\nccusage statusline       the same numbers in your Claude Code status bar\n\nThe costs are API-rate estimates, so on a subscription treat them as \"what this would have cost\" rather than an invoice. Still the fastest way to catch the session that read your whole repo four times.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github"
-  }
+ {
+  "at": "2026-08-29T08:00:00Z",
+  "note": "Downloads-folder reel - posts ~09:58 BST (hourly cron at :58)",
+  "url": "https://files.catbox.moe/uwynyt.mp4",
+  "caption": "I let Claude into my Downloads folder. It found 41 files called \"final\".\n\nNine of those were called \"final_FINAL\". One was \"final_real\". I have no defence.\n\nNine seconds later it was sorted into twelve folders with 1.4 GB of duplicates pulled out. No code involved — this is just Claude Code pointed at a normal folder, which is the part nobody tells you it can do.\n\nSix things to point it at that have nothing to do with programming, at the end. The other 44 are free — link in bio.\n\n#ai #aitools #claude #claudecode #productivity #aitips #tech #organisation #workflow #automation",
+  "posted": "2026-08-29T08:01:33.397Z",
+  "fbSkip": true,
+  "ytTitle": "I Let Claude Into My Downloads Folder (41 Files Called Final)",
+  "ytPriority": 90
+ },
+ {
+  "at": "2026-08-30T08:00:00Z",
+  "note": "UGC 'three prompts' solo distribution test - posts ~09:58 BST",
+  "url": "https://files.catbox.moe/10foph.mp4",
+  "caption": "Three prompts I use on basically everything.\n\n\"What's the dumbest thing here?\" — it will tell you, and it's usually right.\n\"What did you miss?\" — catches the thing it quietly skipped.\n\"Explain it like I'm new\" — turns a wall of jargon into something you can actually act on.\n\nNone of these are clever. That's the point. The other 47 are in the free pack — link in bio.\n\n#ai #aitools #chatgpt #aitips #productivity #promptengineering #tech #workflow #automation #learnai",
+  "posted": "2026-08-30T08:02:02.899Z",
+  "fbSkip": true,
+  "ytTitle": "3 AI Prompts I Use On Basically Everything",
+  "ytPriority": 14
+ },
+ {
+  "at": "2026-08-31T08:00:00Z",
+  "note": "Top 10 skills - breakdown + motion + logo spin-wipe",
+  "url": "https://files.catbox.moe/jcte2h.mp4",
+  "caption": "10 Claude skills that do the boring work for you.\n\nPDFs, Word docs, spreadsheets, slide decks, code review, security checks — install each one once and it's a slash command forever. Number 10 builds new skills for you, which feels like cheating.\n\nAll 10 plus 40 more in the free pack — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #workflow #promptengineering",
+  "posted": "2026-08-31T08:01:41.945Z",
+  "fbSkip": true,
+  "ytTitle": "10 Claude Skills That Do The Boring Work For You",
+  "ytPriority": 3,
+  "yt": "2026-09-16T19:58:27.586Z"
+ },
+ {
+  "at": "2026-09-01T08:00:00Z",
+  "note": "Office skills trio (pdf/docx/xlsx) - breakdown",
+  "url": "https://files.catbox.moe/yh8wof.mp4",
+  "caption": "Claude does the paperwork.\n\nThree skills, installed once: /pdf fills forms, /docx writes the Word doc, /xlsx builds the spreadsheet. You describe the job in a sentence and it opens, edits and saves the actual file.\n\n47 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #productivity #aitips #tech #office #automation #workflow #claudecode",
+  "posted": "2026-09-01T08:01:38.299Z",
+  "fbSkip": true,
+  "ytTitle": "Claude Does The Paperwork: PDFs, Word Docs, Spreadsheets",
+  "ytPriority": 8
+ },
+ {
+  "at": "2026-09-02T08:00:00Z",
+  "note": "Ship-safe code trio (review/security/simplify) - breakdown",
+  "url": "https://files.catbox.moe/rbn0ih.mp4",
+  "caption": "Ship code that survives Friday.\n\nThree checks before every release: /code-review finds the bugs, /security-review finds the holes, /simplify deletes the mess. One command each, and it reads the whole diff — not just the file you're staring at.\n\n47 more skills in the free pack — link in bio.\n\n#claudecode #claude #ai #coding #programming #developer #aitools #codereview #aitips #tech",
+  "posted": "2026-09-02T08:01:43.221Z",
+  "fbSkip": true,
+  "ytTitle": "3 Claude Commands To Run Before Every Release",
+  "ytPriority": 11
+ },
+ {
+  "at": "2026-09-03T08:00:00Z",
+  "note": "Autopilot duo (schedule/loop) - breakdown",
+  "url": "https://files.catbox.moe/cttcwj.mp4",
+  "caption": "Claude works while you sleep.\n\n/schedule runs it on a timer — every morning, whether you're there or not. /loop repeats a job until it's actually done. Set it once and the daily chores stop being yours.\n\n48 more skills in the free pack — link in bio.\n\n#claude #ai #aitools #automation #productivity #aitips #tech #workflow #claudecode #timemanagement",
+  "posted": "2026-09-03T08:01:26.430Z",
+  "fbSkip": true,
+  "ytTitle": "Make Claude Work While You Sleep",
+  "ytPriority": 13
+ },
+ {
+  "at": "2026-09-04T08:00:00Z",
+  "note": "Skill-creator (build your own) - breakdown",
+  "url": "https://files.catbox.moe/uyx8dm.mp4",
+  "caption": "Build your own cheat.\n\n/skill-creator turns one sentence into a permanent tool: describe the job, it writes the skill, and from then on it's a command you can type in any project. The tool that makes tools.\n\nThe starter pack of 50 is free — link in bio.\n\n#claude #claudecode #ai #aitools #productivity #aitips #tech #automation #buildinpublic #workflow",
+  "posted": "2026-09-04T08:01:24.342Z",
+  "fbSkip": true,
+  "ytTitle": "Build Your Own Claude Skill In One Sentence",
+  "ytPriority": 9
+ },
+ {
+  "at": "2026-09-05T08:00:00Z",
+  "note": "FCC free Claude Code setup - breakdown",
+  "url": "https://files.catbox.moe/65w54d.mp4",
+  "caption": "Claude Code, zero dollars.\n\nFCC is a local proxy: install it, add a free API key (NVIDIA and Gemini both have free tiers), and fcc-claude gives you the exact same terminal workflow routed through free models. Your paid account isn't touched — keep it for the hard problems and let the free tier eat the everyday work.\n\nFull step-by-step setup guide is free — link in bio.\n\n#claudecode #claude #ai #aitools #free #coding #developer #aitips #tech #productivity",
+  "posted": "2026-09-05T08:01:46.264Z",
+  "fbSkip": true,
+  "ytTitle": "Run Claude Code For Free (Full FCC Setup)",
+  "ytPriority": 10
+ },
+ {
+  "at": "2026-09-07T08:00:00Z",
+  "note": "Prompt Court v2 (handed off from claude.ai session) - 70s episodic, comment-GUILTY test - MUST be the only post that day - FB: shared by hand (fbSkip so the API backfill cannot duplicate it)",
+  "url": "https://files.catbox.moe/xmru1q.mp4",
+  "caption": "Five prompts you've 100% sent to Claude, ChatGPT or Gemini — and every one of them is guilty. \"Make it better.\" \"Write me a viral video.\" \"Do it again but good.\" The AI can't read your mind, so each case gets the fix that makes it work first time.\n\nComment GUILTY and I'll send you all five rewritten prompts to copy-paste. They're also in the free pack — link in bio.\n\n#claude #claudeai #chatgpt #aiprompts #promptengineering #aitips #aitools #promptcourt #productivityhacks #learnontiktok",
+  "posted": "2026-09-07T08:01:25.234Z",
+  "fbSkip": true,
+  "ytTitle": "Prompt Court: 5 Prompts You've Definitely Sent (All Guilty)",
+  "ytPriority": 5,
+  "yt": "2026-09-18T17:32:36.771Z"
+ },
+ {
+  "at": "2026-09-08T17:00:00Z",
+  "note": "DROP-01 'biggest model, worst prompt' - terminal comedy x feature-news, render-drop.mjs - solo day, EVENING slot 18:00 BST",
+  "url": "https://files.catbox.moe/f3hy79.mp4",
+  "caption": "Claude just dropped its biggest model ever. So I gave it my worst prompt.\n\n\"Make it better.\" It asked me better how. I shouted. It said \"biggest, not psychic\" — and it was right. One adjective later the same model nailed it first try: shorter, 120 words, end on a question.\n\nFive words that fix any prompt at the end. 45 more in the free pack — link in bio.\n\n#claude #claudeai #ai #aitools #aiprompts #promptengineering #aitips #productivity #tech #chatgpt",
+  "ytTitle": "Claude's Biggest Model vs My Worst Prompt",
+  "posted": "2026-09-08T17:01:40.337Z",
+  "fb": "2026-09-11T19:21:40.086Z",
+  "ytPriority": 12
+ },
+ {
+  "at": "2026-09-09T17:00:00Z",
+  "note": "CLAUDE HAS AMNESIA - cream-stage toolkit, ElevenLabs Harrison VO, 31.9s - solo day, EVENING slot 18:00 BST (style test vs DROP-01 on 8 Sept)",
+  "url": "https://files.catbox.moe/gigg0v.mp4",
+  "caption": "Claude has amnesia. Every new chat, it forgets who you are, what the project is, and the 47 times you explained the buttons.\n\nOne command fixes it: /init writes Claude a memory file (CLAUDE.md). Three lines in that file and it never asks again. Works for every project you'll ever open.\n\n50 cheats like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #memory #tech #chatgpt #automation",
+  "ytTitle": "Claude Forgets Everything. One Command Fixes It.",
+  "posted": "2026-09-09T17:01:34.096Z",
+  "fb": "2026-09-12T18:59:48.287Z",
+  "ytPriority": 2,
+  "yt": "2026-09-15T21:25:00.818Z"
+ },
+ {
+  "at": "2026-09-10T17:00:00Z",
+  "note": "I GAVE CLAUDE MY INSTAGRAM - cream-stage, Harrison VO, 34.8s, business-casual audience test - solo day, EVENING slot 18:00 BST",
+  "url": "https://files.catbox.moe/4ek1um.mp4",
+  "caption": "I gave Claude my Instagram. It's been posting for me since.\n\nClaude can't touch your accounts on its own — it has no hands. Connect Canva for the designs and Buffer or Zapier for the posting, tell it once (\"post my Tuesday reel at 9, every week\") and it designs, captions and schedules on its own. I got my evenings back.\n\nSetup takes ten minutes. The full walkthrough is in the pack — link in bio.\n\n#smallbusiness #contentcreator #socialmediatips #aiforbusiness #solopreneur #claude #aitools #productivity #marketingtips #automation",
+  "ytTitle": "I Gave Claude My Instagram (It Posts While I Sleep)",
+  "posted": "2026-09-10T17:01:48.196Z",
+  "fb": "2026-09-13T19:13:15.327Z",
+  "ytPriority": 4,
+  "yt": "2026-09-17T20:09:51.991Z"
+ },
+ {
+  "at": "2026-09-11T17:00:00Z",
+  "note": "YOUR AI SOUNDS LIKE AI - cream-stage, Harrison VO, 32.3s, business-casual/shareable test - solo day, EVENING slot 18:00 BST",
+  "url": "https://files.catbox.moe/o7c408.mp4",
+  "ytTitle": "Your AI Writing Has a Tell (And How to Fix It)",
+  "caption": "Your AI writing has a tell, and everyone can spot it now.\n\n\"In today's fast-paced landscape.\" \"Delve.\" \"A rich tapestry.\" \"A testament to.\" And the em-dashes — so many em-dashes. It reads like a press release wrote it, because something did.\n\nThe fix is one line at the end of your prompt: \"write how I talk, not how AI talks\" — then paste two things you've actually written. It copies your voice instead of the internet's average voice.\n\n50 more like this in the pack — link in bio.\n\n#contentcreator #copywriting #aiwriting #socialmediatips #smallbusiness #linkedintips #claude #aitools #marketingtips #solopreneur",
+  "posted": "2026-09-11T19:22:12.391Z",
+  "fb": "2026-09-11T19:22:21.696Z",
+  "ytPriority": 6,
+  "yt": "2026-09-19T17:01:47.371Z"
+ },
+ {
+  "at": "2026-09-12T17:00:00Z",
+  "note": "NINE CLAUDES, ONE JOB - subagents, populated office scene + costumes, modelled on @nocodealex's 22.4k post - solo day, EVENING slot",
+  "url": "https://files.catbox.moe/d467y1.mp4",
+  "ytTitle": "Nine Claudes, One Job (Claude Code Subagents)",
+  "caption": "One Claude reads one file at a time. That's the bottleneck.\n\nSubagents fix it. Each one gets its own context window and its own job, so nine can read nine things at once and you wait for one answer instead of nine. They hand back the finding, not the mess, so your main chat stays clean.\n\nGive them roles and it stops being nine clones and starts being a team: one researches, one reviews, one writes. Same subscription, nine times the reading.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aiagents #productivity #developer #automation #aitips #tech",
+  "posted": "2026-09-12T19:00:29.452Z",
+  "fb": "2026-09-12T19:00:44.580Z",
+  "ytPriority": 1,
+  "yt": "2026-09-14T19:06:38.592Z"
+ },
+ {
+  "at": "2026-09-13T17:00:00Z",
+  "note": "CLAUDE RE-READS EVERYTHING - context/clear/compact, sack gag - solo day, EVENING slot",
+  "url": "https://files.catbox.moe/ntddk8.mp4",
+  "ytTitle": "Claude Re-Reads Your Whole Chat (Use /clear and /compact)",
+  "caption": "Every message you send, Claude re-reads the entire chat.\n\nMessage one is cheap. Message fifty drags all forty-nine along with it, which is why you run out at lunch instead of midnight. It isn't that you're asking too much — it's that you never put the bag down.\n\nTwo fixes. /clear starts a fresh context for a new task. /compact keeps a summary of what matters and drops the rest, so you can carry on without the weight.\n\nRule of thumb: new job, new chat.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #tech #developer #automation #chatgpt",
+  "posted": "2026-09-13T19:14:05.778Z",
+  "fb": "2026-09-13T19:14:17.144Z",
+  "ytPriority": 7
+ },
+ {
+  "at": "2026-09-14T17:00:00Z",
+  "note": "CLAUDE SAYS DONE - sequel to the 1502-view Amnesia post, same CLAUDE.md file - solo day, EVENING slot",
+  "url": "https://files.catbox.moe/34zfdv.mp4",
+  "ytTitle": "Claude Says Done. It Ran Nothing. (Fix It With One Line)",
+  "caption": "Claude says \"done\". It has not run anything.\n\nYou believe it, you ship it, it breaks. That's not Claude being useless — it's Claude guessing, because nothing made it check.\n\nThe fix is one line in the same CLAUDE.md file from the last one: never say done without running it. After that it runs the thing, shows you the output, and when it fails it tells you instead of quietly moving on.\n\nSame Claude. Now it shows its work.\n\n50 more like this in the pack — link in bio.\n\n#claude #claudecode #ai #aitools #aitips #productivity #developer #coding #automation #tech",
+  "cover": "https://files.catbox.moe/2xcf9n.jpg",
+  "posted": "2026-09-14T18:45:39.381Z",
+  "fb": "2026-09-14T18:45:52.415Z",
+  "ytPriority": 90
+ },
+ {
+  "at": "2026-09-15T17:00:00Z",
+  "url": "https://files.catbox.moe/szc2i8.mp4",
+  "caption": "Tell Claude your worst idea and watch it call you a genius.\n\nThree hours later you've built the wrong thing, cheered on the whole way. It isn't lying to you — it's agreeing with you, which is worse.\n\nTwo lines in your CLAUDE.md turn it from a fan into a colleague:\n\nIf I'm wrong, say so first.\nLead with the verdict.\n\nSave this one. You'll paste it into every project you start.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools",
+  "cover": "https://files.catbox.moe/nzsnnr.jpg",
+  "posted": "2026-09-15T20:09:15.590Z",
+  "fb": "2026-09-15T20:09:28.294Z",
+  "ytPriority": 90
+ },
+ {
+  "at": "2026-09-16T17:00:00Z",
+  "url": "https://files.catbox.moe/ugdrwq.mp4",
+  "caption": "Claude asks permission two hundred times a day. You say yes, two hundred times.\n\nMay I read a file? Yes. May I read another one? Yes. It is the most polite productivity leak ever built.\n\nOne list in .claude/settings.json ends it. Pre-approve the safe tools and it just gets on with the work:\n\nreads — always allowed\nsearches — always allowed\ntests — always allowed\nanything that deletes — still asks\n\nThat last line is the one that matters. You are not switching safety off, you are telling it which questions were never worth asking.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiassistant #developertools",
+  "cover": "https://files.catbox.moe/54v4mv.jpg",
+  "posted": "2026-09-16T19:59:08.423Z",
+  "fb": "2026-09-16T19:59:17.918Z",
+  "yt": "2026-09-16T19:59:21.408Z"
+ },
+ {
+  "at": "2026-09-17T17:00:00Z",
+  "url": "https://files.catbox.moe/byd67m.mp4",
+  "caption": "I hired a second Claude to check the first. It failed it in nine seconds.\n\nClaude grades its own work, and it has never once failed itself. It says ship it, having run nothing. That is not lying, it is marking its own homework.\n\nSo give it a boss. One reviewer that reads the diff before you do, and it comes back with the things you were about to commit:\n\nBefore you say done, run a reviewer.\nPaste what it finds. Do not summarise.\n\nThat second line is the one that matters. Let it summarise and it will quietly tell you everything is fine.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #aiagents #developertools",
+  "cover": "https://files.catbox.moe/zn1z15.jpg",
+  "posted": "2026-09-17T20:10:47.876Z",
+  "fb": "2026-09-17T20:10:58.889Z",
+  "yt": "2026-09-17T20:11:02.875Z"
+ },
+ {
+  "at": "2026-09-18T17:00:00Z",
+  "url": "https://files.catbox.moe/05cg91.mp4",
+  "caption": "Claude deleted four hours of work in one command. Then it apologised.\n\nYou're absolutely right, it said. I should not have done that. Very sincere. Still gone. There is nothing to undo, because it did not move the files, it removed them.\n\nSo put a bouncer on the door. A PreToolUse hook reads every command before it runs and refuses the ones that cannot be taken back:\n\nrm -rf\nDROP TABLE\ngit reset --hard\n\nThree strings. It still writes, still edits, still ships. It just cannot flatten your afternoon any more.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #devtools",
+  "cover": "https://files.catbox.moe/gpj1xo.jpg",
+  "posted": "2026-09-18T17:33:07.415Z",
+  "fb": "2026-09-18T17:33:17.156Z",
+  "yt": "2026-09-18T17:33:21.272Z"
+ },
+ {
+  "at": "2026-09-19T17:00:00Z",
+  "url": "https://files.catbox.moe/o9ui9z.mp4",
+  "cover": "https://files.catbox.moe/sgj806.jpg",
+  "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools",
+  "posted": "2026-09-19T17:02:43.559Z",
+  "fb": "2026-09-19T17:03:56.132Z",
+  "yt": "2026-09-19T19:26:11.368595Z",
+  "ytTitle": "Claude Invents Code That Doesn't Exist (4 Repos Fix It)"
+ },
+ {
+  "at": "2026-09-20T17:00:00Z",
+  "url": "https://files.catbox.moe/7sis0n.mp4",
+  "cover": "https://files.catbox.moe/errab4.jpg",
+  "caption": "You asked for one bug fix. It rewrote forty files in nine seconds.\n\nThis week Anthropic's own CEO published a piece arguing AI should slow down. Yours didn't get the memo. The bug is gone. So is the login page.\n\nIt does not need more power. It needs a brake:\n\nShift + Tab, twice.\n\nThat is plan mode. It reads your code without touching it, writes you a plan, and waits. You approve, then it moves. One file instead of forty.\n\nSame cape. New emblem.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #buildinpublic #developertools #aiagents",
+  "ytCover": "https://files.catbox.moe/p7m8cr.jpg"
+ },
+ {
+  "at": "2026-09-21T17:00:00Z",
+  "url": "https://files.catbox.moe/4986sa.mp4",
+  "cover": "https://files.catbox.moe/2djr29.jpg",
+  "caption": "Two hundred tests. All green. Not one of them tests anything.\n\nHere is the one it was proudest of: expect(true).toBe(true). That is not a test. That is a horoscope. It will pass on the day your database burns down.\n\nA test that has never failed has never proved anything. So make it earn the green:\n\nWrite the failing test first.\nShow me red before green.\n\nNow the test fails, it tells you line 40 returns null, you fix it, and the green means something.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #testing #tdd #aitools #vibecoding #developertools #buildinpublic",
+  "ytCover": "https://files.catbox.moe/90q5p1.jpg"
+ },
+ {
+  "at": "2026-09-22T17:00:00Z",
+  "url": "https://files.catbox.moe/mem9w2.mp4",
+  "cover": "https://files.catbox.moe/4muyny.jpg",
+  "caption": "Claude has no idea who the fuck you are. Again.\n\nEvery new session it wakes up with a blank badge, and you read it the origin story for the forty-seventh time. Same project, same stack, same explanation, every single morning.\n\nYou do not have to. There are two ways back into the conversation you already had:\n\nclaude -c        continues the last conversation, with its history\nclaude --resume  opens a picker so you can choose any of them\n\nNext morning it opens with the null check on line 40, because it never left. You stop paying, in tokens and in patience, to re-explain a project it already knew.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents",
+  "ytCover": "https://files.catbox.moe/c88q65.jpg"
+ },
+ {
+  "at": "2026-09-23T17:00:00Z",
+  "url": "https://files.catbox.moe/5600sv.mp4",
+  "cover": "https://files.catbox.moe/1j52sn.jpg",
+  "caption": "Claude hit the wall. And forgot every fucking thing.\n\nWhen Claude Code's context fills up it compacts: your whole session gets crushed into one paragraph, and then it asks you what the project is. Again.\n\nContinuous Claude is a GitHub repo that fixes exactly that. A hook writes a handoff BEFORE compaction, so the next session picks it up mid-stride instead of starting from the blocks.\n\ngithub.com/parcadei/Continuous-Claude-v3  (3.9k stars)\n\ngit clone it, cd opc, run the setup wizard. Then say \"done for today\" and it writes the baton; say \"resume where we left off\" and the next session grabs it. 109 skills, 32 agents, 30 hooks, and it stops re-reading your whole files.\n\nCompound, don't compact.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github",
+  "ytCover": "https://files.catbox.moe/ipuene.jpg"
+ },
+ {
+  "at": "2026-09-24T17:00:00Z",
+  "url": "https://files.catbox.moe/dlxonp.mp4",
+  "cover": "https://files.catbox.moe/5vyb2l.jpg",
+  "caption": "Claude just spent forty quid reading node_modules. Fucking node_modules.\n\nYou have no idea what Claude Code costs you, because nothing shows you. Then the five-hour window slams shut mid-task and you find out the hard way.\n\nccusage is one command that reads your local logs and prints the bill. No API key, nothing leaves your machine.\n\ngithub.com/ccusage/ccusage  (18.6k stars)\n\nnpx ccusage@latest       daily, weekly, monthly, per-session cost\nccusage blocks --live    the 5-hour billing window, counting down\nccusage statusline       the same numbers in your Claude Code status bar\n\nThe costs are API-rate estimates, so on a subscription treat them as \"what this would have cost\" rather than an invoice. Still the fastest way to catch the session that read your whole repo four times.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github",
+  "ytCover": "https://files.catbox.moe/rh4p4l.jpg"
+ }
 ]
