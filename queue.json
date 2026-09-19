@@ -209,8 +209,8 @@
     "caption": "Out of the box Claude has no docs, no eyes and no browser. So it guesses, and it invents a method that has never existed.\n\nFour repos fix that. 182,000 GitHub stars between them, and Claude ships with none of them:\n\ncontext7 — live, version-correct docs instead of whatever it half-remembers\nawesome-claude-code — the hand-picked index of everything else\nplaywright-mcp — a real browser it can drive and read\nserena — semantic search across your codebase, not grep\n\nInstall them and the guessing stops. It looks things up, the way you would.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #mcp #aitools #opensource #github #vibecoding #developertools",
     "posted": "2026-09-19T17:02:43.559Z",
     "fb": "2026-09-19T17:03:56.132Z",
-    "ytAttempts": 1,
-    "ytError": "exit 1 at 2026-09-19T17:03:56.425Z"
+    "yt": "2026-09-19T19:26:11.368595Z",
+    "ytTitle": "Claude Invents Code That Doesn't Exist (4 Repos Fix It)"
   },
   {
     "at": "2026-09-20T17:00:00Z",
