@@ -38,7 +38,8 @@
     "posted": "2026-09-01T08:01:38.299Z",
     "fbSkip": true,
     "ytTitle": "Claude Does The Paperwork: PDFs, Word Docs, Spreadsheets",
-    "ytPriority": 8
+    "ytPriority": 8,
+    "yt": "2026-09-21T19:06:43.892Z"
   },
   {
     "at": "2026-09-02T08:00:00Z",
@@ -228,7 +229,10 @@
     "url": "https://files.catbox.moe/4986sa.mp4",
     "cover": "https://files.catbox.moe/2djr29.jpg",
     "caption": "Two hundred tests. All green. Not one of them tests anything.\n\nHere is the one it was proudest of: expect(true).toBe(true). That is not a test. That is a horoscope. It will pass on the day your database burns down.\n\nA test that has never failed has never proved anything. So make it earn the green:\n\nWrite the failing test first.\nShow me red before green.\n\nNow the test fails, it tells you line 40 returns null, you fix it, and the green means something.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #testing #tdd #aitools #vibecoding #developertools #buildinpublic",
-    "ytCover": "https://files.catbox.moe/90q5p1.jpg"
+    "ytCover": "https://files.catbox.moe/90q5p1.jpg",
+    "posted": "2026-09-21T19:07:25.061Z",
+    "fb": "2026-09-21T19:07:36.227Z",
+    "yt": "2026-09-21T19:07:39.451Z"
   },
   {
     "at": "2026-09-22T17:00:00Z",
