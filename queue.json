@@ -69,7 +69,8 @@
     "posted": "2026-09-04T08:01:24.342Z",
     "fbSkip": true,
     "ytTitle": "Build Your Own Claude Skill In One Sentence",
-    "ytPriority": 9
+    "ytPriority": 9,
+    "yt": "2026-09-22T17:59:25.791Z"
   },
   {
     "at": "2026-09-05T08:00:00Z",
@@ -239,7 +240,10 @@
     "url": "https://files.catbox.moe/mem9w2.mp4",
     "cover": "https://files.catbox.moe/4muyny.jpg",
     "caption": "Claude has no idea who the fuck you are. Again.\n\nEvery new session it wakes up with a blank badge, and you read it the origin story for the forty-seventh time. Same project, same stack, same explanation, every single morning.\n\nYou do not have to. There are two ways back into the conversation you already had:\n\nclaude -c        continues the last conversation, with its history\nclaude --resume  opens a picker so you can choose any of them\n\nNext morning it opens with the null check on line 40, because it never left. You stop paying, in tokens and in patience, to re-explain a project it already knew.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents",
-    "ytCover": "https://files.catbox.moe/c88q65.jpg"
+    "ytCover": "https://files.catbox.moe/c88q65.jpg",
+    "posted": "2026-09-22T18:00:33.227Z",
+    "fb": "2026-09-22T18:00:43.454Z",
+    "yt": "2026-09-22T18:00:48.954Z"
   },
   {
     "at": "2026-09-23T17:00:00Z",
