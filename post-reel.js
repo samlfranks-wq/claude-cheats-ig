@@ -81,6 +81,12 @@ const makeContainer = async () => {
         params: { ...baseParams, trial_params: JSON.stringify(v) },
       });
     } catch (e) {
+      // Only a key-name rejection is worth retrying with the other casing. Any
+      // other error is the real answer - e.g. "Trial reel not enough followers"
+      // (subcode 2207081): trial reels need the account over Instagram's
+      // follower threshold. Retrying used to bury that under a misleading
+      // "Unexpected key graduationStrategy" from the fallback attempt.
+      if (!/Unexpected key/i.test(e.message)) throw e;
       lastErr = e;
       console.log(`  · ${Object.keys(v)[0]} rejected, trying alternative casing`);
     }
