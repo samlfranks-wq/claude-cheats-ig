@@ -257,15 +257,18 @@
   "yt": "2026-09-23T18:17:59.813Z"
  },
  {
-  "at": "2026-09-24T17:00:00Z",
+  "at": "2026-09-23T21:45:00Z",
   "url": "https://files.catbox.moe/whar0t.mp4",
   "cover": "https://files.catbox.moe/kez5dr.jpg",
   "ytCover": "https://files.catbox.moe/tquq46.jpg",
   "ytTitle": "Opus 5.5 on Low Effort Beats Opus 5 on High",
-  "caption": "Stop running Claude on high, for fuck's sake.\n\nOpus 5.5 on its lowest effort setting caught 72% of known bugs in Deloitte's code reviews. Opus 5 on high caught 56%.\n\nIt's cheaper too: $4 in / $20 out per million tokens, 20% under Opus 5, and cache reads are down 60% to $0.20. Anthropic puts the saving at around 40% on typical workloads.\n\nIt tops Terminal-Bench 4.0 at 66.4% (GPT-6 Astra: 57.9%) and scores 81.8% on OSWorld 2.0 for computer use.\n\nDefault effort on Opus 5.5 is medium. Try low on routine work before you reach for high.\n\n50 more Claude cheats in the bio.\n\n#claudeai #claudecode #anthropic #opus #aitools #vibecoding #developertools #aiagents"
+  "caption": "Stop running Claude on high, for fuck's sake.\n\nOpus 5.5 on its lowest effort setting caught 72% of known bugs in Deloitte's code reviews. Opus 5 on high caught 56%.\n\nIt's cheaper too: $4 in / $20 out per million tokens, 20% under Opus 5, and cache reads are down 60% to $0.20. Anthropic puts the saving at around 40% on typical workloads.\n\nIt tops Terminal-Bench 4.0 at 66.4% (GPT-6 Astra: 57.9%) and scores 81.8% on OSWorld 2.0 for computer use.\n\nDefault effort on Opus 5.5 is medium. Try low on routine work before you reach for high.\n\n50 more Claude cheats in the bio.\n\n#claudeai #claudecode #anthropic #opus #aitools #vibecoding #developertools #aiagents",
+  "posted": "2026-09-23T21:49:41.714Z",
+  "fb": "2026-09-23T21:49:55.606Z",
+  "yt": "2026-09-23T21:50:02.963Z"
  },
  {
-  "at": "2026-09-25T17:00:00Z",
+  "at": "2026-09-24T17:00:00Z",
   "url": "https://files.catbox.moe/dlxonp.mp4",
   "cover": "https://files.catbox.moe/5vyb2l.jpg",
   "caption": "Claude just spent forty quid reading node_modules. Fucking node_modules.\n\nYou have no idea what Claude Code costs you, because nothing shows you. Then the five-hour window slams shut mid-task and you find out the hard way.\n\nccusage is one command that reads your local logs and prints the bill. No API key, nothing leaves your machine.\n\ngithub.com/ccusage/ccusage  (18.6k stars)\n\nnpx ccusage@latest       daily, weekly, monthly, per-session cost\nccusage blocks --live    the 5-hour billing window, counting down\nccusage statusline       the same numbers in your Claude Code status bar\n\nThe costs are API-rate estimates, so on a subscription treat them as \"what this would have cost\" rather than an invoice. Still the fastest way to catch the session that read your whole repo four times.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github",
