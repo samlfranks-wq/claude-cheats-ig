@@ -251,7 +251,10 @@
     "url": "https://files.catbox.moe/5600sv.mp4",
     "cover": "https://files.catbox.moe/1j52sn.jpg",
     "caption": "Claude hit the wall. And forgot every fucking thing.\n\nWhen Claude Code's context fills up it compacts: your whole session gets crushed into one paragraph, and then it asks you what the project is. Again.\n\nContinuous Claude is a GitHub repo that fixes exactly that. A hook writes a handoff BEFORE compaction, so the next session picks it up mid-stride instead of starting from the blocks.\n\ngithub.com/parcadei/Continuous-Claude-v3  (3.9k stars)\n\ngit clone it, cd opc, run the setup wizard. Then say \"done for today\" and it writes the baton; say \"resume where we left off\" and the next session grabs it. 109 skills, 32 agents, 30 hooks, and it stops re-reading your whole files.\n\nCompound, don't compact.\n\n50 more one-liners in the bio.\n\n#claudeai #claudecode #aitools #promptengineering #vibecoding #developertools #buildinpublic #aiagents #github",
-    "ytCover": "https://files.catbox.moe/ipuene.jpg"
+    "ytCover": "https://files.catbox.moe/ipuene.jpg",
+    "posted": "2026-09-23T18:17:45.784Z",
+    "fb": "2026-09-23T18:17:56.664Z",
+    "yt": "2026-09-23T18:17:59.813Z"
   },
   {
     "at": "2026-09-24T17:00:00Z",
