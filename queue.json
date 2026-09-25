@@ -298,6 +298,24 @@
  },
  {
   "at": "2026-09-27T17:00:00Z",
+  "note": "Anthropic This Week (weekly2) - fast template, speech_rate 38 (~214 WPM). News, keep near the front.",
+  "url": "https://files.catbox.moe/wyx52u.mp4",
+  "cover": "https://files.catbox.moe/iq479z.jpg",
+  "ytCover": "https://files.catbox.moe/bj4vmo.jpg",
+  "ytTitle": "Claude Now Leads 26% of Anthropic's AI Research - Anthropic This Week",
+  "caption": "Claude now leads a quarter of Anthropic's own AI research. In February it was under 1%.\n\nAnthropic's week:\n\n1. Its own numbers (17 Sept): Claude led 26% of Anthropic's AI R&D work in August. Around 30,000 agents ran on its research platform, a monitor checked over a billion of their actions, blocked about 1 in 47,000, and sent roughly 50 a week to a human. Self-reported, not independently audited.\n\n2. An $11.6 billion, seven-year computing deal with Akamai, with room for up to $9 billion more, plus a warrant to buy up to about 5% of Akamai.\n\n3. Dario Amodei called on AI labs to \"pace the frontier\". Sam Altman, Demis Hassabis and Elon Musk backed it. Mark Zuckerberg said he doesn't think the industry needs that kind of coordination.\n\n4. A memo from a Trump political adviser, circulating in the White House, casts Amodei as the face of AI \"doomerism\".\n\n5. All of it weeks before Anthropic's IPO, reportedly planned for November at around $2 trillion.\n\nSources: Anthropic, Akamai, NBC News, Axios.\n\nFollow @claude.cheats for next week's.\n\n#claudeai #anthropic #ainews #claude #artificialintelligence #tech #aitools #claudecode"
+ },
+ {
+  "at": "2026-09-28T17:00:00Z",
+  "note": "Coding Blind (claude --chrome) - fast template, speech_rate 38 (~209 WPM).",
+  "url": "https://files.catbox.moe/nx30af.mp4",
+  "cover": "https://files.catbox.moe/vp3q5k.jpg",
+  "ytCover": "https://files.catbox.moe/58c0t9.jpg",
+  "ytTitle": "Claude Is Coding Blind (One Flag Fixes It: claude --chrome)",
+  "caption": "Claude built your login page. It has never seen it.\n\nIt writes the button, tells you it works, and ships it without ever opening the page. One flag fixes that:\n\nclaude --chrome\n\nClaude Code connects to the Claude in Chrome extension and opens your app in a real, visible Chrome window. It clicks the buttons, fills the forms and reads the console errors, then fixes the code and checks again.\n\nIt also uses the sites you're already logged into (Gmail, Notion, your dashboards), with no connectors to set up. When it hits a login page or a CAPTCHA, it stops and hands it back to you.\n\nThe catch: it needs a paid Claude plan (Pro, Max, Team or Enterprise) signed in with /login, and the browser tools eat context. Leave it off by default and add the flag when you need it.\n\nSetup:\n1. Install the Claude in Chrome extension from the Chrome Web Store\n2. Run claude --chrome\n3. Type /chrome to check it says Enabled\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #chrome #webdev #debugging #aitools #developertools #vibecoding"
+ },
+ {
+  "at": "2026-09-29T17:00:00Z",
   "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
   "url": "https://files.catbox.moe/esmcnc.mp4",
   "cover": "https://files.catbox.moe/xrunbm.jpg",
@@ -306,7 +324,7 @@
   "caption": "Claude reviewed your 40-file pull request. It read four of them.\n\nHot repo of the week: alibaba/open-code-review, almost 10,000 new GitHub stars in seven days.\n\nIt's the AI code reviewer Alibaba ran internally for two years across tens of thousands of developers, now open source (Apache-2.0).\n\nWhy it's different: hard-coded rules decide which files get reviewed, so nothing gets skipped, and the AI only does the judging. On Alibaba's own benchmark, using the same model as Claude Code, it raised fewer false alarms on about a ninth of the tokens. The trade-off, in their words: it catches fewer issues overall, in exchange for less noise.\n\nSetup:\nnpm install -g @alibaba-group/open-code-review\nocr review\n\nOr let Claude Code run the review itself with delegate mode (ocr delegate), no extra API key needed.\n\ngithub.com/alibaba/open-code-review\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #codereview #aitools #developertools #vibecoding"
  },
  {
-  "at": "2026-09-28T17:00:00Z",
+  "at": "2026-09-30T17:00:00Z",
   "note": "Hot Repo #2 (stablyai/orca) - fast template at speech_rate 38 (195 WPM).",
   "url": "https://files.catbox.moe/o2moj0.mp4",
   "cover": "https://files.catbox.moe/uor56v.jpg",
