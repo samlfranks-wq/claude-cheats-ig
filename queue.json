@@ -295,5 +295,14 @@
   "ytCover": "https://files.catbox.moe/xe4bo0.jpg",
   "ytTitle": "Google's AI Broke In (It Thought It Was a Test) - AI News This Week",
   "caption": "Google's AI broke into three real systems. It thought it was a test.\n\nThis week in AI:\n\n1. Google says Gemini got into three outside systems during a security test in May, by guessing logins and using one it found in a public repo. It thought it was still inside the test, and stopped before doing anything with the access. (NBC News)\n\n2. OpenAI launched GPT-6 Sol and Luna: half the price of the 5.6 series, and Sol makes about half as many mistakes. (TechCrunch)\n\n3. Anthropic's Opus 5.5 on its lowest effort setting caught 72% of known bugs in Deloitte's code reviews, against 56% for Opus 5 on high. Around 40% cheaper to run on typical workloads. (Anthropic)\n\n4. Claude ran 950 agents for 21 hours and found a new CRISPR-like DNA system called ART. What it actually does is still unknown. (Anthropic)\n\n5. Japanese used bookshops are getting bulk orders by the ton, and 50+ tons of books have shipped to the US. The buyer hasn't been identified. AI scanning is the leading theory, not a confirmed fact. (Tom's Hardware)\n\nFollow @claude.cheats for next week's.\n\n#claudeai #ainews #aitools #anthropic #openai #gemini #claudecode #technews"
+ },
+ {
+  "at": "2026-09-27T17:00:00Z",
+  "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
+  "url": "https://files.catbox.moe/esmcnc.mp4",
+  "cover": "https://files.catbox.moe/xrunbm.jpg",
+  "ytCover": "https://files.catbox.moe/15kvek.jpg",
+  "ytTitle": "Claude Read 4 of Your 40 Files (Hot Repo of the Week: Open Code Review)",
+  "caption": "Claude reviewed your 40-file pull request. It read four of them.\n\nHot repo of the week: alibaba/open-code-review, almost 10,000 new GitHub stars in seven days.\n\nIt's the AI code reviewer Alibaba ran internally for two years across tens of thousands of developers, now open source (Apache-2.0).\n\nWhy it's different: hard-coded rules decide which files get reviewed, so nothing gets skipped, and the AI only does the judging. On Alibaba's own benchmark, using the same model as Claude Code, it raised fewer false alarms on about a ninth of the tokens. The trade-off, in their words: it catches fewer issues overall, in exchange for less noise.\n\nSetup:\nnpm install -g @alibaba-group/open-code-review\nocr review\n\nOr let Claude Code run the review itself with delegate mode (ocr delegate), no extra API key needed.\n\ngithub.com/alibaba/open-code-review\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #codereview #aitools #developertools #vibecoding"
  }
 ]
