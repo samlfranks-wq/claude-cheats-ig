@@ -329,6 +329,15 @@
  },
  {
   "at": "2026-09-30T17:00:00Z",
+  "note": "Command Tree - real demo-mode footage of slf-command-tree + SFX bed. Caption promises a 'how it's built' follow-up if people comment TREE.",
+  "url": "https://files.catbox.moe/pv5203.mp4",
+  "cover": "https://files.catbox.moe/en5ftb.jpg",
+  "ytCover": "https://files.catbox.moe/9oxzsy.jpg",
+  "ytTitle": "I Made Claude Build a Command Tree for Every Session",
+  "caption": "Nine Claude sessions running. Which one is stuck?\n\nI got tired of clicking through every tab to find out, so I had Claude build me a command tree.\n\nEvery session is a hexagon, grouped by job: clients, content, growth.\nGold means it's working. Grey means it's sat idle.\nHover one to see what it's up to.\nClick it to pick the next step: carry on, status update, or wrap up.\nOr type one sentence and it works out what every session should do.\nAnd it works from my phone.\n\nThe catch: I left it checking every three minutes and it burned tokens all night. Now it only refreshes when I ask. If you build one, don't leave it looping.\n\n(Shown in demo mode with example sessions.)\n\nComment TREE and I'll show you how it's built.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aiagents #aitools #productivity #automation #developertools #vibecoding"
+ },
+ {
+  "at": "2026-10-01T17:00:00Z",
   "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
   "url": "https://files.catbox.moe/esmcnc.mp4",
   "cover": "https://files.catbox.moe/xrunbm.jpg",
@@ -337,7 +346,7 @@
   "caption": "Claude reviewed your 40-file pull request. It read four of them.\n\nHot repo of the week: alibaba/open-code-review, almost 10,000 new GitHub stars in seven days.\n\nIt's the AI code reviewer Alibaba ran internally for two years across tens of thousands of developers, now open source (Apache-2.0).\n\nWhy it's different: hard-coded rules decide which files get reviewed, so nothing gets skipped, and the AI only does the judging. On Alibaba's own benchmark, using the same model as Claude Code, it raised fewer false alarms on about a ninth of the tokens. The trade-off, in their words: it catches fewer issues overall, in exchange for less noise.\n\nSetup:\nnpm install -g @alibaba-group/open-code-review\nocr review\n\nOr let Claude Code run the review itself with delegate mode (ocr delegate), no extra API key needed.\n\ngithub.com/alibaba/open-code-review\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #codereview #aitools #developertools #vibecoding"
  },
  {
-  "at": "2026-10-01T17:00:00Z",
+  "at": "2026-10-02T17:00:00Z",
   "note": "Hot Repo #2 (stablyai/orca) - fast template at speech_rate 38 (195 WPM).",
   "url": "https://files.catbox.moe/o2moj0.mp4",
   "cover": "https://files.catbox.moe/uor56v.jpg",
