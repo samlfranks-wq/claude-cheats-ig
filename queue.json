@@ -328,8 +328,8 @@
  },
  {
   "at": "2026-09-29T17:00:00Z",
-  "note": "Escape (OpenAI agent sandbox escape, 20 Sep) - news, keep at the front. Sam Voice (Wispr) at speech_rate 50. Everything after shifted +1 day.",
-  "url": "https://files.catbox.moe/lgboyc.mp4",
+  "note": "Escape (OpenAI agent sandbox escape, 20 Sep) - news, keep at the front. re-voiced in Sam Voice (Wispr Clear) 9dd15a05 at speech_rate 50. Everything after shifted +1 day.",
+  "url": "https://files.catbox.moe/6j91u3.mp4",
   "cover": "https://files.catbox.moe/ucsc17.jpg",
   "ytCover": "https://files.catbox.moe/6e1mfu.jpg",
   "ytTitle": "OpenAI's AI Escaped Its Sandbox Again (Protect Yours With /sandbox)",
