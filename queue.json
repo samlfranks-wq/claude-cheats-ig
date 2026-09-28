@@ -325,7 +325,10 @@
     "cover": "https://files.catbox.moe/qwofi9.jpg",
     "ytCover": "https://files.catbox.moe/kygrmm.jpg",
     "ytTitle": "Why I Stopped Running Claude on High Effort (Opus 5.5)",
-    "caption": "Stop running Claude on high, for fuck's sake.\n\nOpus 5.5 on its lowest effort setting caught 72% of known bugs in Deloitte's code reviews. Opus 5 on high caught 56%.\n\nIt's cheaper too: $4 in / $20 out per million tokens, 20% under Opus 5, and cache reads are down 60% to $0.20. Anthropic puts the saving at around 40% on typical workloads.\n\nIt tops Terminal-Bench 4.0 at 66.4% (GPT-6 Astra: 57.9%) and scores 81.8% on OSWorld 2.0 for computer use.\n\nDefault effort on Opus 5.5 is medium. Try low on routine work before you reach for high.\n\n50 more Claude cheats in the bio. Follow @claude.cheats\n\n#claudeai #claudecode #anthropic #opus #aitools #vibecoding #developertools #aiagents"
+    "caption": "Stop running Claude on high, for fuck's sake.\n\nOpus 5.5 on its lowest effort setting caught 72% of known bugs in Deloitte's code reviews. Opus 5 on high caught 56%.\n\nIt's cheaper too: $4 in / $20 out per million tokens, 20% under Opus 5, and cache reads are down 60% to $0.20. Anthropic puts the saving at around 40% on typical workloads.\n\nIt tops Terminal-Bench 4.0 at 66.4% (GPT-6 Astra: 57.9%) and scores 81.8% on OSWorld 2.0 for computer use.\n\nDefault effort on Opus 5.5 is medium. Try low on routine work before you reach for high.\n\n50 more Claude cheats in the bio. Follow @claude.cheats\n\n#claudeai #claudecode #anthropic #opus #aitools #vibecoding #developertools #aiagents",
+    "posted": "2026-09-28T20:24:52.065Z",
+    "fb": "2026-09-28T20:25:03.141Z",
+    "yt": "2026-09-28T20:25:08.803Z"
   },
   {
     "at": "2026-09-29T17:00:00Z",
