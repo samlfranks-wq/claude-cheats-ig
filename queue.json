@@ -397,45 +397,52 @@
  {
   "at": "2026-10-03T17:00:00Z",
   "note": "TRIM 'Claude ignored your CLAUDE.md' - presenter + ElevenLabs natural voice (first build after Sam's 'too artificial' note). Later queue shifted +1 day.",
-  "url": "https://files.catbox.moe/f9sptl.mp4",
-  "cover": "https://files.catbox.moe/66q0m8.jpg",
-  "ytCover": "https://files.catbox.moe/zw3fii.jpg",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/trim.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/trim_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/trim_16x9.jpg",
   "ytTitle": "Claude Ignored Your CLAUDE.md Again? Here's Why (And the Fix)",
-  "caption": "Claude ignored your CLAUDE.md. Again. And honestly? That's kind of on you.\n\nAnthropic's own Claude Code docs: \"Bloated CLAUDE.md files cause Claude to ignore your actual instructions!\"\n\nThe fix:\n1. Keep it under 200 lines. Longer files reduce adherence.\n2. For each line, ask: would Claude mess up without it? No? Delete it.\n3. One rule it keeps skipping? Add IMPORTANT to that line. Only that one. Emphasise everything and nothing stands out.\n4. If something must never happen, don't ask nicely. Use a hook. CLAUDE.md is advice, hooks are guaranteed.\n\nComment TRIM and I'll send you my checklist.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+  "caption": "Claude ignored your CLAUDE.md. Again. And honestly? That's kind of on you.\n\nAnthropic's own Claude Code docs: \"Bloated CLAUDE.md files cause Claude to ignore your actual instructions!\"\n\nThe fix:\n1. Keep it under 200 lines. Longer files reduce adherence.\n2. For each line, ask: would Claude mess up without it? No? Delete it.\n3. One rule it keeps skipping? Add IMPORTANT to that line. Only that one. Emphasise everything and nothing stands out.\n4. If something must never happen, don't ask nicely. Use a hook. CLAUDE.md is advice, hooks are guaranteed.\n\nComment TRIM and I'll send you my checklist.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+  "posted": "2026-10-03T21:05:18.312Z",
+  "fb": "2026-10-03T21:05:27.739Z",
+  "yt": "2026-10-03T21:05:44.008Z",
+  "igMediaId": "18632719057002916",
+  "igUrl": "https://www.instagram.com/reel/DeC-5b8COYm/",
+  "fbId": "122140813569345588",
+  "ytId": "-v5_hR92--g"
  },
  {
   "at": "2026-10-04T17:00:00Z",
   "note": "Lunch (/rc Remote Control) - built on the 25 Sep insights; first video with the synthesised SFX bed (tools/sfx.py). ~179 WPM.",
-  "url": "https://files.catbox.moe/c80h2l.mp4",
-  "cover": "https://files.catbox.moe/f7pqwd.jpg",
-  "ytCover": "https://files.catbox.moe/f7ydb4.jpg",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/lunch.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/lunch_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/lunch_16x9.jpg",
   "ytTitle": "Claude Waited 2 Hours For You To Say Yes (Fix It With /rc)",
   "caption": "Claude just waited two hours for you to say yes.\n\nYou set it a big job and went to lunch. Two minutes in, it asked one permission question, then sat there doing absolutely f*** all until you got back.\n\nThe fix is Remote Control:\n\n1. Before you leave, type /rc in Claude Code (or start it with claude --remote-control)\n2. Scan the QR code and the same session opens in the Claude app on your phone\n3. In /config, turn on \"Push when actions required\"\n\nNow when Claude needs a decision, your phone buzzes, you tap Allow, and it gets straight back to work.\n\nClaude still runs on your laptop. Your phone is just the remote.\n\nThe catch: your laptop has to stay on, and it's Pro, Max, Team or Enterprise only.\n\nWhat's the longest Claude has sat waiting on you? Tell me below.\n\nSave this for your next lunch break, and follow @claude.cheats for more.\n\n#claudecode #claudeai #remotecontrol #aitools #developertools #productivity #vibecoding #coding"
  },
  {
   "at": "2026-10-05T17:00:00Z",
   "note": "Command Tree - real demo-mode footage of slf-command-tree + SFX bed. Caption promises a 'how it's built' follow-up if people comment TREE.",
-  "url": "https://files.catbox.moe/pv5203.mp4",
-  "cover": "https://files.catbox.moe/en5ftb.jpg",
-  "ytCover": "https://files.catbox.moe/9oxzsy.jpg",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tree.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tree_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tree_16x9.jpg",
   "ytTitle": "I Made Claude Build a Command Tree for Every Session",
   "caption": "Nine Claude sessions running. Which one is stuck?\n\nI got tired of clicking through every tab to find out, so I had Claude build me a command tree.\n\nEvery session is a hexagon, grouped by job: clients, content, growth.\nGold means it's working. Grey means it's sat idle.\nHover one to see what it's up to.\nClick it to pick the next step: carry on, status update, or wrap up.\nOr type one sentence and it works out what every session should do.\nAnd it works from my phone.\n\nThe catch: I left it checking every three minutes and it burned tokens all night. Now it only refreshes when I ask. If you build one, don't leave it looping.\n\n(Shown in demo mode with example sessions.)\n\nComment TREE and I'll show you how it's built.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aiagents #aitools #productivity #automation #developertools #vibecoding"
  },
  {
   "at": "2026-10-06T17:00:00Z",
   "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
-  "url": "https://files.catbox.moe/esmcnc.mp4",
-  "cover": "https://files.catbox.moe/xrunbm.jpg",
-  "ytCover": "https://files.catbox.moe/15kvek.jpg",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1_16x9.jpg",
   "ytTitle": "Claude Read 4 of Your 40 Files (Hot Repo of the Week: Open Code Review)",
   "caption": "Claude reviewed your 40-file pull request. It read four of them.\n\nHot repo of the week: alibaba/open-code-review, almost 10,000 new GitHub stars in seven days.\n\nIt's the AI code reviewer Alibaba ran internally for two years across tens of thousands of developers, now open source (Apache-2.0).\n\nWhy it's different: hard-coded rules decide which files get reviewed, so nothing gets skipped, and the AI only does the judging. On Alibaba's own benchmark, using the same model as Claude Code, it raised fewer false alarms on about a ninth of the tokens. The trade-off, in their words: it catches fewer issues overall, in exchange for less noise.\n\nSetup:\nnpm install -g @alibaba-group/open-code-review\nocr review\n\nOr let Claude Code run the review itself with delegate mode (ocr delegate), no extra API key needed.\n\ngithub.com/alibaba/open-code-review\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #codereview #aitools #developertools #vibecoding"
  },
  {
   "at": "2026-10-07T17:00:00Z",
   "note": "Hot Repo #2 (stablyai/orca) - fast template at speech_rate 38 (195 WPM).",
-  "url": "https://files.catbox.moe/o2moj0.mp4",
-  "cover": "https://files.catbox.moe/uor56v.jpg",
-  "ytCover": "https://files.catbox.moe/l2m444.jpg",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca_16x9.jpg",
   "ytTitle": "5 Claudes, 1 Prompt, Keep the Winner (Hot Repo of the Week: Orca)",
   "caption": "You gave Claude one prompt. It made one guess. It was wrong.\n\nHot repo of the week #2: stablyai/orca, over 6,000 new GitHub stars in seven days.\n\nOrca runs one prompt through five agents at once, each in its own git worktree so they never touch each other's files. Claude Code, Codex and OpenCode side by side. Compare the answers, merge the winner, bin the rest.\n\nIt also pings your phone when the agents finish, and shows your Claude usage and when your limit resets.\n\nThe catch: five agents means roughly five times the usage. Save it for the hard problems, not the one-line fixes.\n\nSetup (Mac):\nbrew install --cask stablyai/orca/orca\n\nOr grab the desktop app from the repo. Open source, MIT licence.\n\ngithub.com/stablyai/orca\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #aiagents #aitools #developertools #vibecoding"
  }
