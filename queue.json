@@ -457,5 +457,50 @@
   "ytTitle": "Claude Fixed the Same Bug 6 Times (Here's the Real Fix)",
   "caption": "Claude fixed the same bug six times. It's still broken.\n\nIt's not being dim. Every failed fix is still sitting in the chat, and Claude keeps building on top of them.\n\nAnthropic's own Claude Code docs: corrected Claude more than twice on the same issue? The context is cluttered with failed approaches.\n\nThe fix:\n1. Two wrong fixes? Type /clear.\n2. Start fresh and tell it what you learned (\"it only breaks after midnight UTC\").\n3. Just one wrong turn? Press Esc twice to rewind instead.\n\nSave this for the next time it says \"Fixed!\" 🔁\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
   "note": "LOOP 'Claude fixed the same bug six times' - back to the cream-stage bot format (permission/ template, Harrison ElevenLabs, 138 WPM, no presenter) after 2026-10-04 insights: every 1k+ post was this format; presenter posts 124-276."
+ },
+ {
+  "at": "2026-10-09T17:00:00Z",
+  "note": "PLAN 'half a sentence, twelve files' - plan mode (Shift+Tab) - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan_16x9.jpg",
+  "ytTitle": "Claude Started Coding Before You Finished (Use Plan Mode)",
+  "caption": "You typed half a sentence. Claude already changed twelve files.\n\nIt's not being rude. Nobody told it to read first.\n\nAnthropic's own Claude Code docs: use plan mode to separate exploration from execution. Explore, then plan, then code.\n\nThe fix:\n1. Press Shift+Tab until the status bar says plan mode.\n2. Claude reads files and answers questions, but can't edit anything.\n3. It writes a plan. You approve it. Then it codes.\n\nThe rule: big change across many files? Plan mode. If you could describe the change in one sentence, skip the plan and just ask.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-10T17:00:00Z",
+  "note": "INTERVIEW 'built what you said' - AskUserQuestion interview -> SPEC.md -> fresh chat - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_16x9.jpg",
+  "ytTitle": "Claude Built What You Said, Not What You Meant (Fix It)",
+  "caption": "Claude built exactly what you asked for. Not what you wanted.\n\nYour prompt had ten words. The feature had forty decisions. Claude guessed every one.\n\nAnthropic's tip for bigger features: have Claude interview you first.\n\nThe fix:\n1. Start with: \"I want to build [your feature]. Interview me in detail using the AskUserQuestion tool.\"\n2. Answer its questions, then: \"Write a complete spec to SPEC.md.\"\n3. Open a fresh chat and build from the spec, with clean context.\n\nNo more guessing.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-11T17:00:00Z",
+  "note": "RESUME 'two hours of context, gone?' - claude --continue / --resume - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume_16x9.jpg",
+  "ytTitle": "Closed the Terminal? Your Claude Session Isn't Gone",
+  "caption": "You closed the terminal. Two hours of explaining, gone.\n\nExcept it wasn't. Claude Code saves your conversations locally.\n\nAnthropic's own docs: when a task spans several sittings, you don't have to re-explain the context.\n\nThe fix:\n1. claude --continue picks up your last conversation, right where you left off.\n2. claude --resume shows a list so you can pick an older one.\n3. Give sessions descriptive names (like oauth-migration) so you can find them later.\n\nSave this for the next time you close the wrong window.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-12T17:00:00Z",
+  "note": "SKILL 'same prompt forty times' - .claude/skills/<name>/SKILL.md - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_16x9.jpg",
+  "ytTitle": "Stop Pasting the Same Prompt Into Claude (Use Skills)",
+  "caption": "You've pasted the same giant prompt forty times this month.\n\nEvery new chat, the recipe's gone. So you paste it again.\n\nAnthropic's fix: skills. They can define repeatable workflows you invoke directly.\n\nThe fix:\n1. Create .claude/skills/fix-issue/SKILL.md\n2. Add a name and description at the top, then write your steps once.\n3. Next time, just type /fix-issue.\n\nTyped it twice? Make it a skill.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-13T17:00:00Z",
+  "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
+  "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
+  "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
