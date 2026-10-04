@@ -547,5 +547,50 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_16x9.jpg",
   "ytTitle": "Claude Used a Function That No Longer Exists (Fix It)",
   "caption": "Claude used a function that was deleted two versions ago. Confidently.\n\nIts training has a cutoff. Your library kept shipping.\n\nAnthropic's own Claude Code docs: give Claude URLs for documentation and API references.\n\nThe fix:\n1. Paste the link to the current docs right in the prompt.\n2. Claude reads them before it writes a line.\n3. Use the same docs site every day? Allowlist it with /permissions so Claude can fetch it without asking.\n\nLink the docs. Skip the fiction.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-19T17:00:00Z",
+  "note": "BATCH '2,000 files, one Claude' - /batch fans out to 5-30 subagents in worktrees - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_16x9.jpg",
+  "ytTitle": "2,000 Files, One Claude? Use /batch Instead",
+  "caption": "Two thousand files to migrate. You gave them all to one Claude.\n\nBy file 212 the context was full and it was starting to forget. One conversation was never going to hold the whole job.\n\nAnthropic's own Claude Code docs: for large migrations or analyses, distribute the work across many parallel Claude invocations.\n\nThe fix:\n1. Type /batch followed by your instruction.\n2. Claude splits the change across 5 to 30 subagents, each working in its own worktree.\n3. Try it on a few files first, then run the lot.\n\nBig job? Fan it out.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-20T17:00:00Z",
+  "note": "ONBOARD 'new codebase, two days reading' - ask Claude codebase questions - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_16x9.jpg",
+  "ytTitle": "New Codebase? Stop Reading, Start Asking Claude",
+  "caption": "New codebase. Forty thousand lines. Two days of reading, and still no idea how the login works.\n\nThere's a senior engineer who has read every line. It's Claude.\n\nAnthropic's own Claude Code docs: ask Claude the questions you'd ask a senior engineer. It's an effective onboarding workflow, and no special prompting is required.\n\nTry:\n1. How does logging work?\n2. How do I make a new API endpoint?\n3. Why does this code call foo() instead of bar()?\n\nNew codebase? Ask first, read second.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-21T17:00:00Z",
+  "note": "BTW 'one quick question, stuck forever' - /btw side questions stay out of history - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw_16x9.jpg",
+  "ytTitle": "One Quick Question Is Clogging Your Claude Chat (Use /btw)",
+  "caption": "You asked Claude one quick question in the middle of a task. Now it sits in the conversation, taking up space, for the rest of the session.\n\nEvery detour fills the context, and long sessions full of irrelevant context can make Claude worse.\n\nAnthropic's own Claude Code docs: for quick questions that don't need to stay in context, use /btw. The answer never enters conversation history.\n\nThe fix:\n1. Quick side question? /btw what port is the server on?\n2. Brand new task? /clear and start fresh.\n\nKeep the main chat for the main job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-22T17:00:00Z",
+  "note": "MCP 'copy, paste, copy, paste' - claude mcp add - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp_16x9.jpg",
+  "ytTitle": "Stop Copy-Pasting Into Claude. Connect Your Tools With MCP",
+  "caption": "You copied the ticket, the design notes and the database rows into one prompt. Notion tab, Figma tab, database tab, back to Claude.\n\nClaude couldn't open those tools, so you became the courier.\n\nAnthropic's own Claude Code docs: run claude mcp add to connect external tools like Notion, Figma, or your database.\n\nThe fix:\n1. claude mcp add with the server's name and URL (once).\n2. Then just ask: \"read the ticket\", \"check the design\", \"query the orders table\".\n3. Copying from the same tool every day? That's the one to connect first.\n\nStop being the courier.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-23T17:00:00Z",
+  "note": "ATFILE 'a paragraph to find one file' - @ file references - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_16x9.jpg",
+  "ytTitle": "Stop Describing Where Your Files Are. Use @ in Claude Code",
+  "caption": "You wrote a whole paragraph explaining where one file lives. \"It's in src. No, the other src. Next to the old one.\"\n\nSo Claude went looking, and opened the wrong file.\n\nAnthropic's own Claude Code docs: reference files with @ instead of describing where code lives. Claude reads the file before responding.\n\nThe fix:\n1. Type @ and start the file name.\n2. Pick it from the list.\n3. Don't know where it lives? Ask Claude to find it first.\n\nPoint, don't describe.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
