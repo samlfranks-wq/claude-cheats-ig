@@ -502,5 +502,50 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
   "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
   "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-14T17:00:00Z",
+  "note": "STOP 'three minutes the wrong way' - Esc mid-action / Esc Esc rewind - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_16x9.jpg",
+  "ytTitle": "Claude Going the Wrong Way? Press This One Key",
+  "caption": "You watched Claude head the wrong way for three whole minutes. And you said nothing.\n\nYou didn't want to interrupt. But every minute it keeps going, there's more to undo.\n\nAnthropic's own Claude Code docs: course-correct early and often.\n\nThe fix:\n1. Press Esc. Claude stops mid-action, and the context is kept.\n2. Tell it where it should be going instead.\n3. Already made a mess? Press Esc twice (or type /rewind) to roll back.\n\nInterrupting Claude isn't rude. It's the job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-15T17:00:00Z",
+  "note": "PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_16x9.jpg",
+  "ytTitle": "Stop Pasting Error Logs Into Claude (Do This Instead)",
+  "caption": "You pasted four thousand lines of error log into the chat. The chat froze.\n\nThere's no need to copy it. Claude can read the file itself.\n\nAnthropic's own Claude Code docs: pipe data straight in to send file contents directly.\n\nThe fix:\n1. In your terminal: cat error.log | claude -p \"what broke?\"\n2. Claude reads the whole file and answers with the line that matters.\n3. Big folder instead of one file? Just tell Claude to go and read it.\n\nStop pasting. Start piping.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-16T17:00:00Z",
+  "note": "PATTERN 'one widget, a whole new style' - point Claude to an existing pattern file - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_16x9.jpg",
+  "ytTitle": "Claude Ignored Your Code Style? Point It at One File",
+  "caption": "You asked for one calendar widget. Claude invented a brand new style.\n\nNew library. New naming. Nothing like the rest of your app. It never looked at how you already do it.\n\nAnthropic's tip from the Claude Code docs: point Claude to patterns in your codebase.\n\nThe fix:\n1. Name one file that already does it right.\n2. Say: \"look at how the other widgets work, then follow that pattern.\"\n3. Add \"no new libraries\" if you mean it.\n\nOne example beats a page of style rules.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-17T17:00:00Z",
+  "note": "GH 'one GitHub issue, ten steps' - install gh CLI - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_16x9.jpg",
+  "ytTitle": "Claude Took 10 Steps to Read a GitHub Issue (The Fix)",
+  "caption": "Claude tried to read one GitHub issue. It took ten steps.\n\nFetch the page. Parse it. Rate limited. Try again. It had no proper tool for the job, so it improvised.\n\nAnthropic's own Claude Code docs: if you use GitHub, install the gh CLI. Claude already knows how to use it for issues, pull requests and comments.\n\nThe fix:\n1. Install the GitHub CLI (gh).\n2. Run gh auth login once.\n3. Ask Claude to read the issue. It uses gh, no scraping.\n\nSame idea for other services: aws, gcloud, sentry-cli. Give Claude the proper tool.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-18T17:00:00Z",
+  "note": "DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_16x9.jpg",
+  "ytTitle": "Claude Used a Function That No Longer Exists (Fix It)",
+  "caption": "Claude used a function that was deleted two versions ago. Confidently.\n\nIts training has a cutoff. Your library kept shipping.\n\nAnthropic's own Claude Code docs: give Claude URLs for documentation and API references.\n\nThe fix:\n1. Paste the link to the current docs right in the prompt.\n2. Claude reads them before it writes a line.\n3. Use the same docs site every day? Allowlist it with /permissions so Claude can fetch it without asking.\n\nLink the docs. Skip the fiction.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
