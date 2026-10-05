@@ -504,7 +504,7 @@
   "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-14T17:00:00Z",
+  "at": "2026-11-06T17:00:00Z",
   "note": "STOP 'three minutes the wrong way' - Esc mid-action / Esc Esc rewind - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_9x16.jpg",
@@ -709,5 +709,14 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_16x9.jpg",
   "ytTitle": "Your Claude Code Bill Has 4 Leaks (Anthropic's Own Fixes)",
   "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-14T17:00:00Z",
+  "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
+  "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
+  "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats"
  }
 ]
