@@ -513,7 +513,7 @@
   "caption": "You watched Claude head the wrong way for three whole minutes. And you said nothing.\n\nYou didn't want to interrupt. But every minute it keeps going, there's more to undo.\n\nAnthropic's own Claude Code docs: course-correct early and often.\n\nThe fix:\n1. Press Esc. Claude stops mid-action, and the context is kept.\n2. Tell it where it should be going instead.\n3. Already made a mess? Press Esc twice (or type /rewind) to roll back.\n\nInterrupting Claude isn't rude. It's the job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-15T17:00:00Z",
+  "at": "2026-11-07T17:00:00Z",
   "note": "PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
@@ -718,5 +718,14 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
   "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
   "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats"
+ },
+ {
+  "at": "2026-10-15T17:00:00Z",
+  "note": "BOUNCER - full-animation style (no presenter), look modelled on nocodealex DeEH5Z9OkGk (297k): full-bleed papercraft sets, taped title label, paper word tags. Own characters + topic (auto mode, permission-modes docs). videos/bouncer/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_16x9.jpg",
+  "ytTitle": "Claude Code Has a Bouncer (Auto Mode, Explained)",
+  "caption": "You've clicked Allow two hundred times today. Claude Code has a bouncer for that.\n\nIt's called auto mode. A separate classifier model checks each action before it runs, instead of you.\n\nStraight through: reading files, running tests, routine edits.\nStopped at the door by default: running scripts straight off the internet (curl | bash), sending sensitive data out, force pushes, production deploys.\n\nTurn it on: press Shift+Tab until it says auto. From Claude Code v2.1.283 it's the default starting mode.\n\nSource: code.claude.com/docs/en/permission-modes\n\nSave this before your next long session.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
