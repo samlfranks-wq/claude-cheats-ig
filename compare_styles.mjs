@@ -5,6 +5,7 @@
 //
 // Style comes from each queue item's note (matched to the IG post by caption):
 //   plug-strip  = the reference-style rebuild (POWER v3, FINES, LEAKS ... power3/fines/leaks renderers)
+//   full-anim   = full-bleed papercraft scenes, no presenter (BOUNCER, after nocodealex)
 //   bots        = the established cream-stage format (stagekit / permission template)
 //   presenter   = Sam's clone / character in front of the animation (posh, hooks40, trim)
 // Views keep growing for days, so posts younger than MIN_AGE_H are listed but kept OUT of the
@@ -27,6 +28,7 @@ const byCaption = new Map(items.map((i) => [first(i.caption), i]));
 // built in the cream-stage bot toolkit (classic or the 25 Sep fast template), whatever its note says.
 const PRESENTER = ["i've seen how you talk to claude", 'your page is dead because you post', 'claude ignored your claude.md'];
 function styleOf(note = '', hook = '') {
+  if (/full-animation/i.test(note)) return 'full-anim';
   if (/plug-strip|POWER v3|power3|README-plug/i.test(note)) return 'plug-strip';
   if (PRESENTER.some((p) => hook.startsWith(p)) || /presenter|seedance|posh/i.test(note)) return 'presenter';
   return 'bots';
@@ -74,7 +76,7 @@ for (const r of rows) {
 const med = (a) => { if (!a.length) return null; const s = [...a].sort((x, y) => x - y); const k = s.length >> 1; return s.length % 2 ? s[k] : (s[k - 1] + s[k]) / 2; };
 console.log(`\n* = younger than ${MIN_AGE_H}h, left out of the comparison below\n`);
 console.log(pad('STYLE', 12) + lp('POSTS', 6) + lp('MED VIEWS', 10) + lp('MED AVG s', 10) + lp('MED COMP', 9) + lp('SAVES/1k REACH', 15));
-for (const st of ['plug-strip', 'bots', 'presenter']) {
+for (const st of ['plug-strip', 'full-anim', 'bots', 'presenter']) {
   const g = rows.filter((r) => r.style === st && r.ageH >= MIN_AGE_H);
   if (!g.length) { console.log(pad(st, 12) + lp(0, 6) + '   (no posts old enough yet)'); continue; }
   const reach = g.reduce((a, r) => a + r.reach, 0), saves = g.reduce((a, r) => a + r.saves, 0);
