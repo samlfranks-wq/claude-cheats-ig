@@ -655,5 +655,50 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_16x9.jpg",
   "ytTitle": "Your Vibe-Coded App Can Get Fined Before Its First Sale",
   "caption": "Your vibe-coded app can rack up fines before it makes a single sale. Four to check before launch:\n\n1. Kids under 13 sign up and you keep their data (COPPA). US civil penalties go up to $53,088 per violation. Fix: an age gate on sign-up.\n2. Fonts loaded straight from Google send every visitor's IP to Google. In January 2022 a Munich court ordered one site to pay a visitor €100 under GDPR. Fix: self-host your fonts.\n3. Session replay recording visitors without consent. California's wiretap law (CIPA) allows $5,000 per violation, and lawyers are suing over it. Fix: no recording or tracking until they consent.\n4. Marketing emails with no unsubscribe link or postal address (CAN-SPAM). Up to $53,088 per email. Fix: add both to every send.\n\nThe one prompt: \"Audit this app for legal exposure and fix what you find: age gate on sign-up, self-host all fonts, no session replay or tracking before consent, unsubscribe link and postal address in every email. List each change you made.\"\n\nNot legal advice. If real money is on the line, talk to a lawyer.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #vibecoding #startup #indiehacker #gdpr #aitools #claudecheats"
+ },
+ {
+  "at": "2026-10-31T17:00:00Z",
+  "note": "UNDO - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo_16x9.jpg",
+  "ytTitle": "Claude Made a Change You Hate? Two Words Fix It",
+  "caption": "Claude rewrote your navbar. You hate it. Twenty minutes later you're still undoing it by hand.\n\nClaude knows exactly what it changed. You don't.\n\nAnthropic's own Claude Code docs list a two-word fix: \"Undo that\". Claude reverts its own changes.\n\nThe fix:\n1. Don't like the last change? Type: undo that\n2. Need to go further back? Double-tap Esc (or /rewind) and pick the checkpoint.\n\nStop undoing by hand.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-11-01T17:00:00Z",
+  "note": "TESTFIRST - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst_16x9.jpg",
+  "ytTitle": "Claude Wrote the Code AND the Tests. That's the Problem",
+  "caption": "Claude wrote the code and the tests. And what do you know? They all pass.\n\nIt's marking its own homework. Same session, same blind spots, in the code and the tests.\n\nAnthropic's own Claude Code docs: have one Claude write tests, then another write code to pass them.\n\nThe fix:\n1. Session one writes the tests.\n2. Session two only gets to make them pass.\n3. When a test fails, fix the code, not the test.\n\nCode that matters deserves a second marker.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-11-02T17:00:00Z",
+  "note": "STATUS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status_16x9.jpg",
+  "ytTitle": "Claude Got Dumber Halfway Through. Here's Why",
+  "caption": "Halfway through the session, Claude got noticeably worse. Forgetting your rules, repeating old mistakes.\n\nThe context was nearly full, and nothing on screen told you.\n\nAnthropic's own Claude Code docs: track context usage continuously with a custom status line.\n\nThe fix:\n1. Type /statusline and ask for a context meter.\n2. Meter climbing? /compact\n3. Starting something new? /clear\n\nWatch the meter, not the vibes.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-11-03T17:00:00Z",
+  "note": "CTRLG - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg_16x9.jpg",
+  "ytTitle": "Claude's Plan Is 90% Right? Press Ctrl+G",
+  "caption": "Claude's plan is 90% right. So you retype the whole thing to fix one step, and another step quietly vanishes.\n\nFixing a plan through chat is like texting someone your edits.\n\nAnthropic's own Claude Code docs: in plan mode, press Ctrl+G to open the plan in your text editor for direct editing before Claude proceeds.\n\nThe fix:\n1. Ctrl+G\n2. Change the one line. Save.\n3. Plan totally wrong? Ask for a new one instead.\n\nEdit the plan, don't argue with it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-11-04T17:00:00Z",
+  "note": "AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_16x9.jpg",
+  "ytTitle": "Stop Explaining the Same Checklist to Claude. Use Subagents",
+  "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
