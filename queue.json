@@ -601,5 +601,50 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_16x9.jpg",
   "ytTitle": "Stock Claude Code Is Running on Empty. Plug In These 4",
   "caption": "Stock Claude Code is running on empty. Four plugs fix that.\n\n1. GitHub CLI (gh): Claude reads issues and opens pull requests itself. Install it, then run gh auth login once.\n2. Context7: current docs for whatever library you're using. Set up with: npx ctx7 setup --claude\n3. Playwright MCP: Claude clicks through your app in a real browser. claude mcp add playwright npx @playwright/mcp@latest\n4. A code intelligence plugin: catches type errors after every edit. Find the one for your language in /plugin.\n\nScreenshot this. Start with the one that fixes your worst day.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-25T17:00:00Z",
+  "note": "SAFETY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety_16x9.jpg",
+  "ytTitle": "Your Claude Code Has Zero Safety Nets. Add These 4",
+  "caption": "Your Claude Code has zero safety nets. Fit these four before it deletes something.\n\n1. Checkpoints: double-tap Esc (or /rewind) to restore the code, the chat, or both.\n2. Git: commit before big changes. Checkpoints only track Claude's own edits, so they don't replace git.\n3. Hooks: block what must never happen. Hooks are guaranteed, CLAUDE.md is only advice.\n4. /sandbox: sandboxed commands run walled off, without asking you every time.\n\nScreenshot this. Set them up before you need them.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-26T17:00:00Z",
+  "note": "FOCUS - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus_16x9.jpg",
+  "ytTitle": "Claude's Focus Is at Zero. 4 Commands Fix It",
+  "caption": "Claude's focus is at zero. Your chat is full of old tasks, giant logs and side questions. Four commands fix it.\n\n1. /clear between unrelated tasks. Clean slate.\n2. /compact with instructions, like: /compact Focus on the API changes\n3. /btw for quick side questions. The answer never enters the history.\n4. \"Use subagents to investigate X\". The research happens in its own context, not yours.\n\nAnthropic's own docs call the context window the most important resource to manage. Protect it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-27T17:00:00Z",
+  "note": "QUALITY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality_16x9.jpg",
+  "ytTitle": "Claude Says It's Done. Nobody Checked. Add These 4",
+  "caption": "Claude says it's done. Nobody checked. Plug in these four.\n\n1. Give Claude a check it can run: tests, a build, or a screenshot to compare.\n2. A hook that runs your linter after every edit. Ask Claude: \"write a hook that runs eslint after every file edit\".\n3. /code-review: a fresh subagent reviews the diff for bugs, without the reasoning that wrote it.\n4. A code intelligence plugin: type errors caught automatically after edits. Find yours in /plugin.\n\nIf you can't verify it, don't ship it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-28T17:00:00Z",
+  "note": "SPEED - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed_16x9.jpg",
+  "ytTitle": "Claude Code Does One Job at a Time. Run Four Instead",
+  "caption": "Your Claude Code does one job at a time. Here's how to run four.\n\n1. Skills: write a workflow once in .claude/skills/<name>/SKILL.md, then run it with /<name>.\n2. claude -p: pipe a file straight in from the terminal, e.g. cat error.log | claude -p \"what broke?\"\n3. Worktrees: separate sessions in separate git checkouts, so edits never collide.\n4. /batch: one instruction, split across up to 30 subagents.\n\nStart with skills. They're the easiest win.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-29T17:00:00Z",
+  "note": "MEMORY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory_16x9.jpg",
+  "ytTitle": "Claude Forgets Everything. Plug In These 4",
+  "caption": "Claude forgets everything between sessions. Unless you plug in these four.\n\n1. /init: generates a starter CLAUDE.md from your project. Claude reads it at the start of every conversation.\n2. Keep it short: for each line ask \"would Claude mess up without this?\" If not, cut it.\n3. claude --continue: back into your last conversation. (claude --resume to pick an older one.)\n4. Checkpoints save with the conversation, so you can close the terminal, resume later and still rewind.\n\nSet it up once. Stop re-explaining.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
