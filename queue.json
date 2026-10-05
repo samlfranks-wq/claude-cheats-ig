@@ -592,5 +592,14 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_16x9.jpg",
   "ytTitle": "Stop Describing Where Your Files Are. Use @ in Claude Code",
   "caption": "You wrote a whole paragraph explaining where one file lives. \"It's in src. No, the other src. Next to the old one.\"\n\nSo Claude went looking, and opened the wrong file.\n\nAnthropic's own Claude Code docs: reference files with @ instead of describing where code lives. Claude reads the file before responding.\n\nThe fix:\n1. Type @ and start the file name.\n2. Pick it from the list.\n3. Don't know where it lives? Ask Claude to find it first.\n\nPoint, don't describe.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-24T17:00:00Z",
+  "note": "POWER: stock Claude Code is running on empty - our own take on @adilet.fndr reel Dd4LrTSsx0i (7.3k likes, 4k comments): gh, Context7, Playwright MCP, code intelligence plugin. Cream-stage bots, Harrison.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power_16x9.jpg",
+  "ytTitle": "Stock Claude Code Is Running on Empty. Plug In These 4",
+  "caption": "Stock Claude Code is running on empty. Four plugs fix that.\n\n1. GitHub CLI (gh): Claude reads issues and opens pull requests itself. Install it, then run gh auth login once.\n2. Context7: current docs for whatever library you're using. Set up with: npx ctx7 setup --claude\n3. Playwright MCP: Claude clicks through your app in a real browser. claude mcp add playwright npx @playwright/mcp@latest\n4. A code intelligence plugin: catches type errors after every edit. Find the one for your language in /plugin.\n\nScreenshot this. Start with the one that fixes your worst day.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
