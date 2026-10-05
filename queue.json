@@ -432,7 +432,7 @@
   "caption": "Nine Claude sessions running. Which one is stuck?\n\nI got tired of clicking through every tab to find out, so I had Claude build me a command tree.\n\nEvery session is a hexagon, grouped by job: clients, content, growth.\nGold means it's working. Grey means it's sat idle.\nHover one to see what it's up to.\nClick it to pick the next step: carry on, status update, or wrap up.\nOr type one sentence and it works out what every session should do.\nAnd it works from my phone.\n\nThe catch: I left it checking every three minutes and it burned tokens all night. Now it only refreshes when I ask. If you build one, don't leave it looping.\n\n(Shown in demo mode with example sessions.)\n\nComment TREE and I'll show you how it's built.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aiagents #aitools #productivity #automation #developertools #vibecoding"
  },
  {
-  "at": "2026-10-06T17:00:00Z",
+  "at": "2026-10-24T17:00:00Z",
   "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1_9x16.jpg",
@@ -459,7 +459,7 @@
   "note": "LOOP 'Claude fixed the same bug six times' - back to the cream-stage bot format (permission/ template, Harrison ElevenLabs, 138 WPM, no presenter) after 2026-10-04 insights: every 1k+ post was this format; presenter posts 124-276."
  },
  {
-  "at": "2026-10-09T17:00:00Z",
+  "at": "2026-10-30T17:00:00Z",
   "note": "PLAN 'half a sentence, twelve files' - plan mode (Shift+Tab) - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan_9x16.jpg",
@@ -486,7 +486,7 @@
   "caption": "You closed the terminal. Two hours of explaining, gone.\n\nExcept it wasn't. Claude Code saves your conversations locally.\n\nAnthropic's own docs: when a task spans several sittings, you don't have to re-explain the context.\n\nThe fix:\n1. claude --continue picks up your last conversation, right where you left off.\n2. claude --resume shows a list so you can pick an older one.\n3. Give sessions descriptive names (like oauth-migration) so you can find them later.\n\nSave this for the next time you close the wrong window.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-12T17:00:00Z",
+  "at": "2026-11-05T17:00:00Z",
   "note": "SKILL 'same prompt forty times' - .claude/skills/<name>/SKILL.md - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_9x16.jpg",
@@ -594,7 +594,7 @@
   "caption": "You wrote a whole paragraph explaining where one file lives. \"It's in src. No, the other src. Next to the old one.\"\n\nSo Claude went looking, and opened the wrong file.\n\nAnthropic's own Claude Code docs: reference files with @ instead of describing where code lives. Claude reads the file before responding.\n\nThe fix:\n1. Type @ and start the file name.\n2. Pick it from the list.\n3. Don't know where it lives? Ask Claude to find it first.\n\nPoint, don't describe.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-24T17:00:00Z",
+  "at": "2026-10-06T17:00:00Z",
   "note": "POWER v3 - rebuilt after watching reel Dd4LrTSsx0i frame by frame (/watch): plug-drop into CLAUDE CODE n/4 strip, strip->card transition, live checklist cards, ghosted next word + orange italic emphasis, dot-grid paper, Sam presenter in 6 poses (soul_2 pose sheet 07db864a), SFX bed. videos/power3/render.py, 1080x1920.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_9x16.jpg",
@@ -648,7 +648,7 @@
   "caption": "Claude forgets everything between sessions. Unless you plug in these four.\n\n1. /init: generates a starter CLAUDE.md from your project. Claude reads it at the start of every conversation.\n2. Keep it short: for each line ask \"would Claude mess up without this?\" If not, cut it.\n3. claude --continue: back into your last conversation. (claude --resume to pick an older one.)\n4. Checkpoints save with the conversation, so you can close the terminal, resume later and still rewind.\n\nSet it up once. Stop re-explaining.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-30T17:00:00Z",
+  "at": "2026-10-09T17:00:00Z",
   "note": "FINES - plug-strip style (power3) on adilet.fndr top topic (vibe-coded app fined before first sale: 642k + 284k reels). Own script + 4 fact-checked risks: COPPA $53,088 (FTC 2025), Munich Google Fonts EUR100 (LG Muenchen 20 Jan 2022), CIPA $5,000 (PC 637.2), CAN-SPAM $53,088/email. videos/fines/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_9x16.jpg",
@@ -702,7 +702,7 @@
   "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-05T17:00:00Z",
+  "at": "2026-10-12T17:00:00Z",
   "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
