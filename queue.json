@@ -646,5 +646,14 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory_16x9.jpg",
   "ytTitle": "Claude Forgets Everything. Plug In These 4",
   "caption": "Claude forgets everything between sessions. Unless you plug in these four.\n\n1. /init: generates a starter CLAUDE.md from your project. Claude reads it at the start of every conversation.\n2. Keep it short: for each line ask \"would Claude mess up without this?\" If not, cut it.\n3. claude --continue: back into your last conversation. (claude --resume to pick an older one.)\n4. Checkpoints save with the conversation, so you can close the terminal, resume later and still rewind.\n\nSet it up once. Stop re-explaining.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-25T17:00:00Z",
+  "note": "FINES - plug-strip style (power3) on adilet.fndr top topic (vibe-coded app fined before first sale: 642k + 284k reels). Own script + 4 fact-checked risks: COPPA $53,088 (FTC 2025), Munich Google Fonts EUR100 (LG Muenchen 20 Jan 2022), CIPA $5,000 (PC 637.2), CAN-SPAM $53,088/email. videos/fines/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_16x9.jpg",
+  "ytTitle": "Your Vibe-Coded App Can Get Fined Before Its First Sale",
+  "caption": "Your vibe-coded app can rack up fines before it makes a single sale. Four to check before launch:\n\n1. Kids under 13 sign up and you keep their data (COPPA). US civil penalties go up to $53,088 per violation. Fix: an age gate on sign-up.\n2. Fonts loaded straight from Google send every visitor's IP to Google. In January 2022 a Munich court ordered one site to pay a visitor €100 under GDPR. Fix: self-host your fonts.\n3. Session replay recording visitors without consent. California's wiretap law (CIPA) allows $5,000 per violation, and lawyers are suing over it. Fix: no recording or tracking until they consent.\n4. Marketing emails with no unsubscribe link or postal address (CAN-SPAM). Up to $53,088 per email. Fix: add both to every send.\n\nThe one prompt: \"Audit this app for legal exposure and fix what you find: age gate on sign-up, self-host all fonts, no session replay or tracking before consent, unsubscribe link and postal address in every email. List each change you made.\"\n\nNot legal advice. If real money is on the line, talk to a lawyer.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #vibecoding #startup #indiehacker #gdpr #aitools #claudecheats"
  }
 ]
