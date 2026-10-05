@@ -595,10 +595,10 @@
  },
  {
   "at": "2026-10-24T17:00:00Z",
-  "note": "POWER v2 - rebuilt in the reference reel style (Dd4LrTSsx0i): off-white page, mono labels, lowercase build-up headline, README cards, CLAUDE CODE n/4 power strip, Sam line-art sticker avatar (soul_2 job 44523ee7). videos/power2/render.py. Replaced the cream-stage version (videos/power/) at Sam request 2026-10-05.",
-  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power2.mp4",
-  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power2_9x16.jpg",
-  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power2_16x9.jpg",
+  "note": "POWER v3 - rebuilt after watching reel Dd4LrTSsx0i frame by frame (/watch): plug-drop into CLAUDE CODE n/4 strip, strip->card transition, live checklist cards, ghosted next word + orange italic emphasis, dot-grid paper, Sam presenter in 6 poses (soul_2 pose sheet 07db864a), SFX bed. videos/power3/render.py, 1080x1920.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_16x9.jpg",
   "ytTitle": "Stock Claude Code Is Running on Empty. Plug In These 4",
   "caption": "Stock Claude Code is running on empty. Four plugs fix that.\n\n1. GitHub CLI (gh): Claude reads issues and opens pull requests itself. Install it, then run gh auth login once.\n2. Context7: current docs for whatever library you're using. Set up with: npx ctx7 setup --claude\n3. Playwright MCP: Claude clicks through your app in a real browser. claude mcp add playwright npx @playwright/mcp@latest\n4. A code intelligence plugin: catches type errors after every edit. Find the one for your language in /plugin.\n\nScreenshot this. Start with the one that fixes your worst day.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
