@@ -522,7 +522,7 @@
   "caption": "You pasted four thousand lines of error log into the chat. The chat froze.\n\nThere's no need to copy it. Claude can read the file itself.\n\nAnthropic's own Claude Code docs: pipe data straight in to send file contents directly.\n\nThe fix:\n1. In your terminal: cat error.log | claude -p \"what broke?\"\n2. Claude reads the whole file and answers with the line that matters.\n3. Big folder instead of one file? Just tell Claude to go and read it.\n\nStop pasting. Start piping.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-16T17:00:00Z",
+  "at": "2026-11-08T17:00:00Z",
   "note": "PATTERN 'one widget, a whole new style' - point Claude to an existing pattern file - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_9x16.jpg",
@@ -531,7 +531,7 @@
   "caption": "You asked for one calendar widget. Claude invented a brand new style.\n\nNew library. New naming. Nothing like the rest of your app. It never looked at how you already do it.\n\nAnthropic's tip from the Claude Code docs: point Claude to patterns in your codebase.\n\nThe fix:\n1. Name one file that already does it right.\n2. Say: \"look at how the other widgets work, then follow that pattern.\"\n3. Add \"no new libraries\" if you mean it.\n\nOne example beats a page of style rules.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-17T17:00:00Z",
+  "at": "2026-11-09T17:00:00Z",
   "note": "GH 'one GitHub issue, ten steps' - install gh CLI - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_9x16.jpg",
@@ -540,7 +540,7 @@
   "caption": "Claude tried to read one GitHub issue. It took ten steps.\n\nFetch the page. Parse it. Rate limited. Try again. It had no proper tool for the job, so it improvised.\n\nAnthropic's own Claude Code docs: if you use GitHub, install the gh CLI. Claude already knows how to use it for issues, pull requests and comments.\n\nThe fix:\n1. Install the GitHub CLI (gh).\n2. Run gh auth login once.\n3. Ask Claude to read the issue. It uses gh, no scraping.\n\nSame idea for other services: aws, gcloud, sentry-cli. Give Claude the proper tool.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-18T17:00:00Z",
+  "at": "2026-11-10T17:00:00Z",
   "note": "DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
@@ -727,5 +727,32 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_16x9.jpg",
   "ytTitle": "Claude Code Has a Bouncer (Auto Mode, Explained)",
   "caption": "You've clicked Allow two hundred times today. Claude Code has a bouncer for that.\n\nIt's called auto mode. A separate classifier model checks each action before it runs, instead of you.\n\nStraight through: reading files, running tests, routine edits.\nStopped at the door by default: running scripts straight off the internet (curl | bash), sending sensitive data out, force pushes, production deploys.\n\nTurn it on: press Shift+Tab until it says auto. From Claude Code v2.1.283 it's the default starting mode.\n\nSource: code.claude.com/docs/en/permission-modes\n\nSave this before your next long session.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-16T17:00:00Z",
+  "note": "PROJECTS - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/projects/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects_16x9.jpg",
+  "ytTitle": "Stop Re-Explaining Yourself to Claude Every Chat (Use Projects)",
+  "caption": "Every new chat, you explain your business to Claude. Again. Who you are, what you sell, how you like things written.\n\nThere's a better way: a project.\n\nA project is a workspace in Claude. Upload your files (about us, price list, examples) and write your instructions once. Every chat inside that project already knows the lot.\n\nHow: claude.ai, then Projects, then new project.\nFree accounts get up to five projects. Make one per client, or one per side hustle.\n\nSave this and set one up tonight.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
+ },
+ {
+  "at": "2026-10-17T17:00:00Z",
+  "note": "EDIT - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/edit/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit_16x9.jpg",
+  "ytTitle": "Stop Arguing With Claude. Edit Your First Message Instead",
+  "caption": "Claude misunderstood you. So you corrected it. Then again. And again. Twenty messages later it's more confused than when you started.\n\nThat's because every wrong turn stays in the chat, and Claude keeps reading all of it.\n\nInstead: scroll up to your first message and edit it.\nDesktop: hover over your message and click the pencil.\nPhone: press and hold your message, then tap Edit.\n\nFix what you asked, send it again, and the mess drops out of the new version of the chat.\n\nWrong answer? Don't argue with it. Edit the question.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
+ },
+ {
+  "at": "2026-10-18T17:00:00Z",
+  "note": "WAFFLE - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/waffle/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_16x9.jpg",
+  "ytTitle": "Claude Writes Essays When You Want One Line? Fix It Once",
+  "caption": "You asked Claude a yes or no question. It wrote you an essay. Headings, bullet points, a summary of the summary.\n\nIt doesn't know you want it short, because you've never told it.\n\nFix it once: in your Claude settings, add Instructions for Claude. They apply to every conversation you start.\n\nTry:\n\"Keep it short. Plain English. No bullet points unless I ask.\"\n(Add UK spelling if that's you.)\n\nWrite them once, skip the scroll forever.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
  }
 ]
