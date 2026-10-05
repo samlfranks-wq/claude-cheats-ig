@@ -648,7 +648,7 @@
   "caption": "Claude forgets everything between sessions. Unless you plug in these four.\n\n1. /init: generates a starter CLAUDE.md from your project. Claude reads it at the start of every conversation.\n2. Keep it short: for each line ask \"would Claude mess up without this?\" If not, cut it.\n3. claude --continue: back into your last conversation. (claude --resume to pick an older one.)\n4. Checkpoints save with the conversation, so you can close the terminal, resume later and still rewind.\n\nSet it up once. Stop re-explaining.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-25T17:00:00Z",
+  "at": "2026-10-30T17:00:00Z",
   "note": "FINES - plug-strip style (power3) on adilet.fndr top topic (vibe-coded app fined before first sale: 642k + 284k reels). Own script + 4 fact-checked risks: COPPA $53,088 (FTC 2025), Munich Google Fonts EUR100 (LG Muenchen 20 Jan 2022), CIPA $5,000 (PC 637.2), CAN-SPAM $53,088/email. videos/fines/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_9x16.jpg",
