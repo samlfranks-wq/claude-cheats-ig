@@ -700,5 +700,14 @@
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_16x9.jpg",
   "ytTitle": "Stop Explaining the Same Checklist to Claude. Use Subagents",
   "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+ },
+ {
+  "at": "2026-11-05T17:00:00Z",
+  "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_16x9.jpg",
+  "ytTitle": "Your Claude Code Bill Has 4 Leaks (Anthropic's Own Fixes)",
+  "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  }
 ]
