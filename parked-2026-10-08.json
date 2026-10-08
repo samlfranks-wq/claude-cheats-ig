@@ -1,0 +1,23 @@
+{
+ "why": "Replaced by Lunch-series versions of the same topics (closed.mp4 = RESUME, coffee.mp4 = PLAN) on 2026-10-08. Re-add to queue.json to restore.",
+ "items": [
+  {
+   "at": "2026-10-15T17:00:00Z",
+   "note": "RESUME 'two hours of context, gone?' - claude --continue / --resume - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume.mp4",
+   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume_9x16.jpg",
+   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/resume_16x9.jpg",
+   "ytTitle": "Closed the Terminal? Your Claude Session Isn't Gone",
+   "caption": "You closed the terminal. Two hours of explaining, gone.\n\nExcept it wasn't. Claude Code saves your conversations locally.\n\nAnthropic's own docs: when a task spans several sittings, you don't have to re-explain the context.\n\nThe fix:\n1. claude --continue picks up your last conversation, right where you left off.\n2. claude --resume shows a list so you can pick an older one.\n3. Give sessions descriptive names (like oauth-migration) so you can find them later.\n\nSave this for the next time you close the wrong window.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+  },
+  {
+   "at": "2026-11-03T17:00:00Z",
+   "note": "PLAN 'half a sentence, twelve files' - plan mode (Shift+Tab) - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan.mp4",
+   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan_9x16.jpg",
+   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plan_16x9.jpg",
+   "ytTitle": "Claude Started Coding Before You Finished (Use Plan Mode)",
+   "caption": "You typed half a sentence. Claude already changed twelve files.\n\nIt's not being rude. Nobody told it to read first.\n\nAnthropic's own Claude Code docs: use plan mode to separate exploration from execution. Explore, then plan, then code.\n\nThe fix:\n1. Press Shift+Tab until the status bar says plan mode.\n2. Claude reads files and answers questions, but can't edit anything.\n3. It writes a plan. You approve it. Then it codes.\n\nThe rule: big change across many files? Plan mode. If you could describe the change in one sentence, skip the plan and just ask.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+  }
+ ]
+}
