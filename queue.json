@@ -467,7 +467,11 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_9x16.jpg",
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/power3_16x9.jpg",
     "ytTitle": "Stock Claude Code Is Running on Empty. Plug In These 4",
-    "caption": "Stock Claude Code is running on empty. Four plugs fix that.\n\n1. GitHub CLI (gh): Claude reads issues and opens pull requests itself. Install it, then run gh auth login once.\n2. Context7: current docs for whatever library you're using. Set up with: npx ctx7 setup --claude\n3. Playwright MCP: Claude clicks through your app in a real browser. claude mcp add playwright npx @playwright/mcp@latest\n4. A code intelligence plugin: catches type errors after every edit. Find the one for your language in /plugin.\n\nScreenshot this. Start with the one that fixes your worst day.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+    "caption": "Stock Claude Code is running on empty. Four plugs fix that.\n\n1. GitHub CLI (gh): Claude reads issues and opens pull requests itself. Install it, then run gh auth login once.\n2. Context7: current docs for whatever library you're using. Set up with: npx ctx7 setup --claude\n3. Playwright MCP: Claude clicks through your app in a real browser. claude mcp add playwright npx @playwright/mcp@latest\n4. A code intelligence plugin: catches type errors after every edit. Find the one for your language in /plugin.\n\nScreenshot this. Start with the one that fixes your worst day.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "posted": "2026-10-08T19:42:21.605Z",
+    "fb": "2026-10-08T19:42:35.774Z",
+    "ytAttempts": 1,
+    "ytError": "exit 1 at 2026-10-08T19:42:36.043Z"
   },
   {
     "at": "2026-10-09T17:00:00Z",
