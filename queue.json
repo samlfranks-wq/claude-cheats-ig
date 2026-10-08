@@ -456,8 +456,9 @@
     "caption": "Remember Claude waiting two hours for you to say yes? Someone in the comments asked: why is it even asking?\n\nFair point. Turn on auto mode.\n\nHow:\n1. In your terminal, press Shift+Tab until the status bar says \"auto mode on\". On the newest Claude Code version it's already the default.\n2. Claude stops asking about every little command. A second model checks each action before it runs.\n3. The risky stuff still gets blocked: force pushes, deleting files that were already there, production deploys.\n4. Using /rc (remote control)? Switch auto mode on in the terminal before you leave. You can't pick it from the phone app.\n\nThe catch: it's not a safety guarantee. Use it on work you trust.\n\nWant Claude running whole jobs on its own? My Chat to Agent course is the link in my bio.\n\nManual approvals or auto mode? Tell me below.\n\nSave this, and follow @claude.cheats for more.\n\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats",
     "posted": "2026-10-07T19:46:40.803Z",
     "fb": "2026-10-07T19:46:53.683Z",
-    "ytAttempts": 2,
-    "ytError": "exit 1 at 2026-10-07T21:43:31.363Z"
+    "ytAttempts": 3,
+    "ytError": "exit 1 at 2026-10-08T01:21:05.968Z",
+    "ytSkip": true
   },
   {
     "at": "2026-10-08T17:00:00Z",
