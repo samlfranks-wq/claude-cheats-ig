@@ -505,6 +505,15 @@
  },
  {
   "at": "2026-10-12T17:00:00Z",
+  "note": "ARGUE - remake of nocodealex COURT topic (446k, sycophancy). Our fix: paste-it prompt (argue fails/works/which won) + Claude Code fresh-eyes subagent (best-practices doc). Boxing-ring visual. ATTEMPT6 renderer. videos/argue/.",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/argue.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/argue_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/argue_16x9.jpg",
+  "ytTitle": "Claude Said Your Idea Was Brilliant. Make It Argue Instead",
+  "caption": "You asked Claude about your business idea. It said brilliant. Your mate said it'll never work.\n\nWho's right? Probably your mate. Claude tends to agree with whoever it's talking to. It's called sycophancy.\n\nThe fix: make it argue with itself. Paste this:\n\"Argue that my idea fails. Then argue that it works. Then tell me which side won, and why.\"\n\nNow it's picking holes, not handing out compliments.\n\nCoding? Ask a subagent to review it with fresh eyes. It never heard you hyping it up. (That's in Anthropic's own Claude Code best practices.)\n\nThe catch: it'll find problems in good ideas too. Tell it to flag only the ones that actually matter.\n\nWant Claude doing whole jobs you can actually trust? My Chat to Agent course is the link in my bio.\n\nSend this to the mate who's always right.\n\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #chatgpt #aitools #promptengineering #startup #productivity #claudecheats"
+ },
+ {
+  "at": "2026-10-13T17:00:00Z",
   "note": "WORKTREE - LUNCH series #7. Fix: claude --worktree, desktop worktree option. videos/worktree/.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/worktree.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/worktree_9x16.jpg",
@@ -513,7 +522,7 @@
   "caption": "You ran two Claudes on the same project to go twice as fast. One fixed the login. The other rewrote the same file. Now neither works.\r\n\r\nNext time, give each Claude its own copy of the code. That's a worktree.\r\n\r\nThe fix:\r\n1. Type: claude --worktree login-fix (any name for the job)\r\n2. Each session gets its own files. One builds a feature, the other fixes a bug, and they never touch.\r\n3. In the desktop app, pick the worktree option when you start a session.\r\n4. When they're done, each one's work sits on its own git branch, ready to merge.\r\n\r\nThe catch: it works best when your project is in git.\r\n\r\nWant Claude running whole jobs on its own? My Chat to Agent course is the link in my bio.\r\n\r\nHow many Claudes do you run at once? Tell me below.\r\n\r\nSave this, and follow @claude.cheats for more.\r\n\r\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats"
  },
  {
-  "at": "2026-10-13T17:00:00Z",
+  "at": "2026-10-14T17:00:00Z",
   "note": "COFFEE - LUNCH series #8 (PLAN topic, replaces the 4 Oct cream-stage plan.mp4). Fix: plan mode via Shift+Tab. videos/coffee/.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/coffee.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/coffee_9x16.jpg",
@@ -522,7 +531,7 @@
   "caption": "You gave Claude a job and went for coffee. An hour later, it had built the wrong thing.\r\n\r\nIt guessed what you meant, and never checked.\r\n\r\nThe fix: plan mode.\r\n1. Press Shift+Tab until the status bar says \"plan mode on\".\r\n2. Claude reads your code and writes a plan. It doesn't touch a single file.\r\n3. You read the plan and fix the wrong guess in thirty seconds.\r\n4. Looks right? Approve it, and then it builds.\r\n\r\nNow go for coffee. You come back to the right thing.\r\n\r\nThe catch: one extra minute up front. Worth it every time.\r\n\r\nWant Claude running whole jobs on its own? My Chat to Agent course is the link in my bio.\r\n\r\nWhat's the strangest thing Claude has built when you weren't looking? Tell me below.\r\n\r\nSave this, and follow @claude.cheats for more.\r\n\r\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats"
  },
  {
-  "at": "2026-10-14T17:00:00Z",
+  "at": "2026-10-15T17:00:00Z",
   "note": "Command Tree - real demo-mode footage of slf-command-tree + SFX bed. Caption promises a 'how it's built' follow-up if people comment TREE.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tree.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tree_9x16.jpg",
@@ -531,7 +540,7 @@
   "caption": "Nine Claude sessions running. Which one is stuck?\n\nI got tired of clicking through every tab to find out, so I had Claude build me a command tree.\n\nEvery session is a hexagon, grouped by job: clients, content, growth.\nGold means it's working. Grey means it's sat idle.\nHover one to see what it's up to.\nClick it to pick the next step: carry on, status update, or wrap up.\nOr type one sentence and it works out what every session should do.\nAnd it works from my phone.\n\nThe catch: I left it checking every three minutes and it burned tokens all night. Now it only refreshes when I ask. If you build one, don't leave it looping.\n\n(Shown in demo mode with example sessions.)\n\nComment TREE and I'll show you how it's built.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aiagents #aitools #productivity #automation #developertools #vibecoding"
  },
  {
-  "at": "2026-10-15T17:00:00Z",
+  "at": "2026-10-16T17:00:00Z",
   "note": "Hot Repo #2 (stablyai/orca) - fast template at speech_rate 38 (195 WPM).",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca_9x16.jpg",
@@ -540,7 +549,7 @@
   "caption": "You gave Claude one prompt. It made one guess. It was wrong.\n\nHot repo of the week #2: stablyai/orca, over 6,000 new GitHub stars in seven days.\n\nOrca runs one prompt through five agents at once, each in its own git worktree so they never touch each other's files. Claude Code, Codex and OpenCode side by side. Compare the answers, merge the winner, bin the rest.\n\nIt also pings your phone when the agents finish, and shows your Claude usage and when your limit resets.\n\nThe catch: five agents means roughly five times the usage. Save it for the hard problems, not the one-line fixes.\n\nSetup (Mac):\nbrew install --cask stablyai/orca/orca\n\nOr grab the desktop app from the repo. Open source, MIT licence.\n\ngithub.com/stablyai/orca\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #aiagents #aitools #developertools #vibecoding"
  },
  {
-  "at": "2026-10-16T17:00:00Z",
+  "at": "2026-10-17T17:00:00Z",
   "note": "ATTEMPT6 - LUNCH series #9, fix-loop topic (replaces cream-stage loop.mp4). Upgrades: 688x540 stage, camera push-in + punch, whip cuts, squash/stretch bots, ATTEMPT counter, SHARE CTA. Fix: after two failed tries /clear + one better prompt (best-practices doc). videos/attempt6/.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/attempt6.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/attempt6_9x16.jpg",
@@ -549,7 +558,7 @@
   "caption": "Attempt six. Claude says \"you're absolutely right, it's fixed\". It's not.\n\nSo you paste the error again. And again. Here's the problem: every failed fix is still sitting in the chat, and Claude keeps building on its own bad ideas.\n\nThe fix:\n1. After two failed tries, stop.\n2. Type /clear. Fresh chat, zero baggage.\n3. Write one better prompt: what broke, what you tried, what didn't work.\n\nA clean chat with a better prompt usually fixes it first time. That's straight from Anthropic's own Claude Code best practices.\n\nThe catch: /clear wipes the chat, so note what you learned first.\n\nWant Claude doing whole jobs without the loop? My Chat to Agent course is the link in my bio.\n\nSend this to someone on attempt six.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats"
  },
  {
-  "at": "2026-10-17T17:00:00Z",
+  "at": "2026-10-18T17:00:00Z",
   "note": "FINES - plug-strip style (power3) on adilet.fndr top topic (vibe-coded app fined before first sale: 642k + 284k reels). Own script + 4 fact-checked risks: COPPA $53,088 (FTC 2025), Munich Google Fonts EUR100 (LG Muenchen 20 Jan 2022), CIPA $5,000 (PC 637.2), CAN-SPAM $53,088/email. videos/fines/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fines_9x16.jpg",
@@ -558,7 +567,7 @@
   "caption": "Your vibe-coded app can rack up fines before it makes a single sale. Four to check before launch:\n\n1. Kids under 13 sign up and you keep their data (COPPA). US civil penalties go up to $53,088 per violation. Fix: an age gate on sign-up.\n2. Fonts loaded straight from Google send every visitor's IP to Google. In January 2022 a Munich court ordered one site to pay a visitor €100 under GDPR. Fix: self-host your fonts.\n3. Session replay recording visitors without consent. California's wiretap law (CIPA) allows $5,000 per violation, and lawyers are suing over it. Fix: no recording or tracking until they consent.\n4. Marketing emails with no unsubscribe link or postal address (CAN-SPAM). Up to $53,088 per email. Fix: add both to every send.\n\nThe one prompt: \"Audit this app for legal exposure and fix what you find: age gate on sign-up, self-host all fonts, no session replay or tracking before consent, unsubscribe link and postal address in every email. List each change you made.\"\n\nNot legal advice. If real money is on the line, talk to a lawyer.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #vibecoding #startup #indiehacker #gdpr #aitools #claudecheats"
  },
  {
-  "at": "2026-10-18T17:00:00Z",
+  "at": "2026-10-19T17:00:00Z",
   "note": "INTERVIEW 'built what you said' - AskUserQuestion interview -> SPEC.md -> fresh chat - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_9x16.jpg",
@@ -567,7 +576,7 @@
   "caption": "Claude built exactly what you asked for. Not what you wanted.\n\nYour prompt had ten words. The feature had forty decisions. Claude guessed every one.\n\nAnthropic's tip for bigger features: have Claude interview you first.\n\nThe fix:\n1. Start with: \"I want to build [your feature]. Interview me in detail using the AskUserQuestion tool.\"\n2. Answer its questions, then: \"Write a complete spec to SPEC.md.\"\n3. Open a fresh chat and build from the spec, with clean context.\n\nNo more guessing.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-19T17:00:00Z",
+  "at": "2026-10-20T17:00:00Z",
   "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
@@ -576,7 +585,7 @@
   "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-20T17:00:00Z",
+  "at": "2026-10-21T17:00:00Z",
   "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
@@ -585,7 +594,7 @@
   "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-21T17:00:00Z",
+  "at": "2026-10-22T17:00:00Z",
   "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
@@ -594,7 +603,7 @@
   "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats"
  },
  {
-  "at": "2026-10-22T17:00:00Z",
+  "at": "2026-10-23T17:00:00Z",
   "note": "BOUNCER - full-animation style (no presenter), look modelled on nocodealex DeEH5Z9OkGk (297k): full-bleed papercraft sets, taped title label, paper word tags. Own characters + topic (auto mode, permission-modes docs). videos/bouncer/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_9x16.jpg",
@@ -603,7 +612,7 @@
   "caption": "You've clicked Allow two hundred times today. Claude Code has a bouncer for that.\n\nIt's called auto mode. A separate classifier model checks each action before it runs, instead of you.\n\nStraight through: reading files, running tests, routine edits.\nStopped at the door by default: running scripts straight off the internet (curl | bash), sending sensitive data out, force pushes, production deploys.\n\nTurn it on: press Shift+Tab until it says auto. From Claude Code v2.1.283 it's the default starting mode.\n\nSource: code.claude.com/docs/en/permission-modes\n\nSave this before your next long session.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-23T17:00:00Z",
+  "at": "2026-10-24T17:00:00Z",
   "note": "PROJECTS - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/projects/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects_9x16.jpg",
@@ -612,7 +621,7 @@
   "caption": "Every new chat, you explain your business to Claude. Again. Who you are, what you sell, how you like things written.\n\nThere's a better way: a project.\n\nA project is a workspace in Claude. Upload your files (about us, price list, examples) and write your instructions once. Every chat inside that project already knows the lot.\n\nHow: claude.ai, then Projects, then new project.\nFree accounts get up to five projects. Make one per client, or one per side hustle.\n\nSave this and set one up tonight.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
  },
  {
-  "at": "2026-10-24T17:00:00Z",
+  "at": "2026-10-25T17:00:00Z",
   "note": "EDIT - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/edit/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit_9x16.jpg",
@@ -621,7 +630,7 @@
   "caption": "Claude misunderstood you. So you corrected it. Then again. And again. Twenty messages later it's more confused than when you started.\n\nThat's because every wrong turn stays in the chat, and Claude keeps reading all of it.\n\nInstead: scroll up to your first message and edit it.\nDesktop: hover over your message and click the pencil.\nPhone: press and hold your message, then tap Edit.\n\nFix what you asked, send it again, and the mess drops out of the new version of the chat.\n\nWrong answer? Don't argue with it. Edit the question.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
  },
  {
-  "at": "2026-10-25T17:00:00Z",
+  "at": "2026-10-26T17:00:00Z",
   "note": "WAFFLE - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/waffle/render.py.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_9x16.jpg",
@@ -630,7 +639,7 @@
   "caption": "You asked Claude a yes or no question. It wrote you an essay. Headings, bullet points, a summary of the summary.\n\nIt doesn't know you want it short, because you've never told it.\n\nFix it once: in your Claude settings, add Instructions for Claude. They apply to every conversation you start.\n\nTry:\n\"Keep it short. Plain English. No bullet points unless I ask.\"\n(Add UK spelling if that's you.)\n\nWrite them once, skip the scroll forever.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats"
  },
  {
-  "at": "2026-10-26T17:00:00Z",
+  "at": "2026-10-27T17:00:00Z",
   "note": "BATCH '2,000 files, one Claude' - /batch fans out to 5-30 subagents in worktrees - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_9x16.jpg",
@@ -639,7 +648,7 @@
   "caption": "Two thousand files to migrate. You gave them all to one Claude.\n\nBy file 212 the context was full and it was starting to forget. One conversation was never going to hold the whole job.\n\nAnthropic's own Claude Code docs: for large migrations or analyses, distribute the work across many parallel Claude invocations.\n\nThe fix:\n1. Type /batch followed by your instruction.\n2. Claude splits the change across 5 to 30 subagents, each working in its own worktree.\n3. Try it on a few files first, then run the lot.\n\nBig job? Fan it out.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-27T17:00:00Z",
+  "at": "2026-10-28T17:00:00Z",
   "note": "ONBOARD 'new codebase, two days reading' - ask Claude codebase questions - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_9x16.jpg",
@@ -648,7 +657,7 @@
   "caption": "New codebase. Forty thousand lines. Two days of reading, and still no idea how the login works.\n\nThere's a senior engineer who has read every line. It's Claude.\n\nAnthropic's own Claude Code docs: ask Claude the questions you'd ask a senior engineer. It's an effective onboarding workflow, and no special prompting is required.\n\nTry:\n1. How does logging work?\n2. How do I make a new API endpoint?\n3. Why does this code call foo() instead of bar()?\n\nNew codebase? Ask first, read second.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-28T17:00:00Z",
+  "at": "2026-10-29T17:00:00Z",
   "note": "BTW 'one quick question, stuck forever' - /btw side questions stay out of history - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw_9x16.jpg",
@@ -657,7 +666,7 @@
   "caption": "You asked Claude one quick question in the middle of a task. Now it sits in the conversation, taking up space, for the rest of the session.\n\nEvery detour fills the context, and long sessions full of irrelevant context can make Claude worse.\n\nAnthropic's own Claude Code docs: for quick questions that don't need to stay in context, use /btw. The answer never enters conversation history.\n\nThe fix:\n1. Quick side question? /btw what port is the server on?\n2. Brand new task? /clear and start fresh.\n\nKeep the main chat for the main job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-29T17:00:00Z",
+  "at": "2026-10-30T17:00:00Z",
   "note": "MCP 'copy, paste, copy, paste' - claude mcp add - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp_9x16.jpg",
@@ -666,7 +675,7 @@
   "caption": "You copied the ticket, the design notes and the database rows into one prompt. Notion tab, Figma tab, database tab, back to Claude.\n\nClaude couldn't open those tools, so you became the courier.\n\nAnthropic's own Claude Code docs: run claude mcp add to connect external tools like Notion, Figma, or your database.\n\nThe fix:\n1. claude mcp add with the server's name and URL (once).\n2. Then just ask: \"read the ticket\", \"check the design\", \"query the orders table\".\n3. Copying from the same tool every day? That's the one to connect first.\n\nStop being the courier.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-30T17:00:00Z",
+  "at": "2026-10-31T17:00:00Z",
   "note": "ATFILE 'a paragraph to find one file' - @ file references - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_9x16.jpg",
@@ -675,7 +684,7 @@
   "caption": "You wrote a whole paragraph explaining where one file lives. \"It's in src. No, the other src. Next to the old one.\"\n\nSo Claude went looking, and opened the wrong file.\n\nAnthropic's own Claude Code docs: reference files with @ instead of describing where code lives. Claude reads the file before responding.\n\nThe fix:\n1. Type @ and start the file name.\n2. Pick it from the list.\n3. Don't know where it lives? Ask Claude to find it first.\n\nPoint, don't describe.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-10-31T17:00:00Z",
+  "at": "2026-11-01T17:00:00Z",
   "note": "Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1_9x16.jpg",
@@ -684,7 +693,7 @@
   "caption": "Claude reviewed your 40-file pull request. It read four of them.\n\nHot repo of the week: alibaba/open-code-review, almost 10,000 new GitHub stars in seven days.\n\nIt's the AI code reviewer Alibaba ran internally for two years across tens of thousands of developers, now open source (Apache-2.0).\n\nWhy it's different: hard-coded rules decide which files get reviewed, so nothing gets skipped, and the AI only does the judging. On Alibaba's own benchmark, using the same model as Claude Code, it raised fewer false alarms on about a ninth of the tokens. The trade-off, in their words: it catches fewer issues overall, in exchange for less noise.\n\nSetup:\nnpm install -g @alibaba-group/open-code-review\nocr review\n\nOr let Claude Code run the review itself with delegate mode (ocr delegate), no extra API key needed.\n\ngithub.com/alibaba/open-code-review\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #codereview #aitools #developertools #vibecoding"
  },
  {
-  "at": "2026-11-01T17:00:00Z",
+  "at": "2026-11-02T17:00:00Z",
   "note": "SAFETY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety_9x16.jpg",
@@ -693,7 +702,7 @@
   "caption": "Your Claude Code has zero safety nets. Fit these four before it deletes something.\n\n1. Checkpoints: double-tap Esc (or /rewind) to restore the code, the chat, or both.\n2. Git: commit before big changes. Checkpoints only track Claude's own edits, so they don't replace git.\n3. Hooks: block what must never happen. Hooks are guaranteed, CLAUDE.md is only advice.\n4. /sandbox: sandboxed commands run walled off, without asking you every time.\n\nScreenshot this. Set them up before you need them.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-02T17:00:00Z",
+  "at": "2026-11-03T17:00:00Z",
   "note": "FOCUS - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus_9x16.jpg",
@@ -702,7 +711,7 @@
   "caption": "Claude's focus is at zero. Your chat is full of old tasks, giant logs and side questions. Four commands fix it.\n\n1. /clear between unrelated tasks. Clean slate.\n2. /compact with instructions, like: /compact Focus on the API changes\n3. /btw for quick side questions. The answer never enters the history.\n4. \"Use subagents to investigate X\". The research happens in its own context, not yours.\n\nAnthropic's own docs call the context window the most important resource to manage. Protect it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-03T17:00:00Z",
+  "at": "2026-11-04T17:00:00Z",
   "note": "QUALITY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality_9x16.jpg",
@@ -711,7 +720,7 @@
   "caption": "Claude says it's done. Nobody checked. Plug in these four.\n\n1. Give Claude a check it can run: tests, a build, or a screenshot to compare.\n2. A hook that runs your linter after every edit. Ask Claude: \"write a hook that runs eslint after every file edit\".\n3. /code-review: a fresh subagent reviews the diff for bugs, without the reasoning that wrote it.\n4. A code intelligence plugin: type errors caught automatically after edits. Find yours in /plugin.\n\nIf you can't verify it, don't ship it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-04T17:00:00Z",
+  "at": "2026-11-05T17:00:00Z",
   "note": "SPEED - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed_9x16.jpg",
@@ -720,7 +729,7 @@
   "caption": "Your Claude Code does one job at a time. Here's how to run four.\n\n1. Skills: write a workflow once in .claude/skills/<name>/SKILL.md, then run it with /<name>.\n2. claude -p: pipe a file straight in from the terminal, e.g. cat error.log | claude -p \"what broke?\"\n3. Worktrees: separate sessions in separate git checkouts, so edits never collide.\n4. /batch: one instruction, split across up to 30 subagents.\n\nStart with skills. They're the easiest win.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-05T17:00:00Z",
+  "at": "2026-11-06T17:00:00Z",
   "note": "MEMORY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory_9x16.jpg",
@@ -729,7 +738,7 @@
   "caption": "Claude forgets everything between sessions. Unless you plug in these four.\n\n1. /init: generates a starter CLAUDE.md from your project. Claude reads it at the start of every conversation.\n2. Keep it short: for each line ask \"would Claude mess up without this?\" If not, cut it.\n3. claude --continue: back into your last conversation. (claude --resume to pick an older one.)\n4. Checkpoints save with the conversation, so you can close the terminal, resume later and still rewind.\n\nSet it up once. Stop re-explaining.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-06T17:00:00Z",
+  "at": "2026-11-07T17:00:00Z",
   "note": "UNDO - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo_9x16.jpg",
@@ -738,7 +747,7 @@
   "caption": "Claude rewrote your navbar. You hate it. Twenty minutes later you're still undoing it by hand.\n\nClaude knows exactly what it changed. You don't.\n\nAnthropic's own Claude Code docs list a two-word fix: \"Undo that\". Claude reverts its own changes.\n\nThe fix:\n1. Don't like the last change? Type: undo that\n2. Need to go further back? Double-tap Esc (or /rewind) and pick the checkpoint.\n\nStop undoing by hand.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-07T17:00:00Z",
+  "at": "2026-11-08T17:00:00Z",
   "note": "TESTFIRST - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst_9x16.jpg",
@@ -747,7 +756,7 @@
   "caption": "Claude wrote the code and the tests. And what do you know? They all pass.\n\nIt's marking its own homework. Same session, same blind spots, in the code and the tests.\n\nAnthropic's own Claude Code docs: have one Claude write tests, then another write code to pass them.\n\nThe fix:\n1. Session one writes the tests.\n2. Session two only gets to make them pass.\n3. When a test fails, fix the code, not the test.\n\nCode that matters deserves a second marker.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-08T17:00:00Z",
+  "at": "2026-11-09T17:00:00Z",
   "note": "STATUS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status_9x16.jpg",
@@ -756,7 +765,7 @@
   "caption": "Halfway through the session, Claude got noticeably worse. Forgetting your rules, repeating old mistakes.\n\nThe context was nearly full, and nothing on screen told you.\n\nAnthropic's own Claude Code docs: track context usage continuously with a custom status line.\n\nThe fix:\n1. Type /statusline and ask for a context meter.\n2. Meter climbing? /compact\n3. Starting something new? /clear\n\nWatch the meter, not the vibes.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-09T17:00:00Z",
+  "at": "2026-11-10T17:00:00Z",
   "note": "CTRLG - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg_9x16.jpg",
@@ -765,7 +774,7 @@
   "caption": "Claude's plan is 90% right. So you retype the whole thing to fix one step, and another step quietly vanishes.\n\nFixing a plan through chat is like texting someone your edits.\n\nAnthropic's own Claude Code docs: in plan mode, press Ctrl+G to open the plan in your text editor for direct editing before Claude proceeds.\n\nThe fix:\n1. Ctrl+G\n2. Change the one line. Save.\n3. Plan totally wrong? Ask for a new one instead.\n\nEdit the plan, don't argue with it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-10T17:00:00Z",
+  "at": "2026-11-11T17:00:00Z",
   "note": "AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
@@ -774,7 +783,7 @@
   "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-11T17:00:00Z",
+  "at": "2026-11-12T17:00:00Z",
   "note": "SKILL 'same prompt forty times' - .claude/skills/<name>/SKILL.md - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_9x16.jpg",
@@ -783,7 +792,7 @@
   "caption": "You've pasted the same giant prompt forty times this month.\n\nEvery new chat, the recipe's gone. So you paste it again.\n\nAnthropic's fix: skills. They can define repeatable workflows you invoke directly.\n\nThe fix:\n1. Create .claude/skills/fix-issue/SKILL.md\n2. Add a name and description at the top, then write your steps once.\n3. Next time, just type /fix-issue.\n\nTyped it twice? Make it a skill.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-12T17:00:00Z",
+  "at": "2026-11-13T17:00:00Z",
   "note": "STOP 'three minutes the wrong way' - Esc mid-action / Esc Esc rewind - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_9x16.jpg",
@@ -792,7 +801,7 @@
   "caption": "You watched Claude head the wrong way for three whole minutes. And you said nothing.\n\nYou didn't want to interrupt. But every minute it keeps going, there's more to undo.\n\nAnthropic's own Claude Code docs: course-correct early and often.\n\nThe fix:\n1. Press Esc. Claude stops mid-action, and the context is kept.\n2. Tell it where it should be going instead.\n3. Already made a mess? Press Esc twice (or type /rewind) to roll back.\n\nInterrupting Claude isn't rude. It's the job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-13T17:00:00Z",
+  "at": "2026-11-14T17:00:00Z",
   "note": "PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
@@ -801,7 +810,7 @@
   "caption": "You pasted four thousand lines of error log into the chat. The chat froze.\n\nThere's no need to copy it. Claude can read the file itself.\n\nAnthropic's own Claude Code docs: pipe data straight in to send file contents directly.\n\nThe fix:\n1. In your terminal: cat error.log | claude -p \"what broke?\"\n2. Claude reads the whole file and answers with the line that matters.\n3. Big folder instead of one file? Just tell Claude to go and read it.\n\nStop pasting. Start piping.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-14T17:00:00Z",
+  "at": "2026-11-15T17:00:00Z",
   "note": "PATTERN 'one widget, a whole new style' - point Claude to an existing pattern file - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_9x16.jpg",
@@ -810,7 +819,7 @@
   "caption": "You asked for one calendar widget. Claude invented a brand new style.\n\nNew library. New naming. Nothing like the rest of your app. It never looked at how you already do it.\n\nAnthropic's tip from the Claude Code docs: point Claude to patterns in your codebase.\n\nThe fix:\n1. Name one file that already does it right.\n2. Say: \"look at how the other widgets work, then follow that pattern.\"\n3. Add \"no new libraries\" if you mean it.\n\nOne example beats a page of style rules.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-15T17:00:00Z",
+  "at": "2026-11-16T17:00:00Z",
   "note": "GH 'one GitHub issue, ten steps' - install gh CLI - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_9x16.jpg",
@@ -819,7 +828,7 @@
   "caption": "Claude tried to read one GitHub issue. It took ten steps.\n\nFetch the page. Parse it. Rate limited. Try again. It had no proper tool for the job, so it improvised.\n\nAnthropic's own Claude Code docs: if you use GitHub, install the gh CLI. Claude already knows how to use it for issues, pull requests and comments.\n\nThe fix:\n1. Install the GitHub CLI (gh).\n2. Run gh auth login once.\n3. Ask Claude to read the issue. It uses gh, no scraping.\n\nSame idea for other services: aws, gcloud, sentry-cli. Give Claude the proper tool.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
  },
  {
-  "at": "2026-11-16T17:00:00Z",
+  "at": "2026-11-17T17:00:00Z",
   "note": "DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
