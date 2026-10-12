@@ -520,21 +520,21 @@
  },
  {
   "at": "2026-10-13T17:00:00Z",
+  "note": "CV3D - FIRST 3D VIDEO (cheats3d/ Remotion + three.js voxel sets, after nocodealex RESUME 876k). Mass-market job-hunting topic: Claude does the recruiter 7-second skim (Ladders 2018 eye-tracking, 7.4 s), rewrite top third, nothing invented. Share CTA. Source: Desktop/Claude/cheats3d/src/CV.jsx; VO/timing videos/cv3d/. | 12 Oct: moved to 13 Oct with the viral crying-bot thumbnail (thumb_viral_9x16).",
+  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d.mp4",
+  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d_9x16.jpg",
+  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d_16x9.jpg",
+  "ytTitle": "40 Applications, Zero Replies? Make Claude Do the 7-Second Skim",
+  "caption": "Forty applications. Zero replies. And nobody tells you why.\n\nOne eye-tracking study (Ladders, 2018) found recruiters skim a CV for about 7 seconds before deciding.\n\nSo get Claude to do that skim first. Paste in the job ad and your CV, and say:\n\"You're the recruiter for this job. You've got 7 seconds. Why did you bin my CV?\"\n\nIt tells you what the skim missed: no numbers, your best skill buried on page two.\n\nThen: \"Rewrite the top third so it survives 7 seconds.\"\n\nSame experience. Now it actually gets read.\n\nThe catch: don't let it invent anything. Every line on your CV still has to be true.\n\nWant Claude doing whole jobs like this for you? My Chat to Agent course is the link in my bio.\n\nSend this to a mate who's job hunting.\n\nFollow @claude.cheats for more.\n\n#claudeai #jobsearch #cv #careeradvice #jobhunting #aitools #chatgpt #claudecheats"
+ },
+ {
+  "at": "2026-10-14T17:00:00Z",
   "note": "WORKTREE - LUNCH series #7. Fix: claude --worktree, desktop worktree option. videos/worktree/.",
   "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/worktree.mp4",
   "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/worktree_9x16.jpg",
   "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/worktree_16x9.jpg",
   "ytTitle": "Two Claudes, One File: Use Worktrees",
   "caption": "You ran two Claudes on the same project to go twice as fast. One fixed the login. The other rewrote the same file. Now neither works.\r\n\r\nNext time, give each Claude its own copy of the code. That's a worktree.\r\n\r\nThe fix:\r\n1. Type: claude --worktree login-fix (any name for the job)\r\n2. Each session gets its own files. One builds a feature, the other fixes a bug, and they never touch.\r\n3. In the desktop app, pick the worktree option when you start a session.\r\n4. When they're done, each one's work sits on its own git branch, ready to merge.\r\n\r\nThe catch: it works best when your project is in git.\r\n\r\nWant Claude running whole jobs on its own? My Chat to Agent course is the link in my bio.\r\n\r\nHow many Claudes do you run at once? Tell me below.\r\n\r\nSave this, and follow @claude.cheats for more.\r\n\r\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats"
- },
- {
-  "at": "2026-10-14T17:00:00Z",
-  "note": "CV3D - FIRST 3D VIDEO (cheats3d/ Remotion + three.js voxel sets, after nocodealex RESUME 876k). Mass-market job-hunting topic: Claude does the recruiter 7-second skim (Ladders 2018 eye-tracking, 7.4 s), rewrite top third, nothing invented. Share CTA. Source: Desktop/Claude/cheats3d/src/CV.jsx; VO/timing videos/cv3d/.",
-  "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d.mp4",
-  "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d_9x16.jpg",
-  "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cv3d_16x9.jpg",
-  "ytTitle": "40 Applications, Zero Replies? Make Claude Do the 7-Second Skim",
-  "caption": "Forty applications. Zero replies. And nobody tells you why.\n\nOne eye-tracking study (Ladders, 2018) found recruiters skim a CV for about 7 seconds before deciding.\n\nSo get Claude to do that skim first. Paste in the job ad and your CV, and say:\n\"You're the recruiter for this job. You've got 7 seconds. Why did you bin my CV?\"\n\nIt tells you what the skim missed: no numbers, your best skill buried on page two.\n\nThen: \"Rewrite the top third so it survives 7 seconds.\"\n\nSame experience. Now it actually gets read.\n\nThe catch: don't let it invent anything. Every line on your CV still has to be true.\n\nWant Claude doing whole jobs like this for you? My Chat to Agent course is the link in my bio.\n\nSend this to a mate who's job hunting.\n\nFollow @claude.cheats for more.\n\n#claudeai #jobsearch #cv #careeradvice #jobhunting #aitools #chatgpt #claudecheats"
  },
  {
   "at": "2026-10-15T17:00:00Z",
