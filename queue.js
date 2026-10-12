@@ -62,6 +62,7 @@ const fbCreds = () => {
 };
 function crossPostFB(it) {
   if (!fbEnabled()) return 'off';
+  if (it.fb) { console.log('  FB: already on the Page (' + it.fb + ') - skipped.'); return 'already'; }   // re-posted IG item (12 Oct)
   if (!fbCreds()) { console.log('  FB: no FB_PAGE_ID/FB_PAGE_TOKEN here — skipped (backfill will retry).'); return 'skipped'; }
   const args = ['post-facebook.js', '--url', it.url, '--caption', it.caption ?? '', '--reel'];
   if (it.cover) args.push('--cover', it.cover);
@@ -94,6 +95,7 @@ if (missed) {
 const ytEnabled = () => (process.env.YT_UPLOAD || '1') !== '0';
 function crossPostYT(it) {
   if (!ytEnabled()) return 'off';
+  if (it.yt) { console.log('  YT: already uploaded (' + it.yt + ') - skipped.'); return 'already'; }
   if (!ytConfigured()) { console.log('  YT: no YouTube credentials here - skipped (backfill will retry).'); return 'skipped'; }
   const args = ['post-youtube.js', '--url', it.url, '--caption', it.caption ?? ''];
   if (it.ytTitle) args.push('--title', it.ytTitle);
