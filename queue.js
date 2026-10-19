@@ -144,13 +144,22 @@ if (dueIndex === -1) {
   process.exit(0);
 }
 
-// One post per day — hard rule for this account. Burst posting on 27 Aug 2026
-// cost 30x reach (posts 3 and 4 got 4 and 6 views against 179 for post 2).
-// Without this, a missed day would drain the backlog at one per HOUR, because
-// the runner fires hourly and only ever checks "is this item due yet".
-const alreadyToday = items.find((it) => it.posted && it.posted.slice(0, 10) === today);
-if (alreadyToday) {
-  console.log(`Already posted today (${alreadyToday.at}). One per day — stopping.`);
+// Daily cap. Burst posting on 27 Aug 2026 cost 30x reach (posts 3 and 4 got 4
+// and 6 views against 179 for post 2), so this was one per day until 20 Oct.
+// From 20 Oct Sam is testing TWO a day (13:00 + 18:00 London): at most
+// MAX_PER_DAY posts, and never within MIN_GAP_H hours of the last one, so a
+// late or missed run can never fire two back to back. Without a cap a missed
+// day would drain the backlog at one per tick. Set MAX_PER_DAY=1 to go back.
+const MAX_PER_DAY = Number(process.env.MAX_PER_DAY || 2), MIN_GAP_H = 4;
+const postedToday = items.filter((it) => it.posted && it.posted.slice(0, 10) === today)
+  .sort((a, b) => a.posted.localeCompare(b.posted));
+if (postedToday.length >= MAX_PER_DAY) {
+  console.log(`Already posted ${postedToday.length} today (cap ${MAX_PER_DAY}) — stopping.`);
+  process.exit(0);
+}
+const lastToday = postedToday[postedToday.length - 1];
+if (lastToday && now - new Date(lastToday.posted) < MIN_GAP_H * 3.6e6) {
+  console.log(`Last post was ${((now - new Date(lastToday.posted)) / 3.6e6).toFixed(1)} h ago — waiting for the ${MIN_GAP_H} h gap.`);
   process.exit(0);
 }
 

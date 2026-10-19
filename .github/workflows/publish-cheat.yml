@@ -40,6 +40,10 @@ on:
   # queue.json, and `concurrency` serialises overlapping runs. Repos are PUBLIC
   # so Actions minutes are free - the old narrow window existed only to control
   # billing on the free tier and that reason is gone.
+  # 2026-10-20: a 12:00Z midday slot added for the two-a-day test, with its own
+  # early-opening window (same ~3 h lag logic). queue.js caps it at two a day,
+  # at least 4 h apart.
+    - cron: '2,22,42 9-13 * * *'    # early ticks for the 12:00Z midday slot
     - cron: '2,22,42 14-16 * * *'   # early ticks: no-ops until 17:00Z, but a dropped-and-delayed one lands ON the slot
     - cron: '2,12,22,32,42,52 17-22 * * *'   # the live window for 17:00Z + catch-up tail
 
