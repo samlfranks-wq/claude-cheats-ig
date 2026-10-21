@@ -27,4 +27,4 @@ My notes:
 [PASTE OR UPLOAD YOUR NOTES]
 ---
 
-Good luck with the exam! And if you want Claude doing whole jobs like this for you, my Chat to Agent course is the link in my bio.
+Good luck with the exam! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.

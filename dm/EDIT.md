@@ -35,6 +35,6 @@ description: Edit the clips in this folder into a short vertical video following
 6. When I ask for a change, re-render only what changed.
 ---
 
-Then just say: "cut this to 30 seconds using my style guide." Enjoy! And if you want Claude doing whole jobs like this for you, my Chat to Agent course is the link in my bio.
+Then just say: "cut this to 30 seconds using my style guide." Enjoy! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
 
 (Reply "Sent! 📩" on each comment too, it boosts the post.)

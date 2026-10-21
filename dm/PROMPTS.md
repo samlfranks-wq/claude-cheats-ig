@@ -13,4 +13,4 @@ Hey! Here are all 7 👇 Add them to the end of any message to Claude.
 
 Tip: use 1 at the start of a task and 7 at the end. Save this message so you've always got them.
 
-And if you want Claude doing whole jobs for you, not just answering, my Chat to Agent course is the link in my bio.
+And if you want Claude doing whole jobs for you, not just answering, my 1:1 Chat to Agent coaching is the link in my bio.

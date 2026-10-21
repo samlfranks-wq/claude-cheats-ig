@@ -25,4 +25,4 @@ Build me a dashboard of my Claude Code sessions.
 3. Keep it read-only. Never loop or poll faster than once a minute.
 ---
 
-Want it on your phone? Ask Claude to add step 4: push status.json to a free Cloudflare Worker. And if you want Claude running whole jobs like this, my Chat to Agent course is the link in my bio.
+Want it on your phone? Ask Claude to add step 4: push status.json to a free Cloudflare Worker. And if you want Claude running whole jobs like this, my 1:1 Chat to Agent coaching is the link in my bio.

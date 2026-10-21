@@ -24,6 +24,19 @@ Rules:
 - Don't send anything. I read every email and send them myself.
 ---
 
-Then just reply "next 10" until you have 50. Good luck! And if you want Claude doing whole jobs like this for you, my Chat to Agent course is the link in my bio.
+Then just reply "next 10" until you have 50. Good luck! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
 
 (Reply "DM sent! 📩" on each comment too, it boosts the post.)
+
+## Single message (USE THIS for new threads: Instagram allows only one message to non-followers until they reply)
+
+Hey! Here's the sales team 👇 Turn on web search in Claude, fill in the brackets and paste this:
+
+You are my four-person sales team. I sell [WHAT YOU SELL] to [WHO YOU SELL TO] in [YOUR AREA].
+1. THE SCOUT: find local businesses that fit. Name, website, public email or contact page.
+2. THE DETECTIVE: open each site and find ONE visible problem costing them money (no prices, no booking button, broken on mobile, no reviews). Only things you actually saw.
+3. THE WRITER: a personal email under 100 words each. Name the problem, one line on how I'd fix it, end with a soft question. No hype.
+4. THE CLOSER: a short follow-up for day 4 and a final one for day 10.
+Rules: never invent a business, email or problem. Work in batches of 10 and ask before the next. Give me a table. Don't send anything, I send them myself.
+
+Then reply "next 10" until you have 50. And if you want Claude doing whole jobs like this, my 1:1 Chat to Agent coaching is the link in my bio.

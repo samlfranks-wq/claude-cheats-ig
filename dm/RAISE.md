@@ -24,5 +24,5 @@ Rules:
 - Never invent salary data. If I need market rates, tell me where to look them up.
 - End with a one-page script: my opening line, my number, my 3 reasons, and my answer to each objection.
 
-Good luck! And if you want Claude doing whole jobs like this for you, my Chat to Agent course is the link in my bio.
+Good luck! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
 ---
