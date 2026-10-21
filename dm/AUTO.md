@@ -8,7 +8,7 @@ Paste it into Claude Code in an empty folder. It builds the system with you step
 ---
 I want a daily short-video pipeline for my Instagram, Facebook and YouTube page about [YOUR TOPIC]. Build it in this folder and keep everything as plain files I can read.
 
-1. Ideas: keep a list in ideas.md. Each run, pick one. Every hook names one concrete pain in its first line.
+1. Ideas: keep a list in ideas.txt. Each run, pick one. Every hook names one concrete pain in its first line.
 2. Script: 35-45 seconds, about 120 words, one idea, ends with "follow for more". Save it to videos/<name>/script.txt.
 3. Voice: generate the voiceover in one continuous take (Higgsfield or ElevenLabs, voice: [NAME]), then transcribe it with word timestamps.
 4. Animation: write code that draws every scene and syncs it to the word timings. Same characters and colours every time so the page looks like a series.
