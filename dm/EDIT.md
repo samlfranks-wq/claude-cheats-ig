@@ -3,7 +3,7 @@
 
 ## Message 1: the style guide
 
-Hey! Here's the style guide 👇 Save it in your video folder as STYLE_GUIDE.md and change anything to match your style.
+Hey! Here's the style guide 👇 Save it in your video folder as STYLE_GUIDE.txt and change anything to match your style.
 
 ---
 # Style guide
@@ -25,9 +25,9 @@ Here's the skill 👇 Save it as .claude/skills/video-edit/SKILL.md inside your 
 ---
 ---
 name: video-edit
-description: Edit the clips in this folder into a short vertical video following STYLE_GUIDE.md
+description: Edit the clips in this folder into a short vertical video following STYLE_GUIDE.txt
 ---
-1. Read STYLE_GUIDE.md first and follow it exactly.
+1. Read STYLE_GUIDE.txt first and follow it exactly.
 2. List every clip, photo and audio file here. Check ffmpeg is installed; if not, tell me how to install it.
 3. Transcribe the voiceover or main clip, then plan one shot per spoken line. Show me the plan before cutting.
 4. Cut and render with ffmpeg to final.mp4. Burn in the captions as the guide says.
