@@ -27,4 +27,4 @@ My voice note transcript:
 [PASTE YOUR TRANSCRIPT]
 ---
 
-Enjoy your week off from writing! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
+Enjoy your week off from writing! This is one of 10 prompts in my Claude Team Pack, and my Chat to Agent course is there too. Both are on the link in my bio.

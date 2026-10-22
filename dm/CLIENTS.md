@@ -24,7 +24,7 @@ Rules:
 - Don't send anything. I read every email and send them myself.
 ---
 
-Then just reply "next 10" until you have 50. Good luck! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
+Then just reply "next 10" until you have 50. Good luck! This is one of 10 prompts in my Claude Team Pack, and my Chat to Agent course is there too. Both are on the link in my bio.
 
 (Reply "DM sent! 📩" on each comment too, it boosts the post.)
 
@@ -39,4 +39,4 @@ You are my four-person sales team. I sell [WHAT YOU SELL] to [WHO YOU SELL TO] i
 4. THE CLOSER: a short follow-up for day 4 and a final one for day 10.
 Rules: never invent a business, email or problem. Work in batches of 10 and ask before the next. Give me a table. Don't send anything, I send them myself.
 
-Then reply "next 10" until you have 50. And if you want Claude doing whole jobs like this, my 1:1 Chat to Agent coaching is the link in my bio.
+Then reply "next 10" until you have 50. This is one of 10 prompts in my Claude Team Pack, and my Chat to Agent course is there too. Both are on the link in my bio.

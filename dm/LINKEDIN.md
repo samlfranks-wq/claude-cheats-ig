@@ -27,4 +27,4 @@ My profile:
 [PASTE YOUR HEADLINE, ABOUT AND LAST TWO ROLES]
 ---
 
-Good luck! And if you want Claude doing whole jobs like this for you, my 1:1 Chat to Agent coaching is the link in my bio.
+Good luck! This is one of 10 prompts in my Claude Team Pack, and my Chat to Agent course is there too. Both are on the link in my bio.
