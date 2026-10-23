@@ -689,7 +689,10 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/attempt6_16x9.jpg",
     "ytTitle": "Claude Fixed It 6 Times. Still Broken. Do This Instead",
     "caption": "Attempt six. Claude says \"you're absolutely right, it's fixed\". It's not.\n\nSo you paste the error again. And again. Here's the problem: every failed fix is still sitting in the chat, and Claude keeps building on its own bad ideas.\n\nThe fix:\n1. After two failed tries, stop.\n2. Type /clear. Fresh chat, zero baggage.\n3. Write one better prompt: what broke, what you tried, what didn't work.\n\nA clean chat with a better prompt usually fixes it first time. That's straight from Anthropic's own Claude Code best practices.\n\nThe catch: /clear wipes the chat, so note what you learned first.\n\nWant Claude doing whole jobs without the loop? My 1:1 Chat to Agent coaching is the link in my bio.\n\nSend this to someone on attempt six.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aitools #developertools #productivity #vibecoding #coding #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-10-23T14:00:37.625Z",
+    "fb": "2026-10-23T14:00:49.219Z",
+    "yt": "2026-10-23T14:00:56.732Z"
   },
   {
     "at": "2026-10-23T17:00:00Z",
