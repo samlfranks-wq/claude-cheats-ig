@@ -741,7 +741,10 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/orca_16x9.jpg",
     "ytTitle": "5 Claudes, 1 Prompt, Keep the Winner (Hot Repo of the Week: Orca)",
     "caption": "You gave Claude one prompt. It made one guess. It was wrong.\n\nHot repo of the week #2: stablyai/orca, over 6,000 new GitHub stars in seven days.\n\nOrca runs one prompt through five agents at once, each in its own git worktree so they never touch each other's files. Claude Code, Codex and OpenCode side by side. Compare the answers, merge the winner, bin the rest.\n\nIt also pings your phone when the agents finish, and shows your Claude usage and when your limit resets.\n\nThe catch: five agents means roughly five times the usage. Save it for the hard problems, not the one-line fixes.\n\nSetup (Mac):\nbrew install --cask stablyai/orca/orca\n\nOr grab the desktop app from the repo. Open source, MIT licence.\n\ngithub.com/stablyai/orca\n\nFollow @claude.cheats for next week's hot repo.\n\n#claudecode #claudeai #github #opensource #aiagents #aitools #developertools #vibecoding",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-10-25T13:30:09.442Z",
+    "fb": "2026-10-25T13:30:21.292Z",
+    "yt": "2026-10-25T13:30:25.762Z"
   },
   {
     "at": "2026-10-25T17:00:00Z",
