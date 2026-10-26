@@ -806,6 +806,36 @@
     "trial": "performance"
   },
   {
+    "at": "2026-10-29T17:00:00Z",
+    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
+    "ytTitle": "3 Claudes Set Your Mock Exam Before the Real One",
+    "caption": "I built an exam board of 3 Claudes that sets your mock paper before the real exam does 📝\n\n💬 Comment MOCK and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The board:\n1. The Setter writes the paper from your syllabus, in your real exam's style\n2. The Marker grades every answer against the mark scheme\n3. The Coach finds the one topic costing you the most marks\n\nSo on the day, it feels like you've already sat it.\n\n📌 Save this for exam season.\nFollow @claude.cheats for more.\n\n#studytips #exams #revision #studentlife #studywithme #claudeai #aitools #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-10-30T17:00:00Z",
+    "note": "CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
+    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
+    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-10-31T17:00:00Z",
+    "note": "APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_16x9.jpg",
+    "ytTitle": "4 Claudes Read Your Personal Statement Before the University Does",
+    "caption": "I built an admissions panel of 4 Claudes that reads your personal statement before the university does 🎓\n\n💬 Comment APPLY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Reader flags every line that sounds like everyone else's\n2. The Admissions Officer asks why this course, really\n3. The Editor cuts it to the limit without losing your voice\n4. The Interviewer asks the follow-ups they'll ask you\n\nFeedback only. It never writes it for you.\n\n📌 Save this for application season.\nFollow @claude.cheats for more.\n\n#personalstatement #ucas #university #collegeapplications #studentlife #claudeai #aitools #claudecheats",
+    "trial": "performance"
+  },
+  {
     "at": "2026-11-01T17:00:00Z",
     "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
