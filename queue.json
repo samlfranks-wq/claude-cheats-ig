@@ -786,47 +786,7 @@
     "yt": "2026-10-26T19:46:56.098Z"
   },
   {
-    "at": "2026-10-27T12:00:00Z",
-    "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py. | 2/day test: midday slot. | 21 Oct: midday slot switched to a TRIAL reel (performance graduation): non-followers only, so followers get one feed post a day.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_16x9.jpg",
-    "ytTitle": "Your Claude Code Bill Has 4 Leaks (Anthropic's Own Fixes)",
-    "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
-    "trial": "performance"
-  },
-  {
     "at": "2026-10-27T17:00:00Z",
-    "note": "CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_16x9.jpg",
-    "ytTitle": "Claude Says Your Site Works. It Never Opened It",
-    "caption": "Claude says your site works. It never even opened it.\n\nSo you click around yourself, and the sign-up button does nothing. Here's the problem: Claude can write the code, but it can't see the page.\n\nThe fix:\n1. Install the Playwright plugin from Microsoft. In Claude Code, type /plugin, search \"playwright\", install.\n2. Then say: \"Open my site, sign up, and screenshot every step.\"\n3. It clicks the buttons and fills the forms itself.\n\nThe catch: use a test account, never your real logins.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone who says \"it works on my machine\".\n\n#claudecode #claudeai #webdev #testing #aitools #vibecoding #playwright #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-10-28T12:00:00Z",
-    "note": "PURPLE 2D - Frontend Design plugin (Anthropic, 1.13M installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration. | moved to 28 Oct midday so TRADE could go out 26 Oct evening (Sam).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_16x9.jpg",
-    "ytTitle": "Every Claude Website Looks Purple. This Plugin Fixes It",
-    "caption": "Claude built your website. Purple gradient. Again.\n\nSame fonts, same cards, same glowing buttons as everyone else's. Here's the problem: Claude plays it safe unless you give it a style.\n\nThe fix:\n1. Install Anthropic's own Frontend Design plugin. In Claude Code, type /plugin, search \"frontend design\", install.\n2. Ask for your site as normal. It now picks a real style before it writes a line: bold fonts, proper colours, real motion.\n3. Over a million people have installed it.\n\nThe catch: tell it who the site is for, so it picks the right look.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone whose site is purple.\n\n#claudecode #claudeai #webdesign #aitools #vibecoding #frontend #webdev #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-10-28T17:00:00Z",
-    "note": "OUTDATED 2D - Context7 plugin (Upstash, 418k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_16x9.jpg",
-    "ytTitle": "Claude Keeps Using Deleted Code? Install Context7",
-    "caption": "Claude used a function that was deleted two versions ago. Confidently.\n\nSo you paste the error back, and it invents another one. Here's the problem: Claude learned from old docs.\n\nThe fix:\n1. Install the Context7 plugin. In Claude Code, type /plugin, search \"context7\", install.\n2. Add \"use context7\" to your prompt.\n3. It pulls today's docs for your exact version before it writes a line.\n\nThe catch: name the library and the version, so it fetches the right docs.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone fighting old code.\n\n#claudecode #claudeai #coding #aitools #vibecoding #developer #webdev #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-10-29T17:00:00Z",
     "note": "ESSAY 3D - 3 Claudes mark your essay (feedback only). STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment ESSAY -> dm/ESSAY.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/essay.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/essay_9x16.jpg",
@@ -836,23 +796,13 @@
     "trial": "performance"
   },
   {
-    "at": "2026-10-30T17:00:00Z",
+    "at": "2026-10-28T17:00:00Z",
     "note": "PRESENT 2D - 4 Claudes heckle your presentation. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment PRESENT -> dm/PRESENT.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/present.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/present_9x16.jpg",
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/present_16x9.jpg",
     "ytTitle": "4 Claudes Heckle Your Presentation Before The Real Room",
     "caption": "I built an audience of 4 Claudes that heckles your presentation before the real room does 🎤\n\n💬 Comment PRESENT and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The audience:\n1. The Bored One tells you the slide where they'd check their phone\n2. The Expert asks the question you're scared of\n3. The Boss wants your whole point in one sentence\n4. The Coach rewrites your opening so they look up\n\nWalk in having already answered the hardest question.\n\n📌 Save this for your next presentation.\nFollow @claude.cheats for more.\n\n#presentationskills #publicspeaking #studentlife #careertips #claudeai #aitools #confidence #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-10-31T17:00:00Z",
-    "note": "CAREER 3D - 4 Claudes help you pick a career. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment CAREER -> dm/CAREER.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_16x9.jpg",
-    "ytTitle": "4 Claudes Help You Pick A Career (Before The Wrong One)",
-    "caption": "I built a careers panel of 4 Claudes that helps you pick a job before you pick the wrong one 🧭\n\n💬 Comment CAREER and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Recruiter matches what you're good at to real job titles\n2. The Realist tells you the hours, the hard part, and where to check real pay\n3. The Insider walks you through a normal Tuesday in each job\n4. The Planner gives you 3 steps you can start this week\n\nChoose with your eyes open, not on a guess.\n\n📌 Save this if you're not sure what's next.\nFollow @claude.cheats for more.\n\n#careeradvice #careerchange #studentlife #jobsearch #claudeai #aitools #graduates #claudecheats",
     "trial": "performance"
   },
   {
@@ -1144,5 +1094,55 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_16x9.jpg",
     "ytTitle": "Claude Built What You Said, Not What You Meant (Fix It)",
     "caption": "Claude built exactly what you asked for. Not what you wanted.\n\nYour prompt had ten words. The feature had forty decisions. Claude guessed every one.\n\nAnthropic's tip for bigger features: have Claude interview you first.\n\nThe fix:\n1. Start with: \"I want to build [your feature]. Interview me in detail using the AskUserQuestion tool.\"\n2. Answer its questions, then: \"Write a complete spec to SPEC.md.\"\n3. Open a fresh chat and build from the spec, with clean context.\n\nNo more guessing.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats"
+  },
+  {
+    "at": "2026-12-03T17:00:00Z",
+    "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py. | 2/day test: midday slot. | 21 Oct: midday slot switched to a TRIAL reel (performance graduation): non-followers only, so followers get one feed post a day.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_16x9.jpg",
+    "ytTitle": "Your Claude Code Bill Has 4 Leaks (Anthropic's Own Fixes)",
+    "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-12-04T17:00:00Z",
+    "note": "CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_16x9.jpg",
+    "ytTitle": "Claude Says Your Site Works. It Never Opened It",
+    "caption": "Claude says your site works. It never even opened it.\n\nSo you click around yourself, and the sign-up button does nothing. Here's the problem: Claude can write the code, but it can't see the page.\n\nThe fix:\n1. Install the Playwright plugin from Microsoft. In Claude Code, type /plugin, search \"playwright\", install.\n2. Then say: \"Open my site, sign up, and screenshot every step.\"\n3. It clicks the buttons and fills the forms itself.\n\nThe catch: use a test account, never your real logins.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone who says \"it works on my machine\".\n\n#claudecode #claudeai #webdev #testing #aitools #vibecoding #playwright #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-12-05T17:00:00Z",
+    "note": "PURPLE 2D - Frontend Design plugin (Anthropic, 1.13M installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration. | moved to 28 Oct midday so TRADE could go out 26 Oct evening (Sam).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_16x9.jpg",
+    "ytTitle": "Every Claude Website Looks Purple. This Plugin Fixes It",
+    "caption": "Claude built your website. Purple gradient. Again.\n\nSame fonts, same cards, same glowing buttons as everyone else's. Here's the problem: Claude plays it safe unless you give it a style.\n\nThe fix:\n1. Install Anthropic's own Frontend Design plugin. In Claude Code, type /plugin, search \"frontend design\", install.\n2. Ask for your site as normal. It now picks a real style before it writes a line: bold fonts, proper colours, real motion.\n3. Over a million people have installed it.\n\nThe catch: tell it who the site is for, so it picks the right look.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone whose site is purple.\n\n#claudecode #claudeai #webdesign #aitools #vibecoding #frontend #webdev #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-12-06T17:00:00Z",
+    "note": "OUTDATED 2D - Context7 plugin (Upstash, 418k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_16x9.jpg",
+    "ytTitle": "Claude Keeps Using Deleted Code? Install Context7",
+    "caption": "Claude used a function that was deleted two versions ago. Confidently.\n\nSo you paste the error back, and it invents another one. Here's the problem: Claude learned from old docs.\n\nThe fix:\n1. Install the Context7 plugin. In Claude Code, type /plugin, search \"context7\", install.\n2. Add \"use context7\" to your prompt.\n3. It pulls today's docs for your exact version before it writes a line.\n\nThe catch: name the library and the version, so it fetches the right docs.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone fighting old code.\n\n#claudecode #claudeai #coding #aitools #vibecoding #developer #webdev #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-12-07T17:00:00Z",
+    "note": "CAREER 3D - 4 Claudes help you pick a career. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment CAREER -> dm/CAREER.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_16x9.jpg",
+    "ytTitle": "4 Claudes Help You Pick A Career (Before The Wrong One)",
+    "caption": "I built a careers panel of 4 Claudes that helps you pick a job before you pick the wrong one 🧭\n\n💬 Comment CAREER and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Recruiter matches what you're good at to real job titles\n2. The Realist tells you the hours, the hard part, and where to check real pay\n3. The Insider walks you through a normal Tuesday in each job\n4. The Planner gives you 3 steps you can start this week\n\nChoose with your eyes open, not on a guess.\n\n📌 Save this if you're not sure what's next.\nFollow @claude.cheats for more.\n\n#careeradvice #careerchange #studentlife #jobsearch #claudeai #aitools #graduates #claudecheats",
+    "trial": "performance"
   }
 ]
