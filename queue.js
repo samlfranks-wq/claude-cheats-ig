@@ -99,9 +99,8 @@ function crossPostYT(it) {
   if (!ytConfigured()) { console.log('  YT: no YouTube credentials here - skipped (backfill will retry).'); return 'skipped'; }
   const args = ['post-youtube.js', '--url', it.url, '--caption', it.caption ?? ''];
   if (it.ytTitle) args.push('--title', it.ytTitle);
-  // ytCover exists so YouTube CAN take a different thumbnail from Instagram,
-  // but no queue entry has ever set it - so every Short went up with a frame
-  // YouTube picked. Fall back to the plate we already made for the Reel.
+  // YouTube gets the same 9:16 plate as the Reel (2026-10-27). ytCover still
+  // overrides it if an item ever needs a different thumbnail.
   const ytThumb = it.ytCover || it.cover;
   if (ytThumb) args.push('--cover', ytThumb);
   if (confirm) args.push('--confirm');
