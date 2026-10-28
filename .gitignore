@@ -21,3 +21,6 @@ thumb-url.txt
 t.txt
 show_secrets.cmd
 HANDOFF-GITHUB.md
+
+# DM prompts are the paid Team Pack content: keep them local, never in this public repo (2026-10-28).
+dm/
