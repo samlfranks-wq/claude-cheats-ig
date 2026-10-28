@@ -818,8 +818,26 @@
     "trial": "performance"
   },
   {
+    "at": "2026-10-29T12:00:00Z",
+    "note": "REWIND2 2D frustration (28 Oct batch) - remake of the 9 Oct REWIND topic (1,958 views / 16.9 s avg watch). Esc Esc or /rewind restores code; catch = Bash changes not tracked, commit to git. Rebuilt to the 28 Oct competitor read: new bright set per beat, 3x characters, checkpoint timeline, 265 WPM. videos/rewind2/.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/rewind2.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/rewind2_9x16.jpg",
+    "ytTitle": "Claude broke your app? Esc Esc undoes it #shorts",
+    "caption": "Your app worked ten minutes ago. Then Claude made \"one small change\" 😩\n\nSo you ask it to put it back, and it breaks something else.\n\nThe fix:\n1. With the prompt box empty, press Esc twice (or type /rewind)\n2. Pick the prompt from before it broke\n3. Choose \"Restore code\"\n\nClaude Code saves a checkpoint every time you send a prompt, so you're back to working in seconds. That's straight from Anthropic's Claude Code docs.\n\nThe catch: it only rewinds Claude's own file edits. Anything a terminal command changed stays changed, so commit to git before big jobs.\n\nWant Claude doing whole jobs without the panic? My Chat to Agent course is the link in my bio.\n\nSend this to someone whose app worked ten minutes ago.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aitools #vibecoding #coding #developertools #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
     "at": "2026-10-29T17:00:00Z",
-    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md.",
+    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
+    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
+    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-10-30T12:00:00Z",
+    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
