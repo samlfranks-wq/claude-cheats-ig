@@ -75,7 +75,7 @@ function crossPostFB(it) {
   return 'fail';
 }
 // backfill: at most ONE missed cross-post per run
-const missed = fbEnabled() ? items.find((it) => it.posted && !it.fb && !it.fbSkip) : null;
+const missed = fbEnabled() ? items.find((it) => it.posted && it.type !== 'carousel' && !it.fb && !it.fbSkip) : null;
 if (missed) {
   console.log(`FB backfill due: ${missed.at}\n  ${missed.url}`);
   const r = crossPostFB(missed);
@@ -125,7 +125,7 @@ const ytToday = items.some((it) => it.yt && it.yt.slice(0, 10) === today);
 // at zero subscribers, so the first uploads should be the reels that actually
 // performed on Instagram rather than whatever happens to be oldest.
 const ytCandidates = items
-  .filter((it) => it.posted && !it.yt && !it.ytSkip)
+  .filter((it) => it.posted && it.type !== 'carousel' && !it.yt && !it.ytSkip)
   .sort((a, b) => (a.ytPriority ?? 99) - (b.ytPriority ?? 99) || a.at.localeCompare(b.at));
 const missedYT = (ytEnabled() && !ytToday) ? ytCandidates[0] : null;
 if (missedYT) {
@@ -149,25 +149,33 @@ if (dueIndex === -1) {
 // MAX_PER_DAY posts, and never within MIN_GAP_H hours of the last one, so a
 // late or missed run can never fire two back to back. Without a cap a missed
 // day would drain the backlog at one per tick. Set MAX_PER_DAY=1 to go back.
-const MAX_PER_DAY = Number(process.env.MAX_PER_DAY || 2), MIN_GAP_H = 4;
+// Carousels (from 28 Oct, Sam's carousel test) sit OUTSIDE the reel cap: the cap protects Reels
+// distribution, and a carousel is a feed post. They still wait CAROUSEL_GAP_H after the last post
+// of any kind, and never cross-post to Facebook or YouTube.
+const MAX_PER_DAY = Number(process.env.MAX_PER_DAY || 2), MIN_GAP_H = 4, CAROUSEL_GAP_H = 3;
+const item = items[dueIndex];
+const isCarousel = item.type === 'carousel';
 const postedToday = items.filter((it) => it.posted && it.posted.slice(0, 10) === today)
   .sort((a, b) => a.posted.localeCompare(b.posted));
-if (postedToday.length >= MAX_PER_DAY) {
-  console.log(`Already posted ${postedToday.length} today (cap ${MAX_PER_DAY}) — stopping.`);
+const reelsToday = postedToday.filter((it) => it.type !== 'carousel');
+if (!isCarousel && reelsToday.length >= MAX_PER_DAY) {
+  console.log(`Already posted ${reelsToday.length} reels today (cap ${MAX_PER_DAY}) — stopping.`);
   process.exit(0);
 }
 const lastToday = postedToday[postedToday.length - 1];
-if (lastToday && now - new Date(lastToday.posted) < MIN_GAP_H * 3.6e6) {
-  console.log(`Last post was ${((now - new Date(lastToday.posted)) / 3.6e6).toFixed(1)} h ago — waiting for the ${MIN_GAP_H} h gap.`);
+const gapH = isCarousel ? CAROUSEL_GAP_H : MIN_GAP_H;
+if (lastToday && now - new Date(lastToday.posted) < gapH * 3.6e6) {
+  console.log(`Last post was ${((now - new Date(lastToday.posted)) / 3.6e6).toFixed(1)} h ago — waiting for the ${gapH} h gap.`);
   process.exit(0);
 }
 
-const item = items[dueIndex];
-console.log(`Due: ${item.at}\n  ${item.url}`);
+console.log(`Due: ${item.at}\n  ${isCarousel ? item.urls.length + ' slides' : item.url}`);
 
-const args = ['post-reel.js', '--url', item.url, '--caption', item.caption ?? ''];
-if (item.cover) args.push('--cover', item.cover);
-if (item.trial) args.push('--trial', item.trial);
+const args = isCarousel
+  ? ['post-carousel.js', '--urls', item.urls.join(','), '--caption', item.caption ?? '']
+  : ['post-reel.js', '--url', item.url, '--caption', item.caption ?? ''];
+if (!isCarousel && item.cover) args.push('--cover', item.cover);
+if (!isCarousel && item.trial) args.push('--trial', item.trial);
 if (confirm) args.push('--confirm');
 const res = spawnSync(process.execPath, args, {cwd: HERE, stdio: 'inherit'});
 
@@ -177,8 +185,10 @@ if (res.status === 0) {
   item.posted = new Date().toISOString();
   save();
   console.log('✔ Marked as posted in queue.json');
-  crossPostFB(item);          // same Reel to the Facebook Page
-  crossPostYT(item);          // and to YouTube Shorts
+  if (!isCarousel) {
+    crossPostFB(item);        // same Reel to the Facebook Page
+    crossPostYT(item);        // and to YouTube Shorts
+  }
   save();                     // record fb / yt results
 } else {
   console.error('✖ Publish failed — leaving the item in the queue to retry next run.');
