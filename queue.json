@@ -918,7 +918,10 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/rewind2_9x16.jpg",
     "ytTitle": "Claude broke your app? Esc Esc undoes it #shorts",
     "caption": "Your app worked ten minutes ago. Then Claude made \"one small change\" 😩\n\nSo you ask it to put it back, and it breaks something else.\n\nThe fix:\n1. With the prompt box empty, press Esc twice (or type /rewind)\n2. Pick the prompt from before it broke\n3. Choose \"Restore code\"\n\nClaude Code saves a checkpoint every time you send a prompt, so you're back to working in seconds. That's straight from Anthropic's Claude Code docs.\n\nThe catch: it only rewinds Claude's own file edits. Anything a terminal command changed stays changed, so commit to git before big jobs.\n\nWant Claude doing whole jobs without the panic? My Chat to Agent course is the link in my bio.\n\nSend this to someone whose app worked ten minutes ago.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #aitools #vibecoding #coding #developertools #productivity #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-11-01T15:40:17.346Z",
+    "fb": "2026-11-01T15:40:27.585Z",
+    "yt": "2026-11-01T15:40:33.219Z"
   },
   {
     "at": "2026-11-01T17:00:00Z",
