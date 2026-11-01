@@ -963,13 +963,13 @@
   },
   {
     "at": "2026-11-03T17:00:00Z",
-    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
-    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
-    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
-    "trial": "performance"
+    "note": "SEAGULL: sitcom ep 5, Remote Control, flat + beach sets, RTX cut, Fraser + Orion. Comment REMOTE -> dm/REMOTE.md. videos/seagull/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/seagull.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/seagull_9x16.jpg",
+    "caption": "A seagull stole my phone. Claude thought it was me and rebuilt my whole website 💀\r\n\r\nHow Remote Control actually works:\r\n\r\n1. In Claude Code, type /remote-control (or /rc)\r\n2. Scan the QR code, or open the session in the Claude app\r\n3. Claude keeps running on your laptop with all your files and tools. Your phone is just the window\r\n4. Leave the laptop on. If it sleeps, it reconnects when it wakes\r\n5. You can send photos from your phone too\r\n\r\nLock your phone. Whatever gets sent from it goes straight into your real session.\r\n\r\nShould I keep the seagull? 👇\r\n\r\n💬 Comment REMOTE and I'll DM you the setup 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #remotecontrol #aiagents #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-04T12:00:00Z",
@@ -1069,6 +1069,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit_16x9.jpg",
     "ytTitle": "Stop Arguing With Claude. Edit Your First Message Instead",
     "caption": "Claude misunderstood you. So you corrected it. Then again. And again. Twenty messages later it's more confused than when you started.\n\nThat's because every wrong turn stays in the chat, and Claude keeps reading all of it.\n\nInstead: scroll up to your first message and edit it.\nDesktop: hover over your message and click the pencil.\nPhone: press and hold your message, then tap Edit.\n\nFix what you asked, send it again, and the mess drops out of the new version of the chat.\n\nWrong answer? Don't argue with it. Edit the question.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-09T12:00:00Z",
+    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
+    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
+    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
     "trial": "performance"
   },
   {
