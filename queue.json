@@ -922,13 +922,13 @@
   },
   {
     "at": "2026-11-01T17:00:00Z",
-    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
-    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
-    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
-    "trial": "performance"
+    "note": "OTHER STEVE: sitcom ep 3, referrals, RTX cut, Fraser + Orion. Comment REFER -> dm/REFER.md. videos/othersteve/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/othersteve.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/othersteve_9x16.jpg",
+    "caption": "I went to the interview as Steve. There was already a Steve 💀\n\nApply alone and about 3 in 100 people reach an interview. With a referral it's about 40 in 100 (Ashby hiring data, 2021 to 2024).\n\nSo Claude does the boring part:\n\n1. Reads your CV\n2. Finds jobs you fit\n3. Finds people who work there\n4. Writes a short hi that asks for 10 minutes. The referral comes after.\n\nLinkedIn bans bots, so read every message and press send yourself.\n\nShould I tell them my name's Sam? 👇\n\n💬 Comment REFER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #jobsearch #careertips #linkedin #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-02T12:00:00Z",
@@ -1026,6 +1026,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_16x9.jpg",
     "ytTitle": "Claude Code Has a Bouncer (Auto Mode, Explained)",
     "caption": "You've clicked Allow two hundred times today. Claude Code has a bouncer for that.\n\nIt's called auto mode. A separate classifier model checks each action before it runs, instead of you.\n\nStraight through: reading files, running tests, routine edits.\nStopped at the door by default: running scripts straight off the internet (curl | bash), sending sensitive data out, force pushes, production deploys.\n\nTurn it on: press Shift+Tab until it says auto. From Claude Code v2.1.283 it's the default starting mode.\n\nSource: code.claude.com/docs/en/permission-modes\n\nSave this before your next long session.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-07T12:00:00Z",
+    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
+    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
+    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance"
   },
   {
