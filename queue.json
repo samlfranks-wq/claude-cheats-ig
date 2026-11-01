@@ -941,13 +941,13 @@
   },
   {
     "at": "2026-11-02T17:00:00Z",
-    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
-    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
-    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
-    "trial": "performance"
+    "note": "FIRED: sitcom ep 4, running a business on Claude, RTX cut, Fraser + Orion. Comment FIRED -> dm/FIRED.md. videos/fired/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired_9x16.jpg",
+    "caption": "I tried running a whole business with just Claude. On day one I shut my laptop and closed the office 💀\r\n\r\nHow to actually set it up:\r\n\r\n1. Give every job its own scheduled task: inbox, leads, follow-ups\r\n2. Desktop tasks only run while the app is open, so leave it on or use cloud routines\r\n3. Add a watchdog task that checks every hour and stops anything stuck\r\n4. Anything a customer sees stays a draft until you approve it\r\n5. Get one daily report: what ran, what broke, what needs you\r\n\r\nRead what you approve. Ask me how I know.\r\n\r\nShould I appeal? 👇\r\n\r\n💬 Comment FIRED and I'll DM you the exact setup prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #aiagents #automation #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-03T12:00:00Z",
@@ -1046,6 +1046,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects_16x9.jpg",
     "ytTitle": "Stop Re-Explaining Yourself to Claude Every Chat (Use Projects)",
     "caption": "Every new chat, you explain your business to Claude. Again. Who you are, what you sell, how you like things written.\n\nThere's a better way: a project.\n\nA project is a workspace in Claude. Upload your files (about us, price list, examples) and write your instructions once. Every chat inside that project already knows the lot.\n\nHow: claude.ai, then Projects, then new project.\nFree accounts get up to five projects. Make one per client, or one per side hustle.\n\nSave this and set one up tonight.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-08T12:00:00Z",
+    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
+    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
+    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
     "trial": "performance"
   },
   {
