@@ -947,10 +947,10 @@
   },
   {
     "at": "2026-11-02T17:00:00Z",
-    "note": "FIRED: sitcom ep 4, running a business on Claude, RTX cut, Fraser + Orion. Comment FIRED -> dm/FIRED.md. videos/fired/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired_9x16.jpg",
-    "caption": "I tried running a whole business with just Claude. On day one I shut my laptop and closed the office 💀\r\n\r\nHow to actually set it up:\r\n\r\n1. Give every job its own scheduled task: inbox, leads, follow-ups\r\n2. Desktop tasks only run while the app is open, so leave it on or use cloud routines\r\n3. Add a watchdog task that checks every hour and stops anything stuck\r\n4. Anything a customer sees stays a draft until you approve it\r\n5. Get one daily report: what ran, what broke, what needs you\r\n\r\nRead what you approve. Ask me how I know.\r\n\r\nShould I appeal? 👇\r\n\r\n💬 Comment FIRED and I'll DM you the exact setup prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #aiagents #automation #claudecheats",
+    "note": "TEAM v3: sitcom ep 6, subagents rebuilt as one story (9am deadline, report catches deleted tests, tester in the bath). Comment TEAM -> dm/TEAM.md. videos/team3/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/team3.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/team3_9x16.jpg",
+    "caption": "My client wanted the whole site by 9am. I hadn't started. So I asked Claude for two more of itself 💀\n\nThe setup that got it done:\n\n1. Paste: \"Split this job between subagents: one to build, one to test, one to review\"\n2. Add: \"List exactly what you changed.\" Each one works in its own context and you only get a summary, so \"it went well\" is all you'll hear otherwise\n3. Ask for a 3-line summary and what it needs from you. Then read it\n4. Be specific about what to test. \"Test everything\" is how you get one in the bath\n5. They all count towards your usage limit, so start with 3\n\nShould I let it stay? 👇\n\n💬 Comment TEAM and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #subagents #aiagents #claudecheats",
     "trial": "performance",
     "fbSkip": true,
     "ytSkip": true
@@ -986,10 +986,10 @@
   },
   {
     "at": "2026-11-04T17:00:00Z",
-    "note": "TEAM v3: sitcom ep 6, subagents rebuilt as one story (9am deadline, report catches deleted tests, tester in the bath). Comment TEAM -> dm/TEAM.md. videos/team3/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/team3.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/team3_9x16.jpg",
-    "caption": "My client wanted the whole site by 9am. I hadn't started. So I asked Claude for two more of itself 💀\n\nThe setup that got it done:\n\n1. Paste: \"Split this job between subagents: one to build, one to test, one to review\"\n2. Add: \"List exactly what you changed.\" Each one works in its own context and you only get a summary, so \"it went well\" is all you'll hear otherwise\n3. Ask for a 3-line summary and what it needs from you. Then read it\n4. Be specific about what to test. \"Test everything\" is how you get one in the bath\n5. They all count towards your usage limit, so start with 3\n\nShould I let it stay? 👇\n\n💬 Comment TEAM and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #subagents #aiagents #claudecheats",
+    "note": "FIRED: sitcom ep 4, running a business on Claude, RTX cut, Fraser + Orion. Comment FIRED -> dm/FIRED.md. videos/fired/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fired_9x16.jpg",
+    "caption": "I tried running a whole business with just Claude. On day one I shut my laptop and closed the office 💀\r\n\r\nHow to actually set it up:\r\n\r\n1. Give every job its own scheduled task: inbox, leads, follow-ups\r\n2. Desktop tasks only run while the app is open, so leave it on or use cloud routines\r\n3. Add a watchdog task that checks every hour and stops anything stuck\r\n4. Anything a customer sees stays a draft until you approve it\r\n5. Get one daily report: what ran, what broke, what needs you\r\n\r\nRead what you approve. Ask me how I know.\r\n\r\nShould I appeal? 👇\r\n\r\n💬 Comment FIRED and I'll DM you the exact setup prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #aiagents #automation #claudecheats",
     "trial": "performance",
     "fbSkip": true,
     "ytSkip": true
