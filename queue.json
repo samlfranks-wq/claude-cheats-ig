@@ -944,7 +944,10 @@
     "caption": "My client wanted the whole site by 9am. I hadn't started. So I asked Claude for two more of itself 💀\n\nThe setup that got it done:\n\n1. Paste: \"Split this job between subagents: one to build, one to test, one to review\"\n2. Add: \"List exactly what you changed.\" Each one works in its own context and you only get a summary, so \"it went well\" is all you'll hear otherwise\n3. Ask for a 3-line summary and what it needs from you. Then read it\n4. Be specific about what to test. \"Test everything\" is how you get one in the bath\n5. They all count towards your usage limit, so start with 3\n\nShould I let it stay? 👇\n\n💬 Comment TEAM and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #subagents #aiagents #claudecheats",
     "trial": "performance",
     "fbSkip": true,
-    "ytSkip": true
+    "ytSkip": true,
+    "posted": "2026-11-02T19:02:53.139Z",
+    "fb": "2026-11-02T19:03:05.490Z",
+    "yt": "2026-11-02T19:03:14.166Z"
   },
   {
     "at": "2026-11-03T17:00:00Z",
