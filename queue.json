@@ -990,6 +990,16 @@
     "ytSkip": true
   },
   {
+    "at": "2026-11-05T12:00:00Z",
+    "note": "THEORY: sitcom ep 10, slower delivery test, make Claude quiz you. Comment QUIZ -> dm/QUIZ.md. videos/theory/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory_9x16.jpg",
+    "caption": "I told my girlfriend I can drive. She hired a van for Saturday. My theory test was tomorrow 💀\n\nHow Claude got me through it:\n\n1. Paste in your notes or the chapter you've been avoiding\n2. Paste: \"Quiz me on this. One question at a time. No answer until I've tried.\"\n3. Everything you get wrong comes back harder\n\nRereading feels like learning. Getting quizzed actually is. Works for any exam.\n\n49 out of 50. Nobody told me there was a second test. Should I tell her? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #aitools #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
+  },
+  {
     "at": "2026-11-05T17:00:00Z",
     "note": "SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
@@ -1000,13 +1010,24 @@
     "ytSkip": true
   },
   {
+    "at": "2026-11-06T12:00:00Z",
+    "note": "BRILLIANT: sitcom ep 11, slower delivery test, failure-first prompt beats flattery. Comment IDEA -> dm/IDEA.md. videos/brilliant/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/brilliant.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/brilliant_9x16.jpg",
+    "caption": "I quit my job because Claude called my idea brilliant 💀\n\nThe idea was Uber for sandwiches. Here's the prompt that stops Claude flattering you:\n\n1. Stop asking if it's good. Paste: \"It's 12 months from now and this has failed. Give me the 5 most likely reasons.\"\n2. Then ask: \"What's the cheapest test I can run this week?\"\n\nAsk \"is this brilliant?\" and it looks for reasons it is. Tell it the thing already died and it looks for what killed it.\n\nI sold all ten sandwiches. To my mum. Should I ask for my job back? 👇\n\n💬 Comment IDEA and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #startup #aitools #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
+  },
+  {
     "at": "2026-11-06T17:00:00Z",
-    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
-    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
-    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
-    "trial": "performance"
+    "note": "HITLIMIT: sitcom ep 12, slower delivery test, /context /clear /model /compact. Comment LIMIT -> dm/LIMIT.md. videos/hitlimit/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hitlimit.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hitlimit_9x16.jpg",
+    "caption": "94% of my Claude limit gone by 9:15am. I'd asked four questions 💀\n\nEvery message, Claude rereads the whole chat. Mine started in August.\n\nIn Claude Code:\n\n1. /context shows what's eating your limit\n2. /clear between jobs. New job, new chat\n3. /model and pick Sonnet for small jobs\n\nOne warning: /clear wipes it. /compact keeps a summary. Learn from me.\n\nIn the Claude app, just start a new chat for each job.\n\nShould I ring the client? 👇\n\n💬 Comment LIMIT and I'll DM you the exact setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #claude #aitools #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-07T12:00:00Z",
@@ -1015,6 +1036,15 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
     "ytTitle": "Claude plans a week of dinners from one fridge photo #shorts",
     "caption": "I built a Claude that plans your dinners for the week from one photo of your fridge 🥦📸\n\n💬 Comment FRIDGE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 What it does:\n1. Reads one photo of what's in your fridge\n2. Plans 5 dinners you can actually make\n3. Writes the shopping list, only what's missing, sorted by aisle\n4. Uses up whatever's about to go off first, so you stop binning food\n\nWorks on any Claude plan, free included.\n\n📌 Save this for Sunday night.\nFollow @claude.cheats for more.\n\n#claudeai #claude #mealplanning #mealprep #aitools #lifehacks #foodwaste #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-07T17:00:00Z",
+    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
+    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
+    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
     "trial": "performance"
   },
   {
