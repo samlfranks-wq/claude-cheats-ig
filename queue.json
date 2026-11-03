@@ -1037,22 +1037,22 @@
   },
   {
     "at": "2026-11-07T12:00:00Z",
-    "note": "PIPELINE: sitcom ep 14, how Claude built the Lost Empires map pipeline (3.3M views/30d), keyword PIPELINE",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipeline.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipeline_9x16.jpg",
-    "caption": "My map videos got 3.3 million views in 30 days. I didn't make a single one 💀\r\n\r\nClaude built the pipeline. I made tea.\r\n\r\nThe 2 prompts:\r\n\r\n1. Paste: \"Build me a pipeline: script in, finished vertical video out. Map, voiceover, captions. One text file per video.\"\r\n2. Paste: \"Here are my last 30 days of views and shares. What wins? Give me 10 more topics like it.\"\r\n\r\nDon't ask Claude for a video. Ask for the machine that makes them.\r\n\r\nThe account it runs: @lostempiressss\r\n\r\nShould I take the geography job? 👇\r\n\r\n💬 Comment PIPELINE and I'll DM you the full setup 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #automation #claudecheats",
-    "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
-  },
-  {
-    "at": "2026-11-07T17:00:00Z",
     "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
     "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
     "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
     "trial": "performance"
+  },
+  {
+    "at": "2026-11-07T17:00:00Z",
+    "note": "MAP FACTORY: sitcom ep 14 v2, sells the Lost Empires map pipeline skill (real footage inserts + live counters), keyword MAP. Replaces PIPELINE v1",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapfactory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapfactory_9x16.jpg",
+    "caption": "Claude makes my history map videos. 3.3 million views in 30 days. I made tea 💀\r\n\r\nHow the pipeline works:\r\n1. Real borders from historians' data, not Google Maps\r\n2. Free voice, captions and sound effects. Zero credits a video\r\n3. Claude checks every frame for overlapping text\r\n4. It reads the stats and picks the next topic (where people are from = shares)\r\n\r\nThe account it runs: @lostempiressss\r\n\r\nI'm giving the whole thing away as a Claude skill.\r\n\r\n💬 Comment MAP and I'll DM you the pipeline skill 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #automation #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-08T12:00:00Z",
