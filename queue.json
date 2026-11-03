@@ -1037,12 +1037,13 @@
   },
   {
     "at": "2026-11-07T12:00:00Z",
-    "note": "FRIDGE keyword (29 Oct batch) - nocodealex everyday-life build format (ONE PAGE EVERY MORNING 137k). Comment FRIDGE -> dm/FRIDGE.md. End card included. videos/fridge/. Moved 29 Oct: INBOX took the 29 Oct second slot (posted manually at Sam request).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
-    "ytTitle": "Claude plans a week of dinners from one fridge photo #shorts",
-    "caption": "I built a Claude that plans your dinners for the week from one photo of your fridge 🥦📸\n\n💬 Comment FRIDGE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 What it does:\n1. Reads one photo of what's in your fridge\n2. Plans 5 dinners you can actually make\n3. Writes the shopping list, only what's missing, sorted by aisle\n4. Uses up whatever's about to go off first, so you stop binning food\n\nWorks on any Claude plan, free included.\n\n📌 Save this for Sunday night.\nFollow @claude.cheats for more.\n\n#claudeai #claude #mealplanning #mealprep #aitools #lifehacks #foodwaste #claudecheats",
-    "trial": "performance"
+    "note": "PIPELINE: sitcom ep 14, how Claude built the Lost Empires map pipeline (3.3M views/30d), keyword PIPELINE",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipeline.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipeline_9x16.jpg",
+    "caption": "My map videos got 3.3 million views in 30 days. I didn't make a single one 💀\r\n\r\nClaude built the pipeline. I made tea.\r\n\r\nThe 2 prompts:\r\n\r\n1. Paste: \"Build me a pipeline: script in, finished vertical video out. Map, voiceover, captions. One text file per video.\"\r\n2. Paste: \"Here are my last 30 days of views and shares. What wins? Give me 10 more topics like it.\"\r\n\r\nDon't ask Claude for a video. Ask for the machine that makes them.\r\n\r\nThe account it runs: @lostempiressss\r\n\r\nShould I take the geography job? 👇\r\n\r\n💬 Comment PIPELINE and I'll DM you the full setup 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #automation #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-07T17:00:00Z",
@@ -1461,6 +1462,15 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_16x9.jpg",
     "ytTitle": "4 Claudes Help You Pick A Career (Before The Wrong One)",
     "caption": "I built a careers panel of 4 Claudes that helps you pick a job before you pick the wrong one 🧭\n\n💬 Comment CAREER and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Recruiter matches what you're good at to real job titles\n2. The Realist tells you the hours, the hard part, and where to check real pay\n3. The Insider walks you through a normal Tuesday in each job\n4. The Planner gives you 3 steps you can start this week\n\nChoose with your eyes open, not on a guess.\n\n📌 Save this if you're not sure what's next.\nFollow @claude.cheats for more.\n\n#careeradvice #careerchange #studentlife #jobsearch #claudeai #aitools #graduates #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-12-12T12:00:00Z",
+    "note": "FRIDGE keyword (29 Oct batch) - nocodealex everyday-life build format (ONE PAGE EVERY MORNING 137k). Comment FRIDGE -> dm/FRIDGE.md. End card included. videos/fridge/. Moved 29 Oct: INBOX took the 29 Oct second slot (posted manually at Sam request).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
+    "ytTitle": "Claude plans a week of dinners from one fridge photo #shorts",
+    "caption": "I built a Claude that plans your dinners for the week from one photo of your fridge 🥦📸\n\n💬 Comment FRIDGE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 What it does:\n1. Reads one photo of what's in your fridge\n2. Plans 5 dinners you can actually make\n3. Writes the shopping list, only what's missing, sorted by aisle\n4. Uses up whatever's about to go off first, so you stop binning food\n\nWorks on any Claude plan, free included.\n\n📌 Save this for Sunday night.\nFollow @claude.cheats for more.\n\n#claudeai #claude #mealplanning #mealprep #aitools #lifehacks #foodwaste #claudecheats",
     "trial": "performance"
   }
 ]
