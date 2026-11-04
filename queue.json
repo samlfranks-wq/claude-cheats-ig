@@ -1007,10 +1007,10 @@
   },
   {
     "at": "2026-11-05T17:00:00Z",
-    "note": "SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
-    "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
+    "note": "ESCESC: sitcom ep 15, value-first rules (Esc Esc / /rewind undo, tip at 4s, episode rewinds itself), keyword REWIND",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/escesc.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/escesc_9x16.jpg",
+    "caption": "Claude rewrote my whole app. It worked ten minutes ago 💀\r\n\r\nClaude Code has an undo button most people never find:\r\n\r\n1. Press Esc twice (or type /rewind). Every prompt you sent is a checkpoint.\r\n2. Pick one and choose: code + chat, chat only, or code only. \"Code only\" puts your files back and keeps the conversation.\r\n3. The catch: it only undoes Claude's own edits. Anything run in the terminal (rm, migrations) isn't tracked. Commit to git before big changes.\r\n\r\nSave this for the next time Claude \"improves\" everything.\r\n\r\nWhat would you rewind? 👇\r\n\r\n💬 Comment REWIND and I'll DM you my Claude Code undo cheat sheet 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #vibecoding #claudecheats",
     "trial": "performance",
     "fbSkip": true,
     "ytSkip": true
@@ -1472,5 +1472,15 @@
     "ytTitle": "Claude plans a week of dinners from one fridge photo #shorts",
     "caption": "I built a Claude that plans your dinners for the week from one photo of your fridge 🥦📸\n\n💬 Comment FRIDGE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 What it does:\n1. Reads one photo of what's in your fridge\n2. Plans 5 dinners you can actually make\n3. Writes the shopping list, only what's missing, sorted by aisle\n4. Uses up whatever's about to go off first, so you stop binning food\n\nWorks on any Claude plan, free included.\n\n📌 Save this for Sunday night.\nFollow @claude.cheats for more.\n\n#claudeai #claude #mealplanning #mealprep #aitools #lifehacks #foodwaste #claudecheats",
     "trial": "performance"
+  },
+  {
+    "at": "2026-12-12T17:00:00Z",
+    "note": "SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
+    "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   }
 ]
