@@ -1000,10 +1000,10 @@
   },
   {
     "at": "2026-11-05T12:00:00Z",
-    "note": "THEORY: sitcom ep 10, slower delivery test, make Claude quiz you. Comment QUIZ -> dm/QUIZ.md. videos/theory/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory_9x16.jpg",
-    "caption": "I told my girlfriend I can drive. She hired a van for Saturday. My theory test was tomorrow 💀\n\nHow Claude got me through it:\n\n1. Paste in your notes or the chapter you've been avoiding\n2. Paste: \"Quiz me on this. One question at a time. No answer until I've tried.\"\n3. Everything you get wrong comes back harder\n\nRereading feels like learning. Getting quizzed actually is. Works for any exam.\n\n49 out of 50. Nobody told me there was a second test. Should I tell her? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #aitools #claudecheats",
+    "note": "TASKS: cream wireframe explainer (auraguy.ai look), Ctrl+B background tasks. Comment TASKS -> dm/TASKS.md. Videos/Claude Cheats/toolkit/toolkit/videos/tasks/. Has follow end card.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tasks.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tasks_9x16.jpg",
+    "caption": "Stop watching Claude Code wait ⏳\n\nEvery time it starts a dev server or runs your tests, the whole chat stops until it's done.\n\nPress Ctrl+B. The command moves to the background and Claude carries on with the next job. Works on subagents too.\n\n/tasks shows everything still running\nCtrl+X then Ctrl+K (twice) stops every background subagent\n\nThe catch: background agents still use your tokens, so keep it to 2 or 3.\n\nComment TASKS and I'll send you the cheat sheet 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #coding #programming #developer #productivity #aitools",
     "trial": "performance",
     "fbSkip": true,
     "ytSkip": true
@@ -1482,6 +1482,16 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
     "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
+  },
+  {
+    "at": "2026-12-13T12:00:00Z",
+    "note": "THEORY: sitcom ep 10, slower delivery test, make Claude quiz you. Comment QUIZ -> dm/QUIZ.md. videos/theory/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory_9x16.jpg",
+    "caption": "I told my girlfriend I can drive. She hired a van for Saturday. My theory test was tomorrow 💀\n\nHow Claude got me through it:\n\n1. Paste in your notes or the chapter you've been avoiding\n2. Paste: \"Quiz me on this. One question at a time. No answer until I've tried.\"\n3. Everything you get wrong comes back harder\n\nRereading feels like learning. Getting quizzed actually is. Works for any exam.\n\n49 out of 50. Nobody told me there was a second test. Should I tell her? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #aitools #claudecheats",
     "trial": "performance",
     "fbSkip": true,
     "ytSkip": true
