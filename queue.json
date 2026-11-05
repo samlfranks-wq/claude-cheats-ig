@@ -1010,7 +1010,10 @@
     "caption": "Stop watching Claude Code wait ⏳\n\nEvery time it starts a dev server or runs your tests, the whole chat stops until it's done.\n\nPress Ctrl+B. The command moves to the background and Claude carries on with the next job. Works on subagents too.\n\n/tasks shows everything still running\nCtrl+X then Ctrl+K (twice) stops every background subagent\n\nThe catch: background agents still use your tokens, so keep it to 2 or 3.\n\nComment TASKS and I'll send you the cheat sheet 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #coding #programming #developer #productivity #aitools",
     "trial": "performance",
     "fbSkip": true,
-    "ytSkip": true
+    "ytSkip": true,
+    "posted": "2026-11-05T17:00:54.021Z",
+    "fb": "2026-11-05T17:01:06.717Z",
+    "yt": "2026-11-05T17:01:15.423Z"
   },
   {
     "at": "2026-11-05T18:00:00Z",
