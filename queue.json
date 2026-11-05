@@ -1023,7 +1023,10 @@
     "caption": "Claude rewrote my whole app. It worked ten minutes ago 💀\r\n\r\nClaude Code has an undo button most people never find:\r\n\r\n1. Press Esc twice (or type /rewind). Every prompt you sent is a checkpoint.\r\n2. Pick one and choose: code + chat, chat only, or code only. \"Code only\" puts your files back and keeps the conversation.\r\n3. The catch: it only undoes Claude's own edits. Anything run in the terminal (rm, migrations) isn't tracked. Commit to git before big changes.\r\n\r\nSave this for the next time Claude \"improves\" everything.\r\n\r\nWhat would you rewind? 👇\r\n\r\n💬 Comment REWIND and I'll DM you my Claude Code undo cheat sheet 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #vibecoding #claudecheats",
     "trial": "performance",
     "fbSkip": true,
-    "ytSkip": true
+    "ytSkip": true,
+    "posted": "2026-11-05T22:29:27.891Z",
+    "fb": "2026-11-05T22:29:40.815Z",
+    "yt": "2026-11-05T22:29:48.811Z"
   },
   {
     "at": "2026-11-06T12:00:00Z",
