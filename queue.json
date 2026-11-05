@@ -1083,13 +1083,13 @@
   },
   {
     "at": "2026-11-09T12:00:00Z",
-    "note": "CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
-    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
-    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
-    "trial": "performance"
+    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
+    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-09T18:00:00Z",
@@ -1203,13 +1203,13 @@
   },
   {
     "at": "2026-11-15T12:00:00Z",
-    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
-    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
-    "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "note": "CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
+    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
+    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
+    "trial": "performance"
   },
   {
     "at": "2026-11-15T18:00:00Z",
