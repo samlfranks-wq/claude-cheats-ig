@@ -1063,10 +1063,10 @@
   },
   {
     "at": "2026-11-08T12:00:00Z",
-    "note": "ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
-    "caption": "Claude called my mate Gaz \"a wonderful person\". It has never met Gaz 💀\n\nThe 4 words that fix every Claude answer:\n\n1. End your prompt with \"ask me questions first\".\n2. Add \"one at a time\" so it doesn't fire 10 questions at you.\n3. Answer them. Claude now knows the stuff it was guessing.\n\nWorks on CVs, cover letters, emails, speeches, anything personal.\n\nThe catch: it WILL use your answers. All of them 😅\n\nSave this for the next thing you ask Claude to write 📌\n\nShould Sam give the speech? 👇\n\n💬 Comment ASK and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #chatgpt #aitips #claudecheats",
+    "note": "EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
+    "caption": "Claude marked my exam before I sat it. 1.5 out of 3 😬\n\nHow to make Claude your examiner:\n\n1. Drop your lecture notes or slides into Claude.\n2. Paste: \"Quiz me on this. One question at a time. Don't give the answer until I try. Track what I get wrong.\"\n3. When you're done: \"Make me a 1-minute revision sheet of only what I got wrong.\"\n\nIt explains every miss, keeps score, and even reads your notes for the stuff examiners love to mark down.\n\nRereading feels like revision. Getting tested actually is.\n\nSave this for exam season 📌\n\n💬 Comment EXAM and I'll DM you the full prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
@@ -1254,6 +1254,14 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp_16x9.jpg",
     "ytTitle": "Stop Copy-Pasting Into Claude. Connect Your Tools With MCP",
     "caption": "You copied the ticket, the design notes and the database rows into one prompt. Notion tab, Figma tab, database tab, back to Claude.\n\nClaude couldn't open those tools, so you became the courier.\n\nAnthropic's own Claude Code docs: run claude mcp add to connect external tools like Notion, Figma, or your database.\n\nThe fix:\n1. claude mcp add with the server's name and URL (once).\n2. Then just ask: \"read the ticket\", \"check the design\", \"query the orders table\".\n3. Copying from the same tool every day? That's the one to connect first.\n\nStop being the courier.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-18T12:00:00Z",
+    "note": "ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
+    "caption": "Claude called my mate Gaz \"a wonderful person\". It has never met Gaz 💀\n\nThe 4 words that fix every Claude answer:\n\n1. End your prompt with \"ask me questions first\".\n2. Add \"one at a time\" so it doesn't fire 10 questions at you.\n3. Answer them. Claude now knows the stuff it was guessing.\n\nWorks on CVs, cover letters, emails, speeches, anything personal.\n\nThe catch: it WILL use your answers. All of them 😅\n\nSave this for the next thing you ask Claude to write 📌\n\nShould Sam give the speech? 👇\n\n💬 Comment ASK and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #chatgpt #aitips #claudecheats",
     "trial": "performance"
   },
   {
