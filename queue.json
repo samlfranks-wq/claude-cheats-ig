@@ -1050,12 +1050,13 @@
   },
   {
     "at": "2026-11-07T12:00:00Z",
-    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
-    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
-    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
-    "trial": "performance"
+    "note": "GRAPH: sitcom ep 17, value-first + grid (Claude reads a retention-graph screenshot), keyword GRAPH",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/graph.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/graph_9x16.jpg",
+    "caption": "70% of people swiped my reel in 2 seconds. Claude found exactly why 📉\n\nFind where your viewers leave:\n\n1. Screenshot your retention graph (Instagram: Insights > the reel > Watch time).\n2. Paste it into Claude with your script and ask \"where did people leave?\"\n3. It matches every drop to the exact line: \"hey guys\" at 0.8 s, setup before the point, a follow ask too early.\n4. The fixes: result on frame zero, twist first, follow at the end.\n\nSave this for your next edit 📌\n\nWhere did YOU lose them? 👇\n\n💬 Comment GRAPH and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #contentcreator #claudecheats",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-07T18:00:00Z",
@@ -1225,6 +1226,15 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_16x9.jpg",
     "ytTitle": "New Codebase? Stop Reading, Start Asking Claude",
     "caption": "New codebase. Forty thousand lines. Two days of reading, and still no idea how the login works.\n\nThere's a senior engineer who has read every line. It's Claude.\n\nAnthropic's own Claude Code docs: ask Claude the questions you'd ask a senior engineer. It's an effective onboarding workflow, and no special prompting is required.\n\nTry:\n1. How does logging work?\n2. How do I make a new API endpoint?\n3. Why does this code call foo() instead of bar()?\n\nNew codebase? Ask first, read second.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-16T12:00:00Z",
+    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
+    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
+    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
     "trial": "performance"
   },
   {
