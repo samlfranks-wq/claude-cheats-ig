@@ -1057,12 +1057,10 @@
   },
   {
     "at": "2026-11-08T12:00:00Z",
-    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
-    "ytTitle": "3 Claudes Set Your Mock Exam Before the Real One",
-    "caption": "I built an exam board of 3 Claudes that sets your mock paper before the real exam does 📝\n\n💬 Comment MOCK and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The board:\n1. The Setter writes the paper from your syllabus, in your real exam's style\n2. The Marker grades every answer against the mark scheme\n3. The Coach finds the one topic costing you the most marks\n\nSo on the day, it feels like you've already sat it.\n\n📌 Save this for exam season.\nFollow @claude.cheats for more.\n\n#studytips #exams #revision #studentlife #studywithme #claudeai #aitools #claudecheats",
+    "note": "ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
+    "caption": "Claude called my mate Gaz \"a wonderful person\". It has never met Gaz 💀\n\nThe 4 words that fix every Claude answer:\n\n1. End your prompt with \"ask me questions first\".\n2. Add \"one at a time\" so it doesn't fire 10 questions at you.\n3. Answer them. Claude now knows the stuff it was guessing.\n\nWorks on CVs, cover letters, emails, speeches, anything personal.\n\nThe catch: it WILL use your answers. All of them 😅\n\nSave this for the next thing you ask Claude to write 📌\n\nShould Sam give the speech? 👇\n\n💬 Comment ASK and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #chatgpt #aitips #claudecheats",
     "trial": "performance"
   },
   {
@@ -1230,6 +1228,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw_16x9.jpg",
     "ytTitle": "One Quick Question Is Clogging Your Claude Chat (Use /btw)",
     "caption": "You asked Claude one quick question in the middle of a task. Now it sits in the conversation, taking up space, for the rest of the session.\n\nEvery detour fills the context, and long sessions full of irrelevant context can make Claude worse.\n\nAnthropic's own Claude Code docs: for quick questions that don't need to stay in context, use /btw. The answer never enters conversation history.\n\nThe fix:\n1. Quick side question? /btw what port is the server on?\n2. Brand new task? /clear and start fresh.\n\nKeep the main chat for the main job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-17T12:00:00Z",
+    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
+    "ytTitle": "3 Claudes Set Your Mock Exam Before the Real One",
+    "caption": "I built an exam board of 3 Claudes that sets your mock paper before the real exam does 📝\n\n💬 Comment MOCK and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The board:\n1. The Setter writes the paper from your syllabus, in your real exam's style\n2. The Marker grades every answer against the mark scheme\n3. The Coach finds the one topic costing you the most marks\n\nSo on the day, it feels like you've already sat it.\n\n📌 Save this for exam season.\nFollow @claude.cheats for more.\n\n#studytips #exams #revision #studentlife #studywithme #claudeai #aitools #claudecheats",
     "trial": "performance"
   },
   {
