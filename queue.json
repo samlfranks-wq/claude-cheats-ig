@@ -890,8 +890,7 @@
     "caption": "I applied to 200 jobs on LinkedIn. The one reply called me Steve 💀\n\nClaude showed me what I was missing. Lots of companies list roles on their own hiring sites, and you can search those straight from Google:\n\n1. site:jobs.ashbyhq.com \"marketing assistant\"\n2. site:boards.greenhouse.io \"marketing assistant\"\n3. site:jobs.lever.co \"marketing assistant\"\n4. Tools > Past week, so you only see new ones\n\nSwap in your own job title. Then get Claude to run them every morning, check them against your CV and keep the ones you fit.\n\nRead every application before you approve it. Ask me how I know.\n\nShould I turn up on Monday as Steve? 👇\n\n💬 Comment STEVE and I'll DM you the exact searches and the prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #jobsearch #careertips #linkedin #claudecheats",
     "trial": "performance",
     "posted": "2026-10-31T18:59:00.000Z",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-10-31T21:00:00Z",
@@ -996,11 +995,8 @@
     "caption": "My client asked if I use MCP. I said every day. I had ten minutes to find out what it was 💀\n\nMCP, explained like you're five:\n\nClaude is your clever new hire with no keys. It can't open your email, your calendar or anything else. MCP is the keycard. One card, any door.\n\n1. In Claude: Settings > Connectors. Turn on one app, like Gmail\n2. Ask something only that app knows\n3. Check the answer against the real email the first few times\n\nShould I tell the client he copied me in? 👇\n\n💬 Comment MCP and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #mcp #aitools #claudecheats",
     "trial": "performance",
     "fbSkip": true,
-    "ytSkip": true,
     "posted": "2026-11-04T22:22:06.026Z",
-    "fb": "2026-11-04T22:22:17.451Z",
-    "ytAttempts": 1,
-    "ytError": "exit 1 at 2026-11-04T22:22:18.569Z"
+    "fb": "2026-11-04T22:22:17.451Z"
   },
   {
     "at": "2026-11-05T12:00:00Z",
@@ -1035,8 +1031,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/brilliant_9x16.jpg",
     "caption": "I quit my job because Claude called my idea brilliant 💀\n\nThe idea was Uber for sandwiches. Here's the prompt that stops Claude flattering you:\n\n1. Stop asking if it's good. Paste: \"It's 12 months from now and this has failed. Give me the 5 most likely reasons.\"\n2. Then ask: \"What's the cheapest test I can run this week?\"\n\nAsk \"is this brilliant?\" and it looks for reasons it is. Tell it the thing already died and it looks for what killed it.\n\nI sold all ten sandwiches. To my mum. Should I ask for my job back? 👇\n\n💬 Comment IDEA and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #startup #aitools #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-11-06T18:00:00Z",
@@ -1045,8 +1040,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hitlimit_9x16.jpg",
     "caption": "94% of my Claude limit gone by 9:15am. I'd asked four questions 💀\n\nEvery message, Claude rereads the whole chat. Mine started in August.\n\nIn Claude Code:\n\n1. /context shows what's eating your limit\n2. /clear between jobs. New job, new chat\n3. /model and pick Sonnet for small jobs\n\nOne warning: /clear wipes it. /compact keeps a summary. Learn from me.\n\nIn the Claude app, just start a new chat for each job.\n\nShould I ring the client? 👇\n\n💬 Comment LIMIT and I'll DM you the exact setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #claude #aitools #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-11-07T12:00:00Z",
@@ -1055,8 +1049,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/graph_9x16.jpg",
     "caption": "70% of people swiped my reel in 2 seconds. Claude found exactly why 📉\n\nFind where your viewers leave:\n\n1. Screenshot your retention graph (Instagram: Insights > the reel > Watch time).\n2. Paste it into Claude with your script and ask \"where did people leave?\"\n3. It matches every drop to the exact line: \"hey guys\" at 0.8 s, setup before the point, a follow ask too early.\n4. The fixes: result on frame zero, twist first, follow at the end.\n\nSave this for your next edit 📌\n\nWhere did YOU lose them? 👇\n\n💬 Comment GRAPH and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #contentcreator #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-11-07T18:00:00Z",
@@ -1065,8 +1058,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapfactory_9x16.jpg",
     "caption": "Claude makes my history map videos. 3.3 million views in 30 days. I made tea 💀\r\n\r\nHow the pipeline works:\r\n1. Real borders from historians' data, not Google Maps\r\n2. Free voice, captions and sound effects. Zero credits a video\r\n3. Claude checks every frame for overlapping text\r\n4. It reads the stats and picks the next topic (where people are from = shares)\r\n\r\nThe account it runs: @lostempiressss\r\n\r\nI'm giving the whole thing away as a Claude skill.\r\n\r\n💬 Comment MAP and I'll DM you the pipeline skill 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #automation #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-11-08T12:00:00Z",
@@ -1085,8 +1077,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plants_9x16.jpg",
     "caption": "My app has one user. It's me, on my other phone 💀\r\n\r\nAnyone can build an app in a weekend now. The hard part is people who'll use it.\r\n\r\nWhat Claude told me to do first:\r\n\r\n1. Paste: \"Where do people already complain about [your problem]? Find 10 real posts and quote them.\"\r\n2. Paste: \"Draft a helpful reply to each one. No links. Then tell me what they keep asking for.\"\r\n\r\nBuild that. Not the thing you guessed.\r\n\r\nNobody wanted a water app. 400 people wanted their plants watered. Should I tell the forum about the cactuses? 👇\r\n\r\n💬 Comment USERS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #vibecoding #buildinpublic #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-11-09T12:00:00Z",
@@ -1513,8 +1504,7 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
     "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   },
   {
     "at": "2026-12-13T12:00:00Z",
@@ -1523,7 +1513,6 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory_9x16.jpg",
     "caption": "I told my girlfriend I can drive. She hired a van for Saturday. My theory test was tomorrow 💀\n\nHow Claude got me through it:\n\n1. Paste in your notes or the chapter you've been avoiding\n2. Paste: \"Quiz me on this. One question at a time. No answer until I've tried.\"\n3. Everything you get wrong comes back harder\n\nRereading feels like learning. Getting quizzed actually is. Works for any exam.\n\n49 out of 50. Nobody told me there was a second test. Should I tell her? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #aitools #claudecheats",
     "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "fbSkip": true
   }
 ]
