@@ -1000,8 +1000,8 @@
     "fbSkip": true,
     "posted": "2026-11-04T22:22:06.026Z",
     "fb": "2026-11-04T22:22:17.451Z",
-    "ytAttempts": 1,
-    "ytError": "exit 1 at 2026-11-07T18:29:27.764Z"
+    "ytAttempts": 2,
+    "ytError": "exit 1 at 2026-11-07T20:38:06.411Z"
   },
   {
     "at": "2026-11-05T12:00:00Z",
@@ -1069,7 +1069,10 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapfactory.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapfactory_9x16.jpg",
     "caption": "Claude makes my history map videos. 3.3 million views in 30 days. I made tea 💀\r\n\r\nHow the pipeline works:\r\n1. Real borders from historians' data, not Google Maps\r\n2. Free voice, captions and sound effects. Zero credits a video\r\n3. Claude checks every frame for overlapping text\r\n4. It reads the stats and picks the next topic (where people are from = shares)\r\n\r\nThe account it runs: @lostempiressss\r\n\r\nI'm giving the whole thing away as a Claude skill.\r\n\r\n💬 Comment MAP and I'll DM you the pipeline skill 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #automation #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-11-07T20:39:38.844Z",
+    "fb": "2026-11-07T20:40:02.090Z",
+    "yt": "2026-11-07T20:40:08.456Z"
   },
   {
     "at": "2026-11-08T12:00:00Z",
