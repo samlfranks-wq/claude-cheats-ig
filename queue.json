@@ -1125,12 +1125,10 @@
   },
   {
     "at": "2026-11-11T12:00:00Z",
-    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
-    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
-    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "note": "USAGE: limit series 1/3, Settings > Usage meter, sitcom + real claude.ai screens",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage_9x16.jpg",
+    "caption": "Claude has a usage meter. Almost nobody checks it 👀\n\nStop hitting your limit, part 1 of 3:\n\n1. On claude.ai, open Settings > Usage (paid plans).\n2. Two bars: this session (resets every 5 hours) and this week.\n3. It shows the exact reset time.\n4. The top line tells you if you're on track for the weekly reset.\n\nCheck it before the big job. Not halfway through an email to your boss.\n\nPart 2: the setting that quietly uses 4x your limit.\n\nDid Sam change the font? 👇\n\n💬 Comment USAGE and I'll DM you the full checklist 📩\nFollow @claude.cheats for part 2.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1145,12 +1143,10 @@
   },
   {
     "at": "2026-11-12T12:00:00Z",
-    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
-    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
-    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "note": "EFFORT: limit series 2/3, Max effort 4x usage + model picker, sitcom + real screens",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
+    "caption": "Max effort uses 4x your Claude limit. Or more 😬\n\nStop hitting your limit, part 2 of 3:\n\n1. Click the model name under the chat box.\n2. Effort: Medium is the recommended setting. Save Max for genuinely hard problems.\n3. Model: Sonnet for simpler tasks, Haiku for quick answers.\n\nA birthday card does not need Max effort. Probably.\n\nPart 3: the PDF you keep uploading is eating your limit.\n\nMax effort for Nan? Yes or no 👇\n\n💬 Comment EFFORT and I'll DM you my settings 📩\nFollow @claude.cheats for part 3.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1165,12 +1161,10 @@
   },
   {
     "at": "2026-11-13T12:00:00Z",
-    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
-    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
-    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
+    "note": "PROJECT: limit series 3/3, Projects cache files, sitcom + real screens + help centre",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache_9x16.jpg",
+    "caption": "Stop uploading the same PDF to every Claude chat 📎\n\nStop hitting your limit, part 3 of 3:\n\n1. Projects > New project.\n2. Context > Add your brand guide, CV or notes once.\n3. Chat inside the project. Every chat there can use the files.\n\nProject content is cached, so reusing it counts less against your limit than fresh uploads. That's straight from Anthropic's help centre.\n\nThe catch: after a long break, your first message counts the files in full again.\n\nIs it called Final Final v2? 👇\n\n💬 Comment PROJECT and I'll DM you the setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1301,6 +1295,16 @@
     "trial": "performance"
   },
   {
+    "at": "2026-11-20T12:00:00Z",
+    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
+    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
+    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
     "at": "2026-11-20T18:00:00Z",
     "note": "SAFETY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety.mp4",
@@ -1311,6 +1315,16 @@
     "trial": "performance"
   },
   {
+    "at": "2026-11-21T12:00:00Z",
+    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
+    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
+    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "trial": "performance"
+  },
+  {
     "at": "2026-11-21T18:00:00Z",
     "note": "FOCUS - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus.mp4",
@@ -1318,6 +1332,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus_16x9.jpg",
     "ytTitle": "Claude's Focus Is at Zero. 4 Commands Fix It",
     "caption": "Claude's focus is at zero. Your chat is full of old tasks, giant logs and side questions. Four commands fix it.\n\n1. /clear between unrelated tasks. Clean slate.\n2. /compact with instructions, like: /compact Focus on the API changes\n3. /btw for quick side questions. The answer never enters the history.\n4. \"Use subagents to investigate X\". The research happens in its own context, not yours.\n\nAnthropic's own docs call the context window the most important resource to manage. Protect it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-22T12:00:00Z",
+    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
+    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
+    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
     "trial": "performance"
   },
   {
