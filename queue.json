@@ -1071,10 +1071,10 @@
   },
   {
     "at": "2026-11-08T12:00:00Z",
-    "note": "EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
-    "caption": "Claude marked my exam before I sat it. 1.5 out of 3 😬\n\nHow to make Claude your examiner:\n\n1. Drop your lecture notes or slides into Claude.\n2. Paste: \"Quiz me on this. One question at a time. Don't give the answer until I try. Track what I get wrong.\"\n3. When you're done: \"Make me a 1-minute revision sheet of only what I got wrong.\"\n\nIt explains every miss, keeps score, and even reads your notes for the stuff examiners love to mark down.\n\nRereading feels like revision. Getting tested actually is.\n\nSave this for exam season 📌\n\n💬 Comment EXAM and I'll DM you the full prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
+    "note": "USAGE: limit series 1/3, Settings > Usage meter, sitcom + real claude.ai screens",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage_9x16.jpg",
+    "caption": "Claude has a usage meter. Almost nobody checks it 👀\n\nStop hitting your limit, part 1 of 3:\n\n1. On claude.ai, open Settings > Usage (paid plans).\n2. Two bars: this session (resets every 5 hours) and this week.\n3. It shows the exact reset time.\n4. The top line tells you if you're on track for the weekly reset.\n\nCheck it before the big job. Not halfway through an email to your boss.\n\nPart 2: the setting that quietly uses 4x your limit.\n\nDid Sam change the font? 👇\n\n💬 Comment USAGE and I'll DM you the full checklist 📩\nFollow @claude.cheats for part 2.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1087,13 +1087,11 @@
   },
   {
     "at": "2026-11-09T12:00:00Z",
-    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
-    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
-    "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "note": "EFFORT: limit series 2/3, Max effort 4x usage + model picker, sitcom + real screens",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
+    "caption": "Max effort uses 4x your Claude limit. Or more 😬\n\nStop hitting your limit, part 2 of 3:\n\n1. Click the model name under the chat box.\n2. Effort: Medium is the recommended setting. Save Max for genuinely hard problems.\n3. Model: Sonnet for simpler tasks, Haiku for quick answers.\n\nA birthday card does not need Max effort. Probably.\n\nPart 3: the PDF you keep uploading is eating your limit.\n\nMax effort for Nan? Yes or no 👇\n\n💬 Comment EFFORT and I'll DM you my settings 📩\nFollow @claude.cheats for part 3.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "trial": "performance"
   },
   {
     "at": "2026-11-09T18:00:00Z",
@@ -1107,10 +1105,10 @@
   },
   {
     "at": "2026-11-10T12:00:00Z",
-    "note": "CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
-    "caption": "Rereading your notes isn't revising. Getting quizzed is 📚\n\nNight-before-the-exam move:\n\n1. Upload your lecture notes to Claude.\n2. Say \"quiz me, one question at a time, track what I get wrong\".\n3. Answer before you look. No peeking.\n4. At the end: \"make me a revision sheet of ONLY what I got wrong\".\n\nIt even marks you against YOUR notes, not the internet 👀\n\nSave this for exam season 📌\n\nWill Sam pass tomorrow? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
+    "note": "PROJECT: limit series 3/3, Projects cache files, sitcom + real screens + help centre",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache_9x16.jpg",
+    "caption": "Stop uploading the same PDF to every Claude chat 📎\n\nStop hitting your limit, part 3 of 3:\n\n1. Projects > New project.\n2. Context > Add your brand guide, CV or notes once.\n3. Chat inside the project. Every chat there can use the files.\n\nProject content is cached, so reusing it counts less against your limit than fresh uploads. That's straight from Anthropic's help centre.\n\nThe catch: after a long break, your first message counts the files in full again.\n\nIs it called Final Final v2? 👇\n\n💬 Comment PROJECT and I'll DM you the setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1125,10 +1123,10 @@
   },
   {
     "at": "2026-11-11T12:00:00Z",
-    "note": "USAGE: limit series 1/3, Settings > Usage meter, sitcom + real claude.ai screens",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage_9x16.jpg",
-    "caption": "Claude has a usage meter. Almost nobody checks it 👀\n\nStop hitting your limit, part 1 of 3:\n\n1. On claude.ai, open Settings > Usage (paid plans).\n2. Two bars: this session (resets every 5 hours) and this week.\n3. It shows the exact reset time.\n4. The top line tells you if you're on track for the weekly reset.\n\nCheck it before the big job. Not halfway through an email to your boss.\n\nPart 2: the setting that quietly uses 4x your limit.\n\nDid Sam change the font? 👇\n\n💬 Comment USAGE and I'll DM you the full checklist 📩\nFollow @claude.cheats for part 2.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "note": "EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
+    "caption": "Claude marked my exam before I sat it. 1.5 out of 3 😬\n\nHow to make Claude your examiner:\n\n1. Drop your lecture notes or slides into Claude.\n2. Paste: \"Quiz me on this. One question at a time. Don't give the answer until I try. Track what I get wrong.\"\n3. When you're done: \"Make me a 1-minute revision sheet of only what I got wrong.\"\n\nIt explains every miss, keeps score, and even reads your notes for the stuff examiners love to mark down.\n\nRereading feels like revision. Getting tested actually is.\n\nSave this for exam season 📌\n\n💬 Comment EXAM and I'll DM you the full prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
@@ -1143,11 +1141,13 @@
   },
   {
     "at": "2026-11-12T12:00:00Z",
-    "note": "EFFORT: limit series 2/3, Max effort 4x usage + model picker, sitcom + real screens",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
-    "caption": "Max effort uses 4x your Claude limit. Or more 😬\n\nStop hitting your limit, part 2 of 3:\n\n1. Click the model name under the chat box.\n2. Effort: Medium is the recommended setting. Save Max for genuinely hard problems.\n3. Model: Sonnet for simpler tasks, Haiku for quick answers.\n\nA birthday card does not need Max effort. Probably.\n\nPart 3: the PDF you keep uploading is eating your limit.\n\nMax effort for Nan? Yes or no 👇\n\n💬 Comment EFFORT and I'll DM you my settings 📩\nFollow @claude.cheats for part 3.\n\n#claudeai #claude #aitips #productivity #claudecheats",
-    "trial": "performance"
+    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
+    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-12T18:00:00Z",
@@ -1161,10 +1161,10 @@
   },
   {
     "at": "2026-11-13T12:00:00Z",
-    "note": "PROJECT: limit series 3/3, Projects cache files, sitcom + real screens + help centre",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache_9x16.jpg",
-    "caption": "Stop uploading the same PDF to every Claude chat 📎\n\nStop hitting your limit, part 3 of 3:\n\n1. Projects > New project.\n2. Context > Add your brand guide, CV or notes once.\n3. Chat inside the project. Every chat there can use the files.\n\nProject content is cached, so reusing it counts less against your limit than fresh uploads. That's straight from Anthropic's help centre.\n\nThe catch: after a long break, your first message counts the files in full again.\n\nIs it called Final Final v2? 👇\n\n💬 Comment PROJECT and I'll DM you the setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "note": "CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
+    "caption": "Rereading your notes isn't revising. Getting quizzed is 📚\n\nNight-before-the-exam move:\n\n1. Upload your lecture notes to Claude.\n2. Say \"quiz me, one question at a time, track what I get wrong\".\n3. Answer before you look. No peeking.\n4. At the end: \"make me a revision sheet of ONLY what I got wrong\".\n\nIt even marks you against YOUR notes, not the internet 👀\n\nSave this for exam season 📌\n\nWill Sam pass tomorrow? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
