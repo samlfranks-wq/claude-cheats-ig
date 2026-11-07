@@ -1102,12 +1102,10 @@
   },
   {
     "at": "2026-11-10T12:00:00Z",
-    "note": "APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_16x9.jpg",
-    "ytTitle": "4 Claudes Read Your Personal Statement Before the University Does",
-    "caption": "I built an admissions panel of 4 Claudes that reads your personal statement before the university does 🎓\n\n💬 Comment APPLY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Reader flags every line that sounds like everyone else's\n2. The Admissions Officer asks why this course, really\n3. The Editor cuts it to the limit without losing your voice\n4. The Interviewer asks the follow-ups they'll ask you\n\nFeedback only. It never writes it for you.\n\n📌 Save this for application season.\nFollow @claude.cheats for more.\n\n#personalstatement #ucas #university #collegeapplications #studentlife #claudeai #aitools #claudecheats",
+    "note": "CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
+    "caption": "Rereading your notes isn't revising. Getting quizzed is 📚\n\nNight-before-the-exam move:\n\n1. Upload your lecture notes to Claude.\n2. Say \"quiz me, one question at a time, track what I get wrong\".\n3. Answer before you look. No peeking.\n4. At the end: \"make me a revision sheet of ONLY what I got wrong\".\n\nIt even marks you against YOUR notes, not the internet 👀\n\nSave this for exam season 📌\n\nWill Sam pass tomorrow? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
@@ -1275,6 +1273,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_16x9.jpg",
     "ytTitle": "Stop Describing Where Your Files Are. Use @ in Claude Code",
     "caption": "You wrote a whole paragraph explaining where one file lives. \"It's in src. No, the other src. Next to the old one.\"\n\nSo Claude went looking, and opened the wrong file.\n\nAnthropic's own Claude Code docs: reference files with @ instead of describing where code lives. Claude reads the file before responding.\n\nThe fix:\n1. Type @ and start the file name.\n2. Pick it from the list.\n3. Don't know where it lives? Ask Claude to find it first.\n\nPoint, don't describe.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-19T12:00:00Z",
+    "note": "APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_16x9.jpg",
+    "ytTitle": "4 Claudes Read Your Personal Statement Before the University Does",
+    "caption": "I built an admissions panel of 4 Claudes that reads your personal statement before the university does 🎓\n\n💬 Comment APPLY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Reader flags every line that sounds like everyone else's\n2. The Admissions Officer asks why this course, really\n3. The Editor cuts it to the limit without losing your voice\n4. The Interviewer asks the follow-ups they'll ask you\n\nFeedback only. It never writes it for you.\n\n📌 Save this for application season.\nFollow @claude.cheats for more.\n\n#personalstatement #ucas #university #collegeapplications #studentlife #claudeai #aitools #claudecheats",
     "trial": "performance"
   },
   {
@@ -1522,14 +1530,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
     "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-12-13T12:00:00Z",
-    "note": "THEORY: sitcom ep 10, slower delivery test, make Claude quiz you. Comment QUIZ -> dm/QUIZ.md. videos/theory/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/theory_9x16.jpg",
-    "caption": "I told my girlfriend I can drive. She hired a van for Saturday. My theory test was tomorrow 💀\n\nHow Claude got me through it:\n\n1. Paste in your notes or the chapter you've been avoiding\n2. Paste: \"Quiz me on this. One question at a time. No answer until I've tried.\"\n3. Everything you get wrong comes back harder\n\nRereading feels like learning. Getting quizzed actually is. Works for any exam.\n\n49 out of 50. Nobody told me there was a second test. Should I tell her? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #aitools #claudecheats",
     "trial": "performance"
   }
 ]
