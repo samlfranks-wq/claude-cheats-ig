@@ -1061,8 +1061,9 @@
     "trial": "performance",
     "posted": "2026-11-07T15:20:05.529Z",
     "fb": "2026-11-07T15:20:19.058Z",
-    "ytAttempts": 2,
-    "ytError": "exit 1 at 2026-11-08T18:40:57.691Z"
+    "ytAttempts": 3,
+    "ytError": "exit 1 at 2026-11-08T20:56:02.149Z",
+    "ytSkip": true
   },
   {
     "at": "2026-11-07T18:00:00Z",
@@ -1093,7 +1094,10 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plants.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/plants_9x16.jpg",
     "caption": "My app has one user. It's me, on my other phone 💀\r\n\r\nAnyone can build an app in a weekend now. The hard part is people who'll use it.\r\n\r\nWhat Claude told me to do first:\r\n\r\n1. Paste: \"Where do people already complain about [your problem]? Find 10 real posts and quote them.\"\r\n2. Paste: \"Draft a helpful reply to each one. No links. Then tell me what they keep asking for.\"\r\n\r\nBuild that. Not the thing you guessed.\r\n\r\nNobody wanted a water app. 400 people wanted their plants watered. Should I tell the forum about the cactuses? 👇\r\n\r\n💬 Comment USERS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #vibecoding #buildinpublic #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-11-08T20:56:53.969Z",
+    "fb": "2026-11-08T20:57:08.236Z",
+    "yt": "2026-11-08T20:57:13.029Z"
   },
   {
     "at": "2026-11-09T12:00:00Z",
