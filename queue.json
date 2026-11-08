@@ -1000,8 +1000,9 @@
     "fbSkip": true,
     "posted": "2026-11-04T22:22:06.026Z",
     "fb": "2026-11-04T22:22:17.451Z",
-    "ytAttempts": 2,
-    "ytError": "exit 1 at 2026-11-07T20:38:06.411Z"
+    "ytAttempts": 3,
+    "ytError": "exit 1 at 2026-11-08T15:42:31.862Z",
+    "ytSkip": true
   },
   {
     "at": "2026-11-05T12:00:00Z",
@@ -1080,7 +1081,11 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/usage_9x16.jpg",
     "caption": "Claude has a usage meter. Almost nobody checks it 👀\n\nStop hitting your limit:\n\n1. On claude.ai, open Settings > Usage (paid plans).\n2. Two bars: this session (resets every 5 hours) and this week.\n3. It shows the exact reset time.\n4. The top line tells you if you're on track for the weekly reset.\n\nCheck it before the big job. Not halfway through an email to your boss.\n\nDid Sam change the font? 👇\n\n💬 Comment USAGE and I'll DM you the full checklist 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-11-08T15:43:37.741Z",
+    "fb": "2026-11-08T15:43:51.869Z",
+    "ytAttempts": 1,
+    "ytError": "exit 1 at 2026-11-08T15:43:52.971Z"
   },
   {
     "at": "2026-11-08T18:00:00Z",
