@@ -1187,10 +1187,10 @@
   },
   {
     "at": "2026-11-14T12:00:00Z",
-    "note": "EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
-    "caption": "Claude marked my exam before I sat it. 1.5 out of 3 😬\n\nHow to make Claude your examiner:\n\n1. Drop your lecture notes or slides into Claude.\n2. Paste: \"Quiz me on this. One question at a time. Don't give the answer until I try. Track what I get wrong.\"\n3. When you're done: \"Make me a 1-minute revision sheet of only what I got wrong.\"\n\nIt explains every miss, keeps score, and even reads your notes for the stuff examiners love to mark down.\n\nRereading feels like revision. Getting tested actually is.\n\nSave this for exam season 📌\n\n💬 Comment EXAM and I'll DM you the full prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
+    "note": "PRINTER: Claude Cheats take on joshualevi.ai DfXo7y2ImjE: MoneyPrinterTurbo (140,975 stars, MIT) installed by Claude Code via its Skill prompt; motion cams + warm grade; keyword PRINTER",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer_9x16.jpg",
+    "caption": "Rent due Friday. £11 in the bank. Claude: \"paste two lines\" 💀\n\nThe free tool: MoneyPrinterTurbo on GitHub (140k+ stars, MIT licence). Topic in, finished short out: script, voice, stock clips, captions, music.\n\nThe Claude cheat: you don't install it yourself. Paste this into Claude Code:\n\nUse this Skill: https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/skill/SKILL.md\nCreate a video with the topic \"black holes\"\n\nClaude installs it, sets it up, and only asks for the keys it actually needs.\n\nThe catch: clips come from free stock sites, so you need a free Pexels or Pixabay key. And a hundred videos nobody asked for is still zero views. The idea is your job.\n\nWhat topic would you make first? 👇\n\n💬 Comment PRINTER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
     "trial": "performance"
   },
   {
@@ -1205,13 +1205,11 @@
   },
   {
     "at": "2026-11-15T12:00:00Z",
-    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
-    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
-    "trial": "performance",
-    "fbSkip": true,
-    "ytSkip": true
+    "note": "MAPSKILL: map-video skill promo (gumroad /l/mapskill), real LE footage inserts per step, honest catch, keyword MAP (dm/MAP.md)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill_9x16.jpg",
+    "caption": "One sentence. A finished history map video. 150,000 views 🗺️\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data (Cliopatria), not Google Maps\n2. A camera flying over real satellite photos (NASA Blue Marble)\n3. Free voice, captions and sound. Zero credits a video\n4. Checks every frame for overlapping text before it renders\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nIt's the pipeline behind @lostempiressss: 3.4 million views in 30 days.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
+    "trial": "performance"
   },
   {
     "at": "2026-11-15T18:00:00Z",
@@ -1225,10 +1223,10 @@
   },
   {
     "at": "2026-11-16T12:00:00Z",
-    "note": "CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
-    "caption": "Rereading your notes isn't revising. Getting quizzed is 📚\n\nNight-before-the-exam move:\n\n1. Upload your lecture notes to Claude.\n2. Say \"quiz me, one question at a time, track what I get wrong\".\n3. Answer before you look. No peeking.\n4. At the end: \"make me a revision sheet of ONLY what I got wrong\".\n\nIt even marks you against YOUR notes, not the internet 👀\n\nSave this for exam season 📌\n\nWill Sam pass tomorrow? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
+    "note": "EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
+    "caption": "Claude marked my exam before I sat it. 1.5 out of 3 😬\n\nHow to make Claude your examiner:\n\n1. Drop your lecture notes or slides into Claude.\n2. Paste: \"Quiz me on this. One question at a time. Don't give the answer until I try. Track what I get wrong.\"\n3. When you're done: \"Make me a 1-minute revision sheet of only what I got wrong.\"\n\nIt explains every miss, keeps score, and even reads your notes for the stuff examiners love to mark down.\n\nRereading feels like revision. Getting tested actually is.\n\nSave this for exam season 📌\n\n💬 Comment EXAM and I'll DM you the full prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
@@ -1243,13 +1241,13 @@
   },
   {
     "at": "2026-11-17T12:00:00Z",
-    "note": "BLIND 2D - lever: insider. 3 Claudes read your old chats and find your blind spot. 2D cream-stage (our reach format, 23 Oct read) + anchored-word match cut from @corbinsylk. Comment BLIND -> dm/BLIND.md (single message). Source toolkit videos/blind.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind_16x9.jpg",
-    "ytTitle": "3 Claudes Find Your Blind Spot From Your Old Chats",
-    "caption": "Nobody tells you this: Claude can read your old chats and find your blind spot.\n\n💬 Comment BLIND and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 How it works:\n1. One Claude finds the question you keep coming back to, and quotes your own messages as proof.\n2. One tells you, kindly, what you keep putting off.\n3. One gives you a single change for this week.\n\nRun it once a month and watch the pattern change.\n\nFollow @claude.cheats for more.\n\n#claudeai #claude #aitools #productivity #selfimprovement #chatgpt #mindset #claudecheats",
-    "trial": "performance"
+    "note": "INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
+    "caption": "How I connected Claude to my Instagram 📲\n\nThere's no Instagram connector in Claude. So I asked Claude Code to build one on Meta's own free Instagram API.\n\n→ make a free Meta developer app (Claude walks you through every click)\n→ Claude writes the code\n→ drop each video into a queue\n→ a GitHub Action posts it every evening, laptop shut\n→ views and comments come back so Claude can tell you what's working\n\nNo scheduling app. No monthly fee.\n\nOne rule: paste your access token into a secrets file yourself. Never into the chat.\n\nComment INSTA and I'll send you the exact prompt I used 📩\n\nFollow @claude.cheats for one Claude cheat a day.\n\n#claudecode #claude #ai #instagramtips #automation #contentcreator #aitools #productivity",
+    "trial": "performance",
+    "fbSkip": true,
+    "ytSkip": true
   },
   {
     "at": "2026-11-17T18:00:00Z",
@@ -1263,12 +1261,10 @@
   },
   {
     "at": "2026-11-18T12:00:00Z",
-    "note": "CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
-    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
-    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
+    "note": "CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
+    "caption": "Rereading your notes isn't revising. Getting quizzed is 📚\n\nNight-before-the-exam move:\n\n1. Upload your lecture notes to Claude.\n2. Say \"quiz me, one question at a time, track what I get wrong\".\n3. Answer before you look. No peeking.\n4. At the end: \"make me a revision sheet of ONLY what I got wrong\".\n\nIt even marks you against YOUR notes, not the internet 👀\n\nSave this for exam season 📌\n\nWill Sam pass tomorrow? 👇\n\n💬 Comment QUIZ and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #studytips #revision #studentlife #claudecheats",
     "trial": "performance"
   },
   {
@@ -1283,11 +1279,12 @@
   },
   {
     "at": "2026-11-19T12:00:00Z",
-    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
-    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
-    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
+    "note": "BLIND 2D - lever: insider. 3 Claudes read your old chats and find your blind spot. 2D cream-stage (our reach format, 23 Oct read) + anchored-word match cut from @corbinsylk. Comment BLIND -> dm/BLIND.md (single message). Source toolkit videos/blind.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind_16x9.jpg",
+    "ytTitle": "3 Claudes Find Your Blind Spot From Your Old Chats",
+    "caption": "Nobody tells you this: Claude can read your old chats and find your blind spot.\n\n💬 Comment BLIND and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 How it works:\n1. One Claude finds the question you keep coming back to, and quotes your own messages as proof.\n2. One tells you, kindly, what you keep putting off.\n3. One gives you a single change for this week.\n\nRun it once a month and watch the pattern change.\n\nFollow @claude.cheats for more.\n\n#claudeai #claude #aitools #productivity #selfimprovement #chatgpt #mindset #claudecheats",
     "trial": "performance"
   },
   {
@@ -1302,12 +1299,12 @@
   },
   {
     "at": "2026-11-20T12:00:00Z",
-    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
-    "ytTitle": "3 Claudes Set Your Mock Exam Before the Real One",
-    "caption": "I built an exam board of 3 Claudes that sets your mock paper before the real exam does 📝\n\n💬 Comment MOCK and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The board:\n1. The Setter writes the paper from your syllabus, in your real exam's style\n2. The Marker grades every answer against the mark scheme\n3. The Coach finds the one topic costing you the most marks\n\nSo on the day, it feels like you've already sat it.\n\n📌 Save this for exam season.\nFollow @claude.cheats for more.\n\n#studytips #exams #revision #studentlife #studywithme #claudeai #aitools #claudecheats",
+    "note": "CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
+    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
+    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
     "trial": "performance"
   },
   {
@@ -1322,10 +1319,11 @@
   },
   {
     "at": "2026-11-21T12:00:00Z",
-    "note": "ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
-    "caption": "Claude called my mate Gaz \"a wonderful person\". It has never met Gaz 💀\n\nThe 4 words that fix every Claude answer:\n\n1. End your prompt with \"ask me questions first\".\n2. Add \"one at a time\" so it doesn't fire 10 questions at you.\n3. Answer them. Claude now knows the stuff it was guessing.\n\nWorks on CVs, cover letters, emails, speeches, anything personal.\n\nThe catch: it WILL use your answers. All of them 😅\n\nSave this for the next thing you ask Claude to write 📌\n\nShould Sam give the speech? 👇\n\n💬 Comment ASK and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #chatgpt #aitips #claudecheats",
+    "note": "ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
+    "ytTitle": "Claude animated this whole video (0 keyframes) #shorts",
+    "caption": "Claude animated this entire video. I didn't touch a single keyframe 🎬\n\n💬 Comment ANIMATE and I'll DM you the setup. Follow so the DM lands 📩\n\n👇 How it works:\n1. Describe the scene in plain English\n2. Claude writes every shape, move and transition as code\n3. It renders a real video file\n4. Want it slower, brighter, on brand? Just ask and it rewrites the scene\n\nNo After Effects, no paid plugins. It runs in Claude Code on your normal plan.\n\n📌 Save this for later.\nFollow @claude.cheats for more.\n\n#claudeai #claudecode #motiongraphics #animation #aitools #contentcreator #claudecheats",
     "trial": "performance"
   },
   {
@@ -1340,12 +1338,12 @@
   },
   {
     "at": "2026-11-22T12:00:00Z",
-    "note": "APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_16x9.jpg",
-    "ytTitle": "4 Claudes Read Your Personal Statement Before the University Does",
-    "caption": "I built an admissions panel of 4 Claudes that reads your personal statement before the university does 🎓\n\n💬 Comment APPLY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Reader flags every line that sounds like everyone else's\n2. The Admissions Officer asks why this course, really\n3. The Editor cuts it to the limit without losing your voice\n4. The Interviewer asks the follow-ups they'll ask you\n\nFeedback only. It never writes it for you.\n\n📌 Save this for application season.\nFollow @claude.cheats for more.\n\n#personalstatement #ucas #university #collegeapplications #studentlife #claudeai #aitools #claudecheats",
+    "note": "MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_16x9.jpg",
+    "ytTitle": "3 Claudes Set Your Mock Exam Before the Real One",
+    "caption": "I built an exam board of 3 Claudes that sets your mock paper before the real exam does 📝\n\n💬 Comment MOCK and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The board:\n1. The Setter writes the paper from your syllabus, in your real exam's style\n2. The Marker grades every answer against the mark scheme\n3. The Coach finds the one topic costing you the most marks\n\nSo on the day, it feels like you've already sat it.\n\n📌 Save this for exam season.\nFollow @claude.cheats for more.\n\n#studytips #exams #revision #studentlife #studywithme #claudeai #aitools #claudecheats",
     "trial": "performance"
   },
   {
@@ -1360,12 +1358,10 @@
   },
   {
     "at": "2026-11-23T12:00:00Z",
-    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
-    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
-    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "note": "ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
+    "caption": "Claude called my mate Gaz \"a wonderful person\". It has never met Gaz 💀\n\nThe 4 words that fix every Claude answer:\n\n1. End your prompt with \"ask me questions first\".\n2. Add \"one at a time\" so it doesn't fire 10 questions at you.\n3. Answer them. Claude now knows the stuff it was guessing.\n\nWorks on CVs, cover letters, emails, speeches, anything personal.\n\nThe catch: it WILL use your answers. All of them 😅\n\nSave this for the next thing you ask Claude to write 📌\n\nShould Sam give the speech? 👇\n\n💬 Comment ASK and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #chatgpt #aitips #claudecheats",
     "trial": "performance"
   },
   {
@@ -1380,12 +1376,12 @@
   },
   {
     "at": "2026-11-24T12:00:00Z",
-    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
-    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
-    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "note": "APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_16x9.jpg",
+    "ytTitle": "4 Claudes Read Your Personal Statement Before the University Does",
+    "caption": "I built an admissions panel of 4 Claudes that reads your personal statement before the university does 🎓\n\n💬 Comment APPLY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Reader flags every line that sounds like everyone else's\n2. The Admissions Officer asks why this course, really\n3. The Editor cuts it to the limit without losing your voice\n4. The Interviewer asks the follow-ups they'll ask you\n\nFeedback only. It never writes it for you.\n\n📌 Save this for application season.\nFollow @claude.cheats for more.\n\n#personalstatement #ucas #university #collegeapplications #studentlife #claudeai #aitools #claudecheats",
     "trial": "performance"
   },
   {
@@ -1400,12 +1396,12 @@
   },
   {
     "at": "2026-11-25T12:00:00Z",
-    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
-    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
-    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
+    "note": "PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_16x9.jpg",
+    "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
+    "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance"
   },
   {
@@ -1419,6 +1415,16 @@
     "trial": "performance"
   },
   {
+    "at": "2026-11-26T12:00:00Z",
+    "note": "PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
+    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
+    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "trial": "performance"
+  },
+  {
     "at": "2026-11-26T18:00:00Z",
     "note": "TESTFIRST - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst.mp4",
@@ -1426,6 +1432,16 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst_16x9.jpg",
     "ytTitle": "Claude Wrote the Code AND the Tests. That's the Problem",
     "caption": "Claude wrote the code and the tests. And what do you know? They all pass.\n\nIt's marking its own homework. Same session, same blind spots, in the code and the tests.\n\nAnthropic's own Claude Code docs: have one Claude write tests, then another write code to pass them.\n\nThe fix:\n1. Session one writes the tests.\n2. Session two only gets to make them pass.\n3. When a test fails, fix the code, not the test.\n\nCode that matters deserves a second marker.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-27T12:00:00Z",
+    "note": "FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_16x9.jpg",
+    "ytTitle": "I Built a Content Factory Where 4 Claudes Write Your Week of Posts",
+    "caption": "I built a content factory where 4 Claudes turn one voice note into a week of posts 🏭\n\n💬 Comment FACTORY and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The line:\n1. You talk for 2 minutes about your day\n2. The Transcriber turns it into clean notes\n3. The Writer drafts 5 posts, each with a different hook\n4. The Editor cuts every line that sounds like AI\n5. The Planner lines them up, Monday to Friday\n\nOne voice note in. A whole week out.\n\n📌 Save this for your next content day.\nFollow @claude.cheats for more.\n\n#contentcreation #contentstrategy #smallbusiness #claudeai #aitools #socialmediatips #creatortips #claudecheats",
     "trial": "performance"
   },
   {
@@ -1587,7 +1603,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-15T12:00:00Z",
+    "at": "2026-12-17T12:00:00Z",
     "note": "FRIDGE keyword (29 Oct batch) - nocodealex everyday-life build format (ONE PAGE EVERY MORNING 137k). Comment FRIDGE -> dm/FRIDGE.md. End card included. videos/fridge/. Moved 29 Oct: INBOX took the 29 Oct second slot (posted manually at Sam request).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
