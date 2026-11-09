@@ -1085,8 +1085,8 @@
     "trial": "performance",
     "posted": "2026-11-08T15:43:37.741Z",
     "fb": "2026-11-08T15:43:51.869Z",
-    "ytAttempts": 1,
-    "ytError": "exit 1 at 2026-11-08T15:43:52.971Z"
+    "ytAttempts": 2,
+    "ytError": "exit 1 at 2026-11-09T00:25:50.685Z"
   },
   {
     "at": "2026-11-08T18:00:00Z",
