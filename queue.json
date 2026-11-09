@@ -1100,14 +1100,6 @@
     "yt": "2026-11-08T20:57:13.029Z"
   },
   {
-    "at": "2026-11-09T12:00:00Z",
-    "note": "EFFORT: limit saver, Max effort 4x usage + model picker, sitcom + real screens",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
-    "caption": "Max effort uses 4x your Claude limit. Or more 😬\n\nStop hitting your limit:\n\n1. Click the model name under the chat box.\n2. Effort: Medium is the recommended setting. Save Max for genuinely hard problems.\n3. Model: Sonnet for simpler tasks, Haiku for quick answers.\n\nA birthday card does not need Max effort. Probably.\n\nMax effort for Nan? Yes or no 👇\n\n💬 Comment EFFORT and I'll DM you my settings 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
-    "trial": "performance"
-  },
-  {
     "at": "2026-11-09T18:00:00Z",
     "note": "BRIEF 2D - lever: discovery. 3 Claudes write your Monday briefing from Gmail + Calendar, read-only. 2D cream-stage + anchored-word match cut. Comment BRIEF -> dm/BRIEF.md (single message). Source toolkit videos/brief.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/brief.mp4",
@@ -1456,6 +1448,14 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status_16x9.jpg",
     "ytTitle": "Claude Got Dumber Halfway Through. Here's Why",
     "caption": "Halfway through the session, Claude got noticeably worse. Forgetting your rules, repeating old mistakes.\n\nThe context was nearly full, and nothing on screen told you.\n\nAnthropic's own Claude Code docs: track context usage continuously with a custom status line.\n\nThe fix:\n1. Type /statusline and ask for a context meter.\n2. Meter climbing? /compact\n3. Starting something new? /clear\n\nWatch the meter, not the vibes.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-28T12:00:00Z",
+    "note": "EFFORT: limit saver, Max effort 4x usage + model picker, sitcom + real screens [moved from 9 Nov 12:00Z: GitHub cron lag + PC off]",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
+    "caption": "Max effort uses 4x your Claude limit. Or more 😬\n\nStop hitting your limit:\n\n1. Click the model name under the chat box.\n2. Effort: Medium is the recommended setting. Save Max for genuinely hard problems.\n3. Model: Sonnet for simpler tasks, Haiku for quick answers.\n\nA birthday card does not need Max effort. Probably.\n\nMax effort for Nan? Yes or no 👇\n\n💬 Comment EFFORT and I'll DM you my settings 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
