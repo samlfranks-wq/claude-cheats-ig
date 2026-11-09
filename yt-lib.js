@@ -182,6 +182,10 @@ export function buildSnippet({caption, categoryId, title: explicitTitle, tags}) 
     first = sentence.length <= 95 ? sentence : line;
     console.warn('  warning: no ytTitle on this queue item — derived one from the caption.');
   }
+  // YouTube rejects any title or description containing < or > ("invalid video
+  // description", 400). Captions like "Settings > Usage" cost 4 uploads (7-9 Nov).
+  const yt = (s) => s.replace(/</g, '‹').replace(/>/g, '›');
+  first = yt(first); caption = yt(caption);
   let title = first.length > 100 ? `${first.slice(0, 97).trimEnd()}...` : first;
   // Shorts are classified by aspect ratio and length, but #Shorts in the title
   // is still the reliable signal while that classification settles.

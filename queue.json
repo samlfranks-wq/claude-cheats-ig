@@ -1473,7 +1473,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-29T18:00:00Z",
+    "at": "2026-11-29T12:00:00Z",
     "note": "AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
@@ -1483,7 +1483,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-30T18:00:00Z",
+    "at": "2026-11-29T18:00:00Z",
     "note": "SKILL 'same prompt forty times' - .claude/skills/<name>/SKILL.md - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_9x16.jpg",
@@ -1493,7 +1493,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-01T18:00:00Z",
+    "at": "2026-11-30T12:00:00Z",
     "note": "STOP 'three minutes the wrong way' - Esc mid-action / Esc Esc rewind - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_9x16.jpg",
@@ -1503,7 +1503,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-02T18:00:00Z",
+    "at": "2026-11-30T18:00:00Z",
     "note": "PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
@@ -1513,7 +1513,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-03T18:00:00Z",
+    "at": "2026-12-01T12:00:00Z",
     "note": "PATTERN 'one widget, a whole new style' - point Claude to an existing pattern file - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_9x16.jpg",
@@ -1523,7 +1523,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-04T18:00:00Z",
+    "at": "2026-12-01T18:00:00Z",
     "note": "GH 'one GitHub issue, ten steps' - install gh CLI - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_9x16.jpg",
@@ -1533,7 +1533,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-05T18:00:00Z",
+    "at": "2026-12-02T12:00:00Z",
     "note": "DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
@@ -1543,7 +1543,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-06T18:00:00Z",
+    "at": "2026-12-02T18:00:00Z",
     "note": "INTERVIEW 'built what you said' - AskUserQuestion interview -> SPEC.md -> fresh chat - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04. | 2/day test: midday slot. | bumped off the midday test by FACTORY.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_9x16.jpg",
@@ -1553,7 +1553,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-07T18:00:00Z",
+    "at": "2026-12-03T12:00:00Z",
     "note": "LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py. | 2/day test: midday slot. | 21 Oct: midday slot switched to a TRIAL reel (performance graduation): non-followers only, so followers get one feed post a day.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
@@ -1563,7 +1563,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-08T18:00:00Z",
+    "at": "2026-12-03T18:00:00Z",
     "note": "CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
@@ -1573,7 +1573,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-09T18:00:00Z",
+    "at": "2026-12-04T12:00:00Z",
     "note": "PURPLE 2D - Frontend Design plugin (Anthropic, 1.13M installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration. | moved to 28 Oct midday so TRADE could go out 26 Oct evening (Sam).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_9x16.jpg",
@@ -1583,7 +1583,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-10T18:00:00Z",
+    "at": "2026-12-04T18:00:00Z",
     "note": "OUTDATED 2D - Context7 plugin (Upstash, 418k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_9x16.jpg",
@@ -1593,7 +1593,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-11T18:00:00Z",
+    "at": "2026-12-05T12:00:00Z",
     "note": "CAREER 3D - 4 Claudes help you pick a career. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment CAREER -> dm/CAREER.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_9x16.jpg",
@@ -1603,7 +1603,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-12T18:00:00Z",
+    "at": "2026-12-05T18:00:00Z",
     "note": "SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
@@ -1611,7 +1611,7 @@
     "trial": "performance"
   },
   {
-    "at": "2026-12-17T12:00:00Z",
+    "at": "2026-12-06T12:00:00Z",
     "note": "FRIDGE keyword (29 Oct batch) - nocodealex everyday-life build format (ONE PAGE EVERY MORNING 137k). Comment FRIDGE -> dm/FRIDGE.md. End card included. videos/fridge/. Moved 29 Oct: INBOX took the 29 Oct second slot (posted manually at Sam request).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
