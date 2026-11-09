@@ -1085,8 +1085,9 @@
     "trial": "performance",
     "posted": "2026-11-08T15:43:37.741Z",
     "fb": "2026-11-08T15:43:51.869Z",
-    "ytAttempts": 2,
-    "ytError": "exit 1 at 2026-11-09T00:25:50.685Z"
+    "ytAttempts": 3,
+    "ytError": "exit 1 at 2026-11-09T18:01:46.857Z",
+    "ytSkip": true
   },
   {
     "at": "2026-11-08T18:00:00Z",
@@ -1107,7 +1108,10 @@
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/brief_16x9.jpg",
     "ytTitle": "3 Claudes Write Your Monday Briefing (Gmail + Calendar)",
     "caption": "I just found the best Monday job for Claude: your weekly briefing.\n\n💬 Comment BRIEF and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 How it works:\n1. One Claude reads your inbox and lists what still needs a reply.\n2. One checks your week and flags the clashes.\n3. One picks the three things that actually matter.\n\nOne page before your coffee's ready. It only reads, it never sends a thing.\n\nFollow @claude.cheats for more.\n\n#claudeai #claude #aitools #productivity #smallbusiness #timemanagement #chatgpt #claudecheats",
-    "trial": "performance"
+    "trial": "performance",
+    "posted": "2026-11-09T18:02:32.767Z",
+    "fb": "2026-11-09T18:02:44.979Z",
+    "yt": "2026-11-09T18:02:57.872Z"
   },
   {
     "at": "2026-11-10T12:00:00Z",
