@@ -1119,14 +1119,6 @@
   },
   {
     "at": "2026-11-10T12:00:00Z",
-    "note": "PROJECT: limit saver, Projects cache files, sitcom + real screens + help centre",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache_9x16.jpg",
-    "caption": "Stop uploading the same PDF to every Claude chat 📎\n\nStop hitting your limit:\n\n1. Projects > New project.\n2. Context > Add your brand guide, CV or notes once.\n3. Chat inside the project. Every chat there can use the files.\n\nProject content is cached, so reusing it counts less against your limit than fresh uploads. That's straight from Anthropic's help centre.\n\nThe catch: after a long break, your first message counts the files in full again.\n\nIs it called Final Final v2? 👇\n\n💬 Comment PROJECT and I'll DM you the setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
-    "trial": "performance"
-  },
-  {
-    "at": "2026-11-10T18:00:00Z",
     "note": "BOUNCER - full-animation style (no presenter), look modelled on nocodealex DeEH5Z9OkGk (297k): full-bleed papercraft sets, taped title label, paper word tags. Own characters + topic (auto mode, permission-modes docs). videos/bouncer/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/bouncer_9x16.jpg",
@@ -1136,15 +1128,15 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-11T12:00:00Z",
-    "note": "LONGCHAT: limit saver, long chats eat your limit, new topic = new chat (help 9797557), sitcom + real help-page card, keyword CHAT",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/longchat.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/longchat_9x16.jpg",
-    "caption": "Your Claude chat is eating your limit. The longer it gets, the faster it goes 😬\n\nThe cheat:\n\n1. Conversation length counts against your usage limit (it's in Anthropic's own help page).\n2. New topic? Start a new chat.\n3. Need the context? Ask \"summarise this chat in 10 bullets so I can start a new one\" and paste it in.\n\nOne chat for everything since March = the fastest way to hit your limit.\n\nShould Sam get the dog? 👇\n\n💬 Comment CHAT and I'll DM you the summary prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "at": "2026-11-10T18:00:00Z",
+    "note": "PROJECT: limit saver, Projects cache files, sitcom + real screens + help centre",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfcache_9x16.jpg",
+    "caption": "Stop uploading the same PDF to every Claude chat 📎\n\nStop hitting your limit:\n\n1. Projects > New project.\n2. Context > Add your brand guide, CV or notes once.\n3. Chat inside the project. Every chat there can use the files.\n\nProject content is cached, so reusing it counts less against your limit than fresh uploads. That's straight from Anthropic's help centre.\n\nThe catch: after a long break, your first message counts the files in full again.\n\nIs it called Final Final v2? 👇\n\n💬 Comment PROJECT and I'll DM you the setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
-    "at": "2026-11-11T18:00:00Z",
+    "at": "2026-11-11T12:00:00Z",
     "note": "PROJECTS - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/projects/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/projects_9x16.jpg",
@@ -1154,15 +1146,15 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-12T12:00:00Z",
-    "note": "ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
-    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "at": "2026-11-11T18:00:00Z",
+    "note": "LONGCHAT: limit saver, long chats eat your limit, new topic = new chat (help 9797557), sitcom + real help-page card, keyword CHAT",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/longchat.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/longchat_9x16.jpg",
+    "caption": "Your Claude chat is eating your limit. The longer it gets, the faster it goes 😬\n\nThe cheat:\n\n1. Conversation length counts against your usage limit (it's in Anthropic's own help page).\n2. New topic? Start a new chat.\n3. Need the context? Ask \"summarise this chat in 10 bullets so I can start a new one\" and paste it in.\n\nOne chat for everything since March = the fastest way to hit your limit.\n\nShould Sam get the dog? 👇\n\n💬 Comment CHAT and I'll DM you the summary prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
-    "at": "2026-11-12T18:00:00Z",
+    "at": "2026-11-12T12:00:00Z",
     "note": "EDIT - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/edit/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/edit_9x16.jpg",
@@ -1172,15 +1164,15 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-13T12:00:00Z",
-    "note": "TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
-    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "at": "2026-11-12T18:00:00Z",
+    "note": "ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
+    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
-    "at": "2026-11-13T18:00:00Z",
+    "at": "2026-11-13T12:00:00Z",
     "note": "WAFFLE - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/waffle/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_9x16.jpg",
@@ -1190,15 +1182,15 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-14T12:00:00Z",
-    "note": "PRINTER: Claude Cheats take on joshualevi.ai DfXo7y2ImjE: MoneyPrinterTurbo (140,975 stars, MIT) installed by Claude Code via its Skill prompt; motion cams + warm grade; keyword PRINTER",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer_9x16.jpg",
-    "caption": "Rent due Friday. £11 in the bank. Claude: \"paste two lines\" 💀\n\nThe free tool: MoneyPrinterTurbo on GitHub (140k+ stars, MIT licence). Topic in, finished short out: script, voice, stock clips, captions, music.\n\nThe Claude cheat: you don't install it yourself. Paste this into Claude Code:\n\nUse this Skill: https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/skill/SKILL.md\nCreate a video with the topic \"black holes\"\n\nClaude installs it, sets it up, and only asks for the keys it actually needs.\n\nThe catch: clips come from free stock sites, so you need a free Pexels or Pixabay key. And a hundred videos nobody asked for is still zero views. The idea is your job.\n\nWhat topic would you make first? 👇\n\n💬 Comment PRINTER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "at": "2026-11-13T18:00:00Z",
+    "note": "TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
+    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
     "trial": "performance"
   },
   {
-    "at": "2026-11-14T18:00:00Z",
+    "at": "2026-11-14T12:00:00Z",
     "note": "BATCH '2,000 files, one Claude' - /batch fans out to 5-30 subagents in worktrees - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_9x16.jpg",
@@ -1208,21 +1200,29 @@
     "trial": "performance"
   },
   {
-    "at": "2026-11-15T12:00:00Z",
-    "note": "MAPSKILL: map-video skill promo (gumroad /l/mapskill), real LE footage inserts per step, honest catch, keyword MAP (dm/MAP.md)",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill_9x16.jpg",
-    "caption": "One sentence. A finished history map video. 150,000 views 🗺️\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data (Cliopatria), not Google Maps\n2. A camera flying over real satellite photos (NASA Blue Marble)\n3. Free voice, captions and sound. Zero credits a video\n4. Checks every frame for overlapping text before it renders\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nIt's the pipeline behind @lostempiressss: 3.4 million views in 30 days.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
+    "at": "2026-11-14T18:00:00Z",
+    "note": "PRINTER: Claude Cheats take on joshualevi.ai DfXo7y2ImjE: MoneyPrinterTurbo (140,975 stars, MIT) installed by Claude Code via its Skill prompt; motion cams + warm grade; keyword PRINTER",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer_9x16.jpg",
+    "caption": "Rent due Friday. £11 in the bank. Claude: \"paste two lines\" 💀\n\nThe free tool: MoneyPrinterTurbo on GitHub (140k+ stars, MIT licence). Topic in, finished short out: script, voice, stock clips, captions, music.\n\nThe Claude cheat: you don't install it yourself. Paste this into Claude Code:\n\nUse this Skill: https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/skill/SKILL.md\nCreate a video with the topic \"black holes\"\n\nClaude installs it, sets it up, and only asks for the keys it actually needs.\n\nThe catch: clips come from free stock sites, so you need a free Pexels or Pixabay key. And a hundred videos nobody asked for is still zero views. The idea is your job.\n\nWhat topic would you make first? 👇\n\n💬 Comment PRINTER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
     "trial": "performance"
   },
   {
-    "at": "2026-11-15T18:00:00Z",
+    "at": "2026-11-15T12:00:00Z",
     "note": "ONBOARD 'new codebase, two days reading' - ask Claude codebase questions - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_9x16.jpg",
     "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_16x9.jpg",
     "ytTitle": "New Codebase? Stop Reading, Start Asking Claude",
     "caption": "New codebase. Forty thousand lines. Two days of reading, and still no idea how the login works.\n\nThere's a senior engineer who has read every line. It's Claude.\n\nAnthropic's own Claude Code docs: ask Claude the questions you'd ask a senior engineer. It's an effective onboarding workflow, and no special prompting is required.\n\nTry:\n1. How does logging work?\n2. How do I make a new API endpoint?\n3. Why does this code call foo() instead of bar()?\n\nNew codebase? Ask first, read second.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance"
+  },
+  {
+    "at": "2026-11-15T18:00:00Z",
+    "note": "MAPSKILL: map-video skill promo (gumroad /l/mapskill), real LE footage inserts per step, honest catch, keyword MAP (dm/MAP.md)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill_9x16.jpg",
+    "caption": "One sentence. A finished history map video. 150,000 views 🗺️\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data (Cliopatria), not Google Maps\n2. A camera flying over real satellite photos (NASA Blue Marble)\n3. Free voice, captions and sound. Zero credits a video\n4. Checks every frame for overlapping text before it renders\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nIt's the pipeline behind @lostempiressss: 3.4 million views in 30 days.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
     "trial": "performance"
   },
   {
