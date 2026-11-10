@@ -1122,7 +1122,10 @@
     "ytTitle": "Claude Code Has a Bouncer (Auto Mode, Explained)",
     "caption": "You've clicked Allow two hundred times today. Claude Code has a bouncer for that.\n\nIt's called auto mode. A separate classifier model checks each action before it runs, instead of you.\n\nStraight through: reading files, running tests, routine edits.\nStopped at the door by default: running scripts straight off the internet (curl | bash), sending sensitive data out, force pushes, production deploys.\n\nTurn it on: press Shift+Tab until it says auto. From Claude Code v2.1.283 it's the default starting mode.\n\nSource: code.claude.com/docs/en/permission-modes\n\nSave this before your next long session.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-10T12:41:32.994Z",
+    "fb": "2026-11-10T12:41:48.244Z",
+    "yt": "2026-11-10T12:41:53.955Z"
   },
   {
     "at": "2026-11-10T18:00:00Z",
