@@ -1154,6 +1154,15 @@
     "yt": "2026-11-11T12:35:59.920Z"
   },
   {
+    "at": "2026-11-11T15:00:00Z",
+    "note": "[SITCOM] TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS Moved from 2026-11-13 on 11 Nov (new-format sitcoms took the slot).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
+    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM"
+  },
+  {
     "at": "2026-11-11T18:00:00Z",
     "note": "[SITCOM] LONGCHAT: limit saver, long chats eat your limit, new topic = new chat (help 9797557), sitcom + real help-page card, keyword CHAT",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/longchat.mp4",
@@ -1174,6 +1183,17 @@
     "style": "FACELESS"
   },
   {
+    "at": "2026-11-12T15:00:00Z",
+    "note": "[FACELESS] WAFFLE - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/waffle/render.py.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_16x9.jpg",
+    "ytTitle": "Claude Writes Essays When You Want One Line? Fix It Once",
+    "caption": "You asked Claude a yes or no question. It wrote you an essay. Headings, bullet points, a summary of the summary.\n\nIt doesn't know you want it short, because you've never told it.\n\nFix it once: in your Claude settings, add Instructions for Claude. They apply to every conversation you start.\n\nTry:\n\"Keep it short. Plain English. No bullet points unless I ask.\"\n(Add UK spelling if that's you.)\n\nWrite them once, skip the scroll forever.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
+  },
+  {
     "at": "2026-11-12T18:00:00Z",
     "note": "[SITCOM] MADEUP: 'Claude made up a number' - one line stops invented figures (quote the exact sentence, else 'not in the document'; Anthropic reduce-hallucinations guidance). SHIELD v2 look kit: alarm grade, split screen, full-frame screen inserts, cover v3. Keyword SOURCE -> dm/SOURCE.md. End card included. videos/madeup/",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/madeup.mp4",
@@ -1184,14 +1204,23 @@
   },
   {
     "at": "2026-11-13T12:00:00Z",
-    "note": "[FACELESS] WAFFLE - full-animation style (no presenter; papercraft sets, taped label, paper word tags), everyday non-technical Claude chat tip, own characters. videos/waffle/render.py.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/waffle_16x9.jpg",
-    "ytTitle": "Claude Writes Essays When You Want One Line? Fix It Once",
-    "caption": "You asked Claude a yes or no question. It wrote you an essay. Headings, bullet points, a summary of the summary.\n\nIt doesn't know you want it short, because you've never told it.\n\nFix it once: in your Claude settings, add Instructions for Claude. They apply to every conversation you start.\n\nTry:\n\"Keep it short. Plain English. No bullet points unless I ask.\"\n(Add UK spelling if that's you.)\n\nWrite them once, skip the scroll forever.\n\nFollow @claude.cheats for more.\n\n#claude #claudeai #aitools #productivity #ai #chatgpt #aitips #claudecheats",
+    "note": "[FACELESS] BATCH '2,000 files, one Claude' - /batch fans out to 5-30 subagents in worktrees - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_16x9.jpg",
+    "ytTitle": "2,000 Files, One Claude? Use /batch Instead",
+    "caption": "Two thousand files to migrate. You gave them all to one Claude.\n\nBy file 212 the context was full and it was starting to forget. One conversation was never going to hold the whole job.\n\nAnthropic's own Claude Code docs: for large migrations or analyses, distribute the work across many parallel Claude invocations.\n\nThe fix:\n1. Type /batch followed by your instruction.\n2. Claude splits the change across 5 to 30 subagents, each working in its own worktree.\n3. Try it on a few files first, then run the lot.\n\nBig job? Fan it out.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
     "style": "FACELESS"
+  },
+  {
+    "at": "2026-11-13T15:00:00Z",
+    "note": "[SITCOM] PRINTER: Claude Cheats take on joshualevi.ai DfXo7y2ImjE: MoneyPrinterTurbo (140,975 stars, MIT) installed by Claude Code via its Skill prompt; motion cams + warm grade; keyword PRINTER",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer_9x16.jpg",
+    "caption": "Rent due Friday. £11 in the bank. Claude: \"paste two lines\" 💀\n\nThe free tool: MoneyPrinterTurbo on GitHub (140k+ stars, MIT licence). Topic in, finished short out: script, voice, stock clips, captions, music.\n\nThe Claude cheat: you don't install it yourself. Paste this into Claude Code:\n\nUse this Skill: https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/skill/SKILL.md\nCreate a video with the topic \"black holes\"\n\nClaude installs it, sets it up, and only asks for the keys it actually needs.\n\nThe catch: clips come from free stock sites, so you need a free Pexels or Pixabay key. And a hundred videos nobody asked for is still zero views. The idea is your job.\n\nWhat topic would you make first? 👇\n\n💬 Comment PRINTER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM"
   },
   {
     "at": "2026-11-13T18:00:00Z",
@@ -1204,26 +1233,6 @@
   },
   {
     "at": "2026-11-14T12:00:00Z",
-    "note": "[FACELESS] BATCH '2,000 files, one Claude' - /batch fans out to 5-30 subagents in worktrees - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/batch_16x9.jpg",
-    "ytTitle": "2,000 Files, One Claude? Use /batch Instead",
-    "caption": "Two thousand files to migrate. You gave them all to one Claude.\n\nBy file 212 the context was full and it was starting to forget. One conversation was never going to hold the whole job.\n\nAnthropic's own Claude Code docs: for large migrations or analyses, distribute the work across many parallel Claude invocations.\n\nThe fix:\n1. Type /batch followed by your instruction.\n2. Claude splits the change across 5 to 30 subagents, each working in its own worktree.\n3. Try it on a few files first, then run the lot.\n\nBig job? Fan it out.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
-    "trial": "performance",
-    "style": "FACELESS"
-  },
-  {
-    "at": "2026-11-14T18:00:00Z",
-    "note": "[SITCOM] PRINTER: Claude Cheats take on joshualevi.ai DfXo7y2ImjE: MoneyPrinterTurbo (140,975 stars, MIT) installed by Claude Code via its Skill prompt; motion cams + warm grade; keyword PRINTER",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/printer_9x16.jpg",
-    "caption": "Rent due Friday. £11 in the bank. Claude: \"paste two lines\" 💀\n\nThe free tool: MoneyPrinterTurbo on GitHub (140k+ stars, MIT licence). Topic in, finished short out: script, voice, stock clips, captions, music.\n\nThe Claude cheat: you don't install it yourself. Paste this into Claude Code:\n\nUse this Skill: https://raw.githubusercontent.com/harry0703/MoneyPrinterTurbo/main/docs/skill/SKILL.md\nCreate a video with the topic \"black holes\"\n\nClaude installs it, sets it up, and only asks for the keys it actually needs.\n\nThe catch: clips come from free stock sites, so you need a free Pexels or Pixabay key. And a hundred videos nobody asked for is still zero views. The idea is your job.\n\nWhat topic would you make first? 👇\n\n💬 Comment PRINTER and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
-    "trial": "performance",
-    "style": "SITCOM"
-  },
-  {
-    "at": "2026-11-15T12:00:00Z",
     "note": "[FACELESS] ONBOARD 'new codebase, two days reading' - ask Claude codebase questions - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onboard_9x16.jpg",
@@ -1234,16 +1243,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-15T18:00:00Z",
-    "note": "[SITCOM] MAPSKILL: map-video skill promo (gumroad /l/mapskill), real LE footage inserts per step, honest catch, keyword MAP (dm/MAP.md)",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill_9x16.jpg",
-    "caption": "One sentence. A finished history map video. 150,000 views 🗺️\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data (Cliopatria), not Google Maps\n2. A camera flying over real satellite photos (NASA Blue Marble)\n3. Free voice, captions and sound. Zero credits a video\n4. Checks every frame for overlapping text before it renders\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nIt's the pipeline behind @lostempiressss: 3.4 million views in 30 days.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
-    "trial": "performance",
-    "style": "SITCOM"
-  },
-  {
-    "at": "2026-11-16T12:00:00Z",
+    "at": "2026-11-14T15:00:00Z",
     "note": "[FACELESS] EXAM: real claude.ai screen-recorded quiz session (lecture notes PDF, score tracking, revision sheet of misses), product-first, keyword EXAM",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/exam_9x16.jpg",
@@ -1252,7 +1252,16 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-16T18:00:00Z",
+    "note": "[SITCOM] MATCH: '50 jobs, 0 replies' - paste the job ad + CV, rewrite it in their words; one line: only use what's true, ask me about the gaps. MADEUP-shape episode (split screen, screen inserts, cover v3). Keyword MATCH -> dm/MATCH.md. End card included. videos/match/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match_9x16.jpg",
+    "caption": "50 job applications. Not one reply 💀\n\nI was sending the same CV to every job. The ad said \"stakeholder reporting\". Mine said \"made some charts\".\n\nThe fix: paste the job ad and your CV into Claude, then say:\n\nRewrite my CV in the job ad's own words. Only use what's true in my CV. Ask me about any gaps.\n\nYou get the same experience, written in the words they're looking for, and a list of what's missing instead of a made-up skill.\n\nThe catch: without that second line, Claude will happily invent experience. Keep it in, and answer the gap questions honestly.\n\nHow many jobs have you applied for this year? 👇\n\n💬 Comment MATCH and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #jobsearch #cvtips #careeradvice #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-14T18:00:00Z"
+  },
+  {
+    "at": "2026-11-15T12:00:00Z",
     "note": "[FACELESS] BTW 'one quick question, stuck forever' - /btw side questions stay out of history - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/btw_9x16.jpg",
@@ -1263,7 +1272,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-17T12:00:00Z",
+    "at": "2026-11-15T15:00:00Z",
     "note": "[FACELESS] INSTA: cream wireframe explainer, how we connected Claude to Instagram (Graph API + queue + GitHub Action); ref jayantcreates.ai; DM in dm/INSTA.md",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/insta_9x16.jpg",
@@ -1274,7 +1283,16 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-17T18:00:00Z",
+    "note": "[SITCOM] MAPLINE: 'six hours in the editor for eight seconds of map' - ask for the code, not the video: one sentence to the map-video skill; real Iraq footage + view counter in the result screen. MADEUP-shape episode. Keyword MAP -> dm/MAP.md. End card included. videos/mapline/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapline.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapline_9x16.jpg",
+    "caption": "Six hours in an editor for eight seconds of map 💀\n\nSo I stopped editing and asked for the code instead. Claude can't make video, but it can write the code that draws one.\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data, not Google Maps\n2. A camera flying over real satellite photos\n3. Voice, captions and sound, zero credits a video\n\nThat video got 150,000 views on @lostempiressss.\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-15T18:00:00Z"
+  },
+  {
+    "at": "2026-11-16T12:00:00Z",
     "note": "[FACELESS] MCP 'copy, paste, copy, paste' - claude mcp add - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp_9x16.jpg",
@@ -1285,7 +1303,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-18T12:00:00Z",
+    "at": "2026-11-16T15:00:00Z",
     "note": "[SITCOM] CRAM: Sam+Claude sitcom that teaches (quiz me one question at a time), real claude.ai screens as proof panels, cytoplasm running gag. Replaces THEORY. Comment QUIZ -> dm/QUIZ.md. videos/cram/. APPLY moved to 19 Nov 12:00Z.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cram_9x16.jpg",
@@ -1294,7 +1312,7 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-11-18T18:00:00Z",
+    "at": "2026-11-16T18:00:00Z",
     "note": "[FACELESS] ATFILE 'a paragraph to find one file' - @ file references - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/atfile_9x16.jpg",
@@ -1305,7 +1323,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-19T12:00:00Z",
+    "at": "2026-11-17T12:00:00Z",
     "note": "[FACELESS] BLIND 2D - lever: insider. 3 Claudes read your old chats and find your blind spot. 2D cream-stage (our reach format, 23 Oct read) + anchored-word match cut from @corbinsylk. Comment BLIND -> dm/BLIND.md (single message). Source toolkit videos/blind.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/blind_9x16.jpg",
@@ -1316,7 +1334,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-19T18:00:00Z",
+    "at": "2026-11-17T15:00:00Z",
     "note": "[FACELESS] Hot Repo #1 - fast template at speech_rate +38 (198 WPM on air).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/repo1_9x16.jpg",
@@ -1327,7 +1345,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-20T12:00:00Z",
+    "at": "2026-11-17T18:00:00Z",
     "note": "[FACELESS] CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
@@ -1338,7 +1356,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-20T18:00:00Z",
+    "at": "2026-11-18T12:00:00Z",
     "note": "[FACELESS] SAFETY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/safety_9x16.jpg",
@@ -1349,7 +1367,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-21T12:00:00Z",
+    "at": "2026-11-18T15:00:00Z",
     "note": "[FACELESS] ANIMATE keyword (28 Oct batch) - rides the Claude motion-graphics wave (showrov.studio 984 comments, edita.visuals 355). Proof angle: this reel is Claude-written code. New bright set per beat, KEYFRAMES 0 chip. Comment ANIMATE -> dm/ANIMATE.md. Moved 29 Oct to make room for the new batch.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/animate_9x16.jpg",
@@ -1359,7 +1377,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-21T18:00:00Z",
+    "at": "2026-11-18T18:00:00Z",
     "note": "[FACELESS] FOCUS - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/focus_9x16.jpg",
@@ -1370,7 +1388,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-22T12:00:00Z",
+    "at": "2026-11-19T12:00:00Z",
     "note": "[FACELESS] MOCK 3D - 3 Claudes set and mark your mock exam. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment MOCK -> dm/MOCK.md. Moved 28 Oct from 29 Oct 17:00Z for the REWIND/ANIMATE batch.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mock_9x16.jpg",
@@ -1381,7 +1399,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-22T18:00:00Z",
+    "at": "2026-11-19T15:00:00Z",
     "note": "[FACELESS] QUALITY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/quality_9x16.jpg",
@@ -1392,7 +1410,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-23T12:00:00Z",
+    "at": "2026-11-19T18:00:00Z",
     "note": "[SITCOM] ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
@@ -1401,7 +1419,7 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-11-23T18:00:00Z",
+    "at": "2026-11-20T12:00:00Z",
     "note": "[FACELESS] SPEED - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed_9x16.jpg",
@@ -1412,7 +1430,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-24T12:00:00Z",
+    "at": "2026-11-20T15:00:00Z",
     "note": "[FACELESS] APPLY 3D - 4 Claudes read your personal statement (feedback only). STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment APPLY -> dm/APPLY.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/apply_9x16.jpg",
@@ -1423,7 +1441,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-24T18:00:00Z",
+    "at": "2026-11-20T18:00:00Z",
     "note": "[FACELESS] MEMORY - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/memory_9x16.jpg",
@@ -1434,7 +1452,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-25T12:00:00Z",
+    "at": "2026-11-21T12:00:00Z",
     "note": "[FACELESS] PASTE 'three paragraphs for one button' - paste/drag images into the prompt - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/paste_9x16.jpg",
@@ -1445,7 +1463,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-25T18:00:00Z",
+    "at": "2026-11-21T15:00:00Z",
     "note": "[FACELESS] UNDO - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/undo_9x16.jpg",
@@ -1456,7 +1474,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-26T12:00:00Z",
+    "at": "2026-11-21T18:00:00Z",
     "note": "[FACELESS] PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
@@ -1467,7 +1485,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-26T18:00:00Z",
+    "at": "2026-11-22T12:00:00Z",
     "note": "[FACELESS] TESTFIRST - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/testfirst_9x16.jpg",
@@ -1478,7 +1496,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-27T12:00:00Z",
+    "at": "2026-11-22T15:00:00Z",
     "note": "[FACELESS] FACTORY 3D - first animation-led video (one-take tracking shot along a conveyor, morphing item, particles, pull-back reveal). Comment FACTORY -> dm/FACTORY.md. Sam asked to post it manually 19 Oct; put in the first midday slot of the 2/day test instead (COFFEE had gone out 90 min earlier). Source cheats3d/src/FACTORY.jsx. | 20 Oct: moved to 27 Oct 18:00 because PROMPTS went out manually that morning (2/day cap).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/factory_9x16.jpg",
@@ -1489,7 +1507,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-27T18:00:00Z",
+    "at": "2026-11-22T18:00:00Z",
     "note": "[FACELESS] STATUS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/status_9x16.jpg",
@@ -1500,7 +1518,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-28T12:00:00Z",
+    "at": "2026-11-23T12:00:00Z",
     "note": "[SITCOM] EFFORT: limit saver, Max effort 4x usage + model picker, sitcom + real screens [moved from 9 Nov 12:00Z: GitHub cron lag + PC off]",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/effort_9x16.jpg",
@@ -1509,7 +1527,7 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-11-28T18:00:00Z",
+    "at": "2026-11-23T15:00:00Z",
     "note": "[FACELESS] CTRLG - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ctrlg_9x16.jpg",
@@ -1520,7 +1538,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-29T12:00:00Z",
+    "at": "2026-11-23T18:00:00Z",
     "note": "[FACELESS] AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
@@ -1531,7 +1549,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-29T18:00:00Z",
+    "at": "2026-11-24T12:00:00Z",
     "note": "[FACELESS] SKILL 'same prompt forty times' - .claude/skills/<name>/SKILL.md - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/skill_9x16.jpg",
@@ -1542,7 +1560,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-30T12:00:00Z",
+    "at": "2026-11-24T15:00:00Z",
     "note": "[FACELESS] STOP 'three minutes the wrong way' - Esc mid-action / Esc Esc rewind - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/stop_9x16.jpg",
@@ -1553,7 +1571,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-30T18:00:00Z",
+    "at": "2026-11-24T18:00:00Z",
     "note": "[FACELESS] PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
@@ -1564,7 +1582,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-01T12:00:00Z",
+    "at": "2026-11-25T12:00:00Z",
     "note": "[FACELESS] PATTERN 'one widget, a whole new style' - point Claude to an existing pattern file - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pattern_9x16.jpg",
@@ -1575,7 +1593,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-01T18:00:00Z",
+    "at": "2026-11-25T15:00:00Z",
     "note": "[FACELESS] GH 'one GitHub issue, ten steps' - install gh CLI - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gh_9x16.jpg",
@@ -1586,7 +1604,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-02T12:00:00Z",
+    "at": "2026-11-25T18:00:00Z",
     "note": "[FACELESS] DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
@@ -1597,7 +1615,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-02T18:00:00Z",
+    "at": "2026-11-26T12:00:00Z",
     "note": "[FACELESS] INTERVIEW 'built what you said' - AskUserQuestion interview -> SPEC.md -> fresh chat - cream-stage bot batch (lib/stagekit.py), Harrison ElevenLabs, no presenter, built 2026-10-04. | 2/day test: midday slot. | bumped off the midday test by FACTORY.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/interview_9x16.jpg",
@@ -1608,7 +1626,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-03T12:00:00Z",
+    "at": "2026-11-26T15:00:00Z",
     "note": "[FACELESS] LEAKS - plug-strip style on adilet.fndr token-savings theme (311k plugin reel). Own four fixes from Anthropic cost guide: /model Sonnet, /mcp disable idle, CLAUDE.md->skills, verbose work->subagents. videos/leaks/render.py. | 2/day test: midday slot. | 21 Oct: midday slot switched to a TRIAL reel (performance graduation): non-followers only, so followers get one feed post a day.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/leaks_9x16.jpg",
@@ -1619,7 +1637,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-03T18:00:00Z",
+    "at": "2026-11-26T18:00:00Z",
     "note": "[FACELESS] CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
@@ -1630,7 +1648,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-04T12:00:00Z",
+    "at": "2026-11-27T12:00:00Z",
     "note": "[FACELESS] PURPLE 2D - Frontend Design plugin (Anthropic, 1.13M installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration. | moved to 28 Oct midday so TRADE could go out 26 Oct evening (Sam).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/purple_9x16.jpg",
@@ -1641,7 +1659,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-04T18:00:00Z",
+    "at": "2026-11-27T15:00:00Z",
     "note": "[FACELESS] OUTDATED 2D - Context7 plugin (Upstash, 418k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/outdated_9x16.jpg",
@@ -1652,7 +1670,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-05T12:00:00Z",
+    "at": "2026-11-27T18:00:00Z",
     "note": "[FACELESS] CAREER 3D - 4 Claudes help you pick a career. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment CAREER -> dm/CAREER.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_9x16.jpg",
@@ -1663,7 +1681,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-05T18:00:00Z",
+    "at": "2026-11-28T12:00:00Z",
     "note": "[SITCOM] SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
@@ -1672,7 +1690,7 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-12-06T12:00:00Z",
+    "at": "2026-11-28T15:00:00Z",
     "note": "[FACELESS] FRIDGE keyword (29 Oct batch) - nocodealex everyday-life build format (ONE PAGE EVERY MORNING 137k). Comment FRIDGE -> dm/FRIDGE.md. End card included. videos/fridge/. Moved 29 Oct: INBOX took the 29 Oct second slot (posted manually at Sam request).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/fridge_9x16.jpg",
@@ -1682,7 +1700,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-07T12:00:00Z",
+    "at": "2026-11-28T18:00:00Z",
     "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
@@ -1691,11 +1709,11 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-12-07T18:00:00Z",
-    "note": "[SITCOM] TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS Moved from 2026-11-13 on 11 Nov (new-format sitcoms took the slot).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
-    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "at": "2026-11-29T12:00:00Z",
+    "note": "[SITCOM] MAPSKILL: map-video skill promo (gumroad /l/mapskill), real LE footage inserts per step, honest catch, keyword MAP (dm/MAP.md)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapskill_9x16.jpg",
+    "caption": "One sentence. A finished history map video. 150,000 views 🗺️\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data (Cliopatria), not Google Maps\n2. A camera flying over real satellite photos (NASA Blue Marble)\n3. Free voice, captions and sound. Zero credits a video\n4. Checks every frame for overlapping text before it renders\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nIt's the pipeline behind @lostempiressss: 3.4 million views in 30 days.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
     "trial": "performance",
     "style": "SITCOM"
   }
