@@ -1172,10 +1172,10 @@
   },
   {
     "at": "2026-11-12T18:00:00Z",
-    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
-    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "note": "[SITCOM] MADEUP: 'Claude made up a number' - one line stops invented figures (quote the exact sentence, else 'not in the document'; Anthropic reduce-hallucinations guidance). SHIELD v2 look kit: alarm grade, split screen, full-frame screen inserts, cover v3. Keyword SOURCE -> dm/SOURCE.md. End card included. videos/madeup/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/madeup.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/madeup_9x16.jpg",
+    "caption": "I told my boss sales were up 40%. The report never said 40% 💀\n\nClaude can sound certain about a number that isn't in your document. The fix is one line. Add this to any prompt where the facts matter:\n\nFor every number, quote the exact sentence it came from. If there isn't one, say \"not in the document\".\n\nNow every figure comes with the line it was taken from, and anything Claude can't back up gets flagged instead of invented.\n\nThe catch: it only checks what you upload, and it cuts mistakes rather than ending them. Read the quote yourself. It takes five seconds.\n\nEver sent a number that turned out to be made up? 👇\n\n💬 Comment SOURCE and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #worktips #claudecheats",
     "trial": "performance",
     "style": "SITCOM"
   },
@@ -1192,10 +1192,10 @@
   },
   {
     "at": "2026-11-13T18:00:00Z",
-    "note": "[SITCOM] TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
-    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "note": "[SITCOM] SHIELD v2: app cloned overnight -> BLA anti-clone shield (free MIT GitHub tool) set up through Claude Code. First episode in the split-screen / screen-insert look. Keyword SHIELD -> dm/SHIELD.md. End card included. videos/shield/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/shield.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/shield_9x16.jpg",
+    "caption": "Someone cloned our whole app overnight. Same screens, half the price 💀\n\nAI agents can now pull a shipped app apart file by file. The free counter: BLA (Blind LLM Agents), an MIT-licensed shield trending on GitHub.\n\nWhat it does: plants decoys, burns the copy bot's budget and sends it chasing files that don't exist. Your users get the same app.\n\nThe Claude cheat: run this once\nnpx bla-agents setup\nthen tell Claude Code: \"Harden my software against REA\"\n\nThe catch: their own README says the benchmark numbers are internal estimates, and server-side secrets still belong on a server. Test it on a branch first.\n\nHas anyone ever copied something you built? 👇\n\n💬 Comment SHIELD and I'll DM you the exact setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
     "trial": "performance",
     "style": "SITCOM"
   },
@@ -1677,5 +1677,23 @@
     "caption": "I built a Claude that plans your dinners for the week from one photo of your fridge 🥦📸\n\n💬 Comment FRIDGE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 What it does:\n1. Reads one photo of what's in your fridge\n2. Plans 5 dinners you can actually make\n3. Writes the shopping list, only what's missing, sorted by aisle\n4. Uses up whatever's about to go off first, so you stop binning food\n\nWorks on any Claude plan, free included.\n\n📌 Save this for Sunday night.\nFollow @claude.cheats for more.\n\n#claudeai #claude #mealplanning #mealprep #aitools #lifehacks #foodwaste #claudecheats",
     "trial": "performance",
     "style": "FACELESS"
+  },
+  {
+    "at": "2026-12-07T12:00:00Z",
+    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
+    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM"
+  },
+  {
+    "at": "2026-12-07T18:00:00Z",
+    "note": "[SITCOM] TOOLS: limit saver, Research/web search use more limit (help 9797557), sitcom + real help-page card, keyword TOOLS Moved from 2026-11-13 on 11 Nov (new-format sitcoms took the slot).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tools_9x16.jpg",
+    "caption": "Research mode on. To ask how long to boil an egg 🥚\n\nThe cheat:\n\n1. Tools like Research and web search use more of your Claude limit.\n2. Simple question? Switch them off before you ask.\n3. Running code, making files and browsing websites cost more too. Save them for the big jobs.\n\nTwenty sources for a soft-boiled egg is not a good deal.\n\nSix minutes or six and a half? 👇\n\n💬 Comment TOOLS and I'll DM you the full list of limit-eaters 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM"
   }
 ]
