@@ -154,7 +154,8 @@ if (dueIndex === -1) {
 // of any kind, and never cross-post to Facebook or YouTube.
 // 11 Nov 2026 (Sam: maximise trial posts): THREE a day, slots 12:00 / 15:00 / 18:00Z, 3 h apart. Every queued reel is a trial
 // (non-followers only). Instagram publishes no trial cap; reports range from ~5 to 20 a day, so 3 leaves headroom.
-const MAX_PER_DAY = Number(process.env.MAX_PER_DAY || 3), MIN_GAP_H = 3, CAROUSEL_GAP_H = 3;
+// 13 Nov 2026: reel gap cut 3 h -> 1 h. The 15:00Z slot posts ~2 h late on GitHub cron lag (16:50, 17:18), and a 3 h gap then pushed the 18:00Z evening reel to 21:00Z+ two days running.
+const MAX_PER_DAY = Number(process.env.MAX_PER_DAY || 3), MIN_GAP_H = 1, CAROUSEL_GAP_H = 3;
 const item = items[dueIndex];
 const isCarousel = item.type === 'carousel';
 const postedToday = items.filter((it) => it.posted && it.posted.slice(0, 10) === today)
