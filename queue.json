@@ -1250,7 +1250,10 @@
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/shield_9x16.jpg",
     "caption": "Someone cloned our whole app overnight. Same screens, half the price 💀\n\nAI agents can now pull a shipped app apart file by file. The free counter: BLA (Blind LLM Agents), an MIT-licensed shield trending on GitHub.\n\nWhat it does: plants decoys, burns the copy bot's budget and sends it chasing files that don't exist. Your users get the same app.\n\nThe Claude cheat: run this once\nnpx bla-agents setup\nthen tell Claude Code: \"Harden my software against REA\"\n\nThe catch: their own README says the benchmark numbers are internal estimates, and server-side secrets still belong on a server. Test it on a branch first.\n\nHas anyone ever copied something you built? 👇\n\n💬 Comment SHIELD and I'll DM you the exact setup 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #github #opensource #claudecheats",
     "trial": "performance",
-    "style": "SITCOM"
+    "style": "SITCOM",
+    "posted": "2026-11-13T18:35:25.952Z",
+    "fb": "2026-11-13T18:36:02.456Z",
+    "yt": "2026-11-13T18:36:12.775Z"
   },
   {
     "at": "2026-11-14T12:00:00Z",
