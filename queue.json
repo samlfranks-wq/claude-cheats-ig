@@ -1226,7 +1226,10 @@
     "ytTitle": "2,000 Files, One Claude? Use /batch Instead",
     "caption": "Two thousand files to migrate. You gave them all to one Claude.\n\nBy file 212 the context was full and it was starting to forget. One conversation was never going to hold the whole job.\n\nAnthropic's own Claude Code docs: for large migrations or analyses, distribute the work across many parallel Claude invocations.\n\nThe fix:\n1. Type /batch followed by your instruction.\n2. Claude splits the change across 5 to 30 subagents, each working in its own worktree.\n3. Try it on a few files first, then run the lot.\n\nBig job? Fan it out.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-13T12:38:05.417Z",
+    "fb": "2026-11-13T12:38:17.902Z",
+    "yt": "2026-11-13T12:38:21.954Z"
   },
   {
     "at": "2026-11-13T15:00:00Z",
