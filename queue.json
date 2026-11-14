@@ -1282,10 +1282,10 @@
     "yt": "2026-11-14T15:27:46.225Z"
   },
   {
-    "note": "[SITCOM] MATCH: '50 jobs, 0 replies' - paste the job ad + CV, rewrite it in their words; one line: only use what's true, ask me about the gaps. MADEUP-shape episode (split screen, screen inserts, cover v3). Keyword MATCH -> dm/MATCH.md. End card included. videos/match/",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match_9x16.jpg",
-    "caption": "50 job applications. Not one reply 💀\n\nI was sending the same CV to every job. The ad said \"stakeholder reporting\". Mine said \"made some charts\".\n\nThe fix: paste the job ad and your CV into Claude, then say:\n\nRewrite my CV in the job ad's own words. Only use what's true in my CV. Ask me about any gaps.\n\nYou get the same experience, written in the words they're looking for, and a list of what's missing instead of a made-up skill.\n\nThe catch: without that second line, Claude will happily invent experience. Keep it in, and answer the gap questions honestly.\n\nHow many jobs have you applied for this year? 👇\n\n💬 Comment MATCH and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #jobsearch #cvtips #careeradvice #claudecheats",
+    "note": "[SITCOM] CLIPS: 'GTA 6 is out Thursday, I'm getting rich' - FFmpeg + one line in Claude Code cuts a stream into 10 vertical clips. Split screen, bath + flat + lounge. Must post before 19 Nov. Keyword CLIPS -> dm/CLIPS.md. End card included. videos/gta6/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gta6.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gta6_9x16.jpg",
+    "caption": "GTA 6 is out Thursday and I don't own a console 💀\r\n\r\nSo I'm not playing it. Every streamer goes live on launch day, and none of them have time to cut their own clips. That's the job.\r\n\r\nThe free tool: FFmpeg on GitHub (free and open source). Claude Code runs it for you. Paste this, with the streamer's file:\r\n\r\nInstall FFmpeg, then find the 10 loudest moments in stream.mp4. Make each one a vertical clip, and start 5 seconds early.\r\n\r\nLoud is where they crash, scream or win, so you get ten clips that each start just before the moment. Offer a streamer a batch and name your price.\r\n\r\nThe catch: loud isn't always good, so watch every clip before you send it. Only cut streams you have permission to cut, game music can get a clip claimed, and nobody pays until you've asked them.\r\n\r\nAre you playing it on Thursday? 👇\r\n\r\n💬 Comment CLIPS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #gta6 #ffmpeg #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-14T18:00:00Z"
@@ -1854,5 +1854,14 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-27T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] MATCH: '50 jobs, 0 replies' - paste the job ad + CV, rewrite it in their words; one line: only use what's true, ask me about the gaps. MADEUP-shape episode (split screen, screen inserts, cover v3). Keyword MATCH -> dm/MATCH.md. End card included. videos/match/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/match_9x16.jpg",
+    "caption": "50 job applications. Not one reply 💀\n\nI was sending the same CV to every job. The ad said \"stakeholder reporting\". Mine said \"made some charts\".\n\nThe fix: paste the job ad and your CV into Claude, then say:\n\nRewrite my CV in the job ad's own words. Only use what's true in my CV. Ask me about any gaps.\n\nYou get the same experience, written in the words they're looking for, and a list of what's missing instead of a made-up skill.\n\nThe catch: without that second line, Claude will happily invent experience. Keep it in, and answer the gap questions honestly.\n\nHow many jobs have you applied for this year? 👇\n\n💬 Comment MATCH and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #jobsearch #cvtips #careeradvice #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-12-03T15:00:00Z"
   }
 ]
