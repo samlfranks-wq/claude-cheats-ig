@@ -1264,7 +1264,10 @@
     "ytTitle": "New Codebase? Stop Reading, Start Asking Claude",
     "caption": "New codebase. Forty thousand lines. Two days of reading, and still no idea how the login works.\n\nThere's a senior engineer who has read every line. It's Claude.\n\nAnthropic's own Claude Code docs: ask Claude the questions you'd ask a senior engineer. It's an effective onboarding workflow, and no special prompting is required.\n\nTry:\n1. How does logging work?\n2. How do I make a new API endpoint?\n3. Why does this code call foo() instead of bar()?\n\nNew codebase? Ask first, read second.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-14T12:35:34.046Z",
+    "fb": "2026-11-14T12:35:45.627Z",
+    "yt": "2026-11-14T12:35:49.558Z"
   },
   {
     "at": "2026-11-14T15:00:00Z",
