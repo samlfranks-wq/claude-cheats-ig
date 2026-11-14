@@ -1434,7 +1434,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-19T18:00:00Z",
+    "at": "2026-12-01T15:00:00Z",
     "note": "[SITCOM] ASK: sitcom, learning-first + non-technical (ask me questions first, best man speech), keyword ASK",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ask_9x16.jpg",
@@ -1562,7 +1562,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-23T18:00:00Z",
+    "at": "2026-12-01T18:00:00Z",
     "note": "[FACELESS] AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
@@ -1595,7 +1595,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-24T18:00:00Z",
+    "at": "2026-12-02T12:00:00Z",
     "note": "[FACELESS] PIPE '4,000 lines pasted' - cat error.log | claude -p - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pipe_9x16.jpg",
@@ -1628,7 +1628,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-25T18:00:00Z",
+    "at": "2026-12-02T15:00:00Z",
     "note": "[FACELESS] DOCSURL 'a function that no longer exists' - give Claude docs URLs, /permissions allowlist - cream-stage bot batch 3 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/docsurl_9x16.jpg",
@@ -1661,7 +1661,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-26T18:00:00Z",
+    "at": "2026-12-02T18:00:00Z",
     "note": "[FACELESS] CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
@@ -1694,7 +1694,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-27T18:00:00Z",
+    "at": "2026-12-03T12:00:00Z",
     "note": "[FACELESS] CAREER 3D - 4 Claudes help you pick a career. STUDY/INTERVIEW keyword template (26 Oct read: STUDY 3D 1,317 views / 34 comments in 14h, best keyword post; topic beats format: student/early-career high-stakes moments win, tools/side-hustle lose). Comment CAREER -> dm/CAREER.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/career_9x16.jpg",
@@ -1794,5 +1794,59 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-22T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] BACKUP: 'limit hit, deadline at five' - Ollama (MIT, 186k) as a free local backup; one line: ollama launch claude. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword BACKUP -> dm/BACKUP.md. End card included. videos/ollama/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ollama.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ollama_9x16.jpg",
+    "caption": "Limit hit at 2pm. Deadline at 5 💀\r\n\r\nI'd used it all asking Claude to rename one file. Nine times.\r\n\r\nThe free backup: Ollama on GitHub (MIT licence, 186k+ stars). It runs a free AI model on your own laptop, no limit, no internet. Set it up before you need it. Paste this into Claude Code:\r\n\r\nInstall Ollama, then pick a model that fits this laptop's memory.\r\n\r\nWhen your limit runs out, type this in the terminal:\r\n\r\nollama launch claude\r\n\r\nThat opens Claude Code running on the free local model, so the small jobs keep moving.\r\n\r\nThe catch: a free local model is not as clever as Claude, and it needs a laptop with spare memory. Keep it for the small jobs and save the hard ones for when your limit resets.\r\n\r\nWhat were you doing when you hit the limit? 👇\r\n\r\n💬 Comment BACKUP and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #ollama #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-19T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] MARKDOWN: 'one PDF ate my whole limit' - MarkItDown (Microsoft, MIT, 195k) turns the PDF into Markdown; one line: read the Markdown, not the PDF. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword MARKDOWN -> dm/MARKDOWN.md. End card included. videos/pdfmd/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfmd.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pdfmd_9x16.jpg",
+    "caption": "One PDF. Whole limit gone 💀\r\n\r\nClaude reads every PDF page as text plus a picture of the page. Ninety pages of team photos is a lot of pictures.\r\n\r\nThe free tool: MarkItDown on GitHub (Microsoft, MIT licence, 195k+ stars). It turns PDF, Word, Excel and PowerPoint into plain Markdown text. Paste this into Claude Code:\r\n\r\nInstall markitdown, then convert report.pdf to Markdown. Read the Markdown, not the PDF, then answer my question.\r\n\r\nSame words, a fraction of the tokens, and Claude stops re-reading pictures every time you ask a follow-up.\r\n\r\nThe catch: scanned pages have no text to pull out, and photos and charts get dropped. If the pictures matter, keep the PDF for those pages.\r\n\r\nWhat ate your limit this week? 👇\r\n\r\n💬 Comment MARKDOWN and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-23T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] PLAN: '3 hours of code, the wrong thing' - Superpowers plugin (MIT, 317k); one line: brainstorm this with me first, then write the plan. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword PLAN -> dm/PLAN.md. End card included. videos/powers/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/powers.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/powers_9x16.jpg",
+    "caption": "Claude coded for 3 hours. Wrong thing 💀\r\n\r\nMy whole brief was \"make an app\". So it guessed. 2,140 lines, none of them kept.\r\n\r\nThe free plugin: Superpowers on GitHub (MIT licence, 317k+ stars). It makes Claude Code ask questions and agree a plan before it writes anything. Type this into Claude Code:\r\n\r\n/plugin install superpowers@claude-plugins-official\r\n\r\nThen start your next job with:\r\n\r\nBrainstorm this with me first. Then write the plan.\r\n\r\nFive questions later it turned out I wanted a shopping list.\r\n\r\nThe catch: planning first is slower and uses more of your limit. Use it for big jobs, not one-line fixes.\r\n\r\nWhat did Claude build wrong for you? 👇\r\n\r\n💬 Comment PLAN and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-24T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] WHISPER: '360 pounds to type up my own meetings' - Whisper (MIT, 112k) on your own laptop; one line: give me the decisions and who promised what. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword WHISPER -> dm/WHISPER.md. End card included. videos/whisper/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/whisper.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/whisper_9x16.jpg",
+    "caption": "£15 a month to type up my own meetings 💀\r\n\r\nTwo years of it. That's £360 for a transcript that is mostly me saying um.\r\n\r\nThe free tool: Whisper on GitHub (MIT licence, 112k+ stars). It runs on your own laptop, so the recording never leaves it. Paste this into Claude Code:\r\n\r\nInstall Whisper, then transcribe meeting.mp3 on this laptop. Give me the decisions, and who promised what.\r\n\r\nYou get the full transcript plus the three lines you actually needed.\r\n\r\nThe catch: it gets names wrong, and without a decent graphics card an hour of audio takes a while. Check the names before you share anything.\r\n\r\nWhat do you still pay for every month? 👇\r\n\r\n💬 Comment WHISPER and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-25T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] CUTOUT: '300 photos erased by hand' - rembg (MIT, 25k) on a whole folder; one line: save as new files, never touch my originals. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword CUTOUT -> dm/CUTOUT.md. End card included. videos/cutout/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cutout.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/cutout_9x16.jpg",
+    "caption": "300 product photos. Erasing every background by hand 💀\r\n\r\nFour done in six hours. One mug lost its handle. At that speed I'd finish in March.\r\n\r\nThe free tool: rembg on GitHub (MIT licence, 25k+ stars). It removes the background from a whole folder of photos on your own laptop. Paste this into Claude Code:\r\n\r\nInstall rembg, then remove the background on every photo in /shop. Save them as new files. Never touch my originals.\r\n\r\nThree hundred photos in minutes, and the originals stay exactly as they were.\r\n\r\nThe catch: hair, glass and fine edges come out rough. Check each one before you post it, and redo the bad ones by hand.\r\n\r\nWhat job are you still doing by hand? 👇\r\n\r\n💬 Comment CUTOUT and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #github #opensource #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-26T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] JOBS: '5 job sites, 3 hours a night' - JobSpy (MIT) pulls every site into one list; one line: one spreadsheet, delete the duplicates. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword JOBS -> dm/JOBS.md. End card included. videos/jobspy/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/jobspy.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/jobspy_9x16.jpg",
+    "caption": "5 job sites. 3 hours. Every night 💀\r\n\r\nI applied to the same job twice because it had a different logo. They rejected me both times.\r\n\r\nThe free tool: JobSpy on GitHub (MIT licence). It pulls jobs from Indeed, LinkedIn and Glassdoor into one list. Paste this into Claude Code, with your own job and town:\r\n\r\nInstall JobSpy, then find marketing jobs in Leeds from the last 7 days. Put them in one spreadsheet and delete the duplicates.\r\n\r\nOne sheet, every site, no job listed twice.\r\n\r\nThe catch: job sites block you if you search too fast or too much. LinkedIn blocks first, Indeed is steadier. Keep the search small and run it once a day.\r\n\r\nHow many job sites do you check? 👇\r\n\r\n💬 Comment JOBS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #jobsearch #github #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-27T18:00:00Z"
   }
 ]
