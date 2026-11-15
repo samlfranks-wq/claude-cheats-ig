@@ -1320,6 +1320,15 @@
     "yt": "2026-11-15T15:36:36.311Z"
   },
   {
+    "note": "[SITCOM] SPIKE: 'Twitch chat is a cheat code' - TwitchDownloader chat.json, clip where chat spikes, 20 s lead; plugs /l/clipkit",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gtachat.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/gtachat_9x16.jpg",
+    "caption": "I clipped the loudest bits of every GTA stream. They were all boring 💀\r\n\r\nLoud isn't funny. Chat is. When something crazy happens on stream, chat explodes: hundreds of LMAOs in ten seconds. That's your clip.\r\n\r\nThe cheat: grab the stream's whole chat with TwitchDownloader (free and open source on GitHub), then paste this into Claude Code:\r\n\r\nCount the chat messages every 10 seconds, and clip wherever chat spikes. Start every clip 20 seconds early.\r\n\r\nChat reacts after the moment, so the 20 second lead puts the start of every clip right before the moment. A six hour stream turns into a folder of clips. Chat mode is in the Stream Clipping Kit on the link in bio.\r\n\r\nThe catch: chat also spikes for giveaways, raids and spam, so watch every clip. Only clip streams you have permission to clip.\r\n\r\nWho are you clipping on GTA 6 launch day? 👇\r\n\r\n💬 Comment SPIKE and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #gta6 #clipping #twitch #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-11-15T18:00:00Z"
+  },
+  {
     "at": "2026-11-16T12:00:00Z",
     "note": "[FACELESS] MCP 'copy, paste, copy, paste' - claude mcp add - cream-stage bot batch 4 (lib/stagekit.py), Harrison ElevenLabs, built 2026-10-04.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mcp.mp4",
