@@ -1314,7 +1314,10 @@
     "caption": "GTA 6 launch week. 3 streamers want me clipping. 40 hours of footage 💀\r\n\r\nEvery streamer goes live on launch day and none of them have time to clip it. Clipping one stream at a time is how you end up asleep in the bath.\r\n\r\nThe cheat: don't clip one stream, clip the whole folder. Put the streams in one folder, open Claude Code in it and paste:\r\n\r\nFor every stream in this folder, clip the 10 loudest moments. Then burn in captions with Whisper.\r\n\r\nClaude Code runs FFmpeg and Whisper (both free and open source on GitHub), finds the loud moments in every stream and hands you vertical clips with the captions already on. The full Stream Clipping Kit (skill, script and guide) is on the link in bio.\r\n\r\nThe catch: Whisper gets names wrong, so read every caption before you send a clip. Only clip streams you have permission to clip, and game music can still get a clip claimed.\r\n\r\nAre you clipping GTA 6 streams? 👇\r\n\r\n💬 Comment CLIPPING and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #gta6 #clipping #whisper #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-15T15:00:00Z"
+    "at": "2026-11-15T15:00:00Z",
+    "posted": "2026-11-15T15:35:58.550Z",
+    "fb": "2026-11-15T15:36:21.409Z",
+    "yt": "2026-11-15T15:36:36.311Z"
   },
   {
     "at": "2026-11-16T12:00:00Z",
