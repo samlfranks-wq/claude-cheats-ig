@@ -1302,7 +1302,10 @@
     "ytTitle": "One Quick Question Is Clogging Your Claude Chat (Use /btw)",
     "caption": "You asked Claude one quick question in the middle of a task. Now it sits in the conversation, taking up space, for the rest of the session.\n\nEvery detour fills the context, and long sessions full of irrelevant context can make Claude worse.\n\nAnthropic's own Claude Code docs: for quick questions that don't need to stay in context, use /btw. The answer never enters conversation history.\n\nThe fix:\n1. Quick side question? /btw what port is the server on?\n2. Brand new task? /clear and start fresh.\n\nKeep the main chat for the main job.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-15T12:35:56.560Z",
+    "fb": "2026-11-15T12:36:08.900Z",
+    "yt": "2026-11-15T12:36:15.874Z"
   },
   {
     "at": "2026-11-15T15:00:00Z",
