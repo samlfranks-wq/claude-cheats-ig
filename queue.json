@@ -1364,7 +1364,10 @@
     "caption": "200 GTA clips called clip_001 to clip_200. Which one's funny? 💀\r\n\r\nClipping is the easy part. Finding the good one in a folder of 200 is what eats your whole night.\r\n\r\nThe cheat: give every clip a caption file (the Stream Clipping Kit makes them for you), open Claude Code in the folder and paste:\r\n\r\nRead every clip's captions and rename each file by what happens. Then write a title and a caption for each one, in a list I can copy. Rank them, funniest first, and tell me why.\r\n\r\nYou get sam-falls-off-sofa.mp4 instead of clip_047.mp4, a ready-to-post title for every clip, and the best ones at the top. The renamer is in the Stream Clipping Kit on the link in bio.\r\n\r\nThe catch: it only reads what's said. A silent fail won't rank, so skim the bottom of the list too.\r\n\r\nWhat's the funniest clip in your folder right now? 👇\r\n\r\n💬 Comment RENAME and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #gta6 #clipping #twitch #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-16T18:00:00Z"
+    "at": "2026-11-16T18:00:00Z",
+    "posted": "2026-11-16T18:36:06.315Z",
+    "fb": "2026-11-16T18:36:24.701Z",
+    "yt": "2026-11-16T18:36:32.047Z"
   },
   {
     "at": "2026-11-17T12:00:00Z",
