@@ -1481,10 +1481,10 @@
     "style": "FACELESS"
   },
   {
-    "note": "[SITCOM] REFUND: '5 hours late, paid in sandwich' - airline, route, delay, write my claim; one line: name the rule and say what I'm owed (UK261, up to 520 pounds). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword REFUND -> dm/REFUND.md. End card included. videos/refund/",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/refund.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/refund_9x16.jpg",
-    "caption": "My flight was 5 hours late. They gave me a sandwich 🥪\r\n\r\nI said thank you. Turns out on a UK or EU flight, arriving 3+ hours late can mean real money, not a meal deal.\r\n\r\nThe fix: give Claude the airline, the route and the delay, then say:\r\n\r\nWrite my compensation claim for this flight. Name the rule that applies and say exactly what I'm owed.\r\n\r\nOn my route it named UK261 and a claim of up to £520, with the letter written and the rule quoted.\r\n\r\nThe catch: the rules change by country, and things like bad weather can void a claim. Check the rule Claude names before you send anything.\r\n\r\nWhat's your worst flight delay? 👇\r\n\r\n💬 Comment REFUND and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #flightdelay #traveltips #moneysaving #claudecheats",
+    "note": "[SITCOM] HOUR: 'interview at OpenAI in 1 hour' - job post + CV -> 5 likely questions, 30 s stories, the push-back answer. Honest take on the live-answer-app reel. Comment HOUR -> dm/HOUR.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour_9x16.jpg",
+    "caption": "Interview at OpenAI. In 1 hour. Nothing prepared 💀\r\n\r\nThere are apps that whisper answers to you live during the call. Then they ask a follow-up and you freeze. Prep beats a script.\r\n\r\nThe cheat: paste the job post and your CV into Claude and ask:\r\n\r\nWhat 5 questions will they ask me, and what's my best answer from my CV? What will they push back on? Turn each answer into a story I can tell in 30 seconds.\r\n\r\nYou get the questions they'll actually ask, a 30-second story for each one, and your answer to the weak spot, all from your own CV. One page, ready in minutes.\r\n\r\nThe catch: say every answer out loud, twice. If you read it off a screen, they'll know.\r\n\r\nWorst interview question you've ever had? 👇\r\n\r\n💬 Comment HOUR and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #interviewtips #jobsearch #careeradvice #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-20T18:00:00Z"
@@ -1888,6 +1888,15 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-03T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] REFUND: '5 hours late, paid in sandwich' - airline, route, delay, write my claim; one line: name the rule and say what I'm owed (UK261, up to 520 pounds). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword REFUND -> dm/REFUND.md. End card included. videos/refund/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/refund.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/refund_9x16.jpg",
+    "caption": "My flight was 5 hours late. They gave me a sandwich 🥪\r\n\r\nI said thank you. Turns out on a UK or EU flight, arriving 3+ hours late can mean real money, not a meal deal.\r\n\r\nThe fix: give Claude the airline, the route and the delay, then say:\r\n\r\nWrite my compensation claim for this flight. Name the rule that applies and say exactly what I'm owed.\r\n\r\nOn my route it named UK261 and a claim of up to £520, with the letter written and the rule quoted.\r\n\r\nThe catch: the rules change by country, and things like bad weather can void a claim. Check the rule Claude names before you send anything.\r\n\r\nWhat's your worst flight delay? 👇\r\n\r\n💬 Comment REFUND and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #flightdelay #traveltips #moneysaving #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-12-04T12:00:00Z"
   },
   {
     "at": "2026-12-04T15:00:00Z",
