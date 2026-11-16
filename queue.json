@@ -1340,7 +1340,10 @@
     "ytTitle": "Stop Copy-Pasting Into Claude. Connect Your Tools With MCP",
     "caption": "You copied the ticket, the design notes and the database rows into one prompt. Notion tab, Figma tab, database tab, back to Claude.\n\nClaude couldn't open those tools, so you became the courier.\n\nAnthropic's own Claude Code docs: run claude mcp add to connect external tools like Notion, Figma, or your database.\n\nThe fix:\n1. claude mcp add with the server's name and URL (once).\n2. Then just ask: \"read the ticket\", \"check the design\", \"query the orders table\".\n3. Copying from the same tool every day? That's the one to connect first.\n\nStop being the courier.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-16T12:35:30.068Z",
+    "fb": "2026-11-16T12:35:46.160Z",
+    "yt": "2026-11-16T12:35:55.464Z"
   },
   {
     "at": "2026-11-16T15:00:00Z",
