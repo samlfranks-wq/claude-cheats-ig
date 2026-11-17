@@ -1515,10 +1515,10 @@
     "style": "FACELESS"
   },
   {
-    "note": "[SITCOM] FORMULA: '400 rows copied by hand' - describe the job in plain English, ask for the formula explained; one line: Excel or Sheets and name the columns (XLOOKUP). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword FORMULA -> dm/FORMULA.md. End card included. videos/formula/",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula_9x16.jpg",
-    "caption": "I copied 400 rows between two spreadsheets. By hand 💀\r\n\r\nI'd been at it since nine. I was doing a lookup with my eyes because I don't know formulas.\r\n\r\nThe fix: describe the job to Claude in plain English, then say:\r\n\r\nWrite the formula and explain each part. This is Excel, not Google Sheets. The IDs are in column A and the prices are in column C.\r\n\r\nYou get one formula to paste into the first row and drag down. 400 rows, about two seconds.\r\n\r\nThe catch: Claude can't see your sheet. Test the formula on three rows where you already know the answer before you trust the rest.\r\n\r\nWhat do you still do by hand at work? 👇\r\n\r\n💬 Comment FORMULA and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #excel #exceltips #productivity #claudecheats",
+    "note": "[SITCOM] DEPOSIT: 'landlord kept my whole £1,200 deposit' - tenancy + inventory + photos -> each deduction checked, dispute to the scheme. Personal-money drama format (17 Nov insights). Comment DEPOSIT -> dm/DEPOSIT.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/deposit.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/deposit_9x16.jpg",
+    "caption": "My landlord kept my whole £1,200 deposit 💀\r\n\r\nA scuffed wall, a stained carpet and \"general cleaning\". Most of that is wear and tear, and the landlord has to prove the rest.\r\n\r\nThe cheat: upload your tenancy agreement, the check-in inventory and your move-out photos to Claude and ask:\r\n\r\nCheck every deduction against these. Which ones are fair wear and tear, which were already there at check-in, and which can't he prove? Then write my dispute to the deposit scheme, with the evidence for each point.\r\n\r\nYou get every deduction checked against your own paperwork, and a dispute ready to send, point by point.\r\n\r\nThe catch: check your deposit was protected first (DPS, TDS or mydeposits). The scheme decides, not Claude.\r\n\r\nDid you ever get your deposit back? 👇\r\n\r\n💬 Comment DEPOSIT and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #renting #tenantrights #moneytips #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-21T18:00:00Z"
@@ -1920,5 +1920,14 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-04T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] FORMULA: '400 rows copied by hand' - describe the job in plain English, ask for the formula explained; one line: Excel or Sheets and name the columns (XLOOKUP). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword FORMULA -> dm/FORMULA.md. End card included. videos/formula/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula_9x16.jpg",
+    "caption": "I copied 400 rows between two spreadsheets. By hand 💀\r\n\r\nI'd been at it since nine. I was doing a lookup with my eyes because I don't know formulas.\r\n\r\nThe fix: describe the job to Claude in plain English, then say:\r\n\r\nWrite the formula and explain each part. This is Excel, not Google Sheets. The IDs are in column A and the prices are in column C.\r\n\r\nYou get one formula to paste into the first row and drag down. 400 rows, about two seconds.\r\n\r\nThe catch: Claude can't see your sheet. Test the formula on three rows where you already know the answer before you trust the rest.\r\n\r\nWhat do you still do by hand at work? 👇\r\n\r\n💬 Comment FORMULA and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #excel #exceltips #productivity #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-12-05T18:00:00Z"
   }
 ]
