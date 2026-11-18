@@ -1418,7 +1418,10 @@
     "ytTitle": "Your Claude Code Has Zero Safety Nets. Add These 4",
     "caption": "Your Claude Code has zero safety nets. Fit these four before it deletes something.\n\n1. Checkpoints: double-tap Esc (or /rewind) to restore the code, the chat, or both.\n2. Git: commit before big changes. Checkpoints only track Claude's own edits, so they don't replace git.\n3. Hooks: block what must never happen. Hooks are guaranteed, CLAUDE.md is only advice.\n4. /sandbox: sandboxed commands run walled off, without asking you every time.\n\nScreenshot this. Set them up before you need them.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-18T12:36:39.281Z",
+    "fb": "2026-11-18T12:36:56.951Z",
+    "yt": "2026-11-18T12:37:05.618Z"
   },
   {
     "at": "2026-11-18T15:00:00Z",
