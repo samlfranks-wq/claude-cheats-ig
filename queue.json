@@ -1483,7 +1483,10 @@
     "caption": "Limit hit at 2pm. Deadline at 5 💀\r\n\r\nI'd used it all asking Claude to rename one file. Nine times.\r\n\r\nThe free backup: Ollama on GitHub (MIT licence, 186k+ stars). It runs a free AI model on your own laptop, no limit, no internet. Set it up before you need it. Paste this into Claude Code:\r\n\r\nInstall Ollama, then pick a model that fits this laptop's memory.\r\n\r\nWhen your limit runs out, type this in the terminal:\r\n\r\nollama launch claude\r\n\r\nThat opens Claude Code running on the free local model, so the small jobs keep moving.\r\n\r\nThe catch: a free local model is not as clever as Claude, and it needs a laptop with spare memory. Keep it for the small jobs and save the hard ones for when your limit resets.\r\n\r\nWhat were you doing when you hit the limit? 👇\r\n\r\n💬 Comment BACKUP and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #ollama #opensource #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-19T18:00:00Z"
+    "at": "2026-11-19T18:00:00Z",
+    "posted": "2026-11-19T18:35:33.074Z",
+    "fb": "2026-11-19T18:35:50.951Z",
+    "yt": "2026-11-19T18:35:56.862Z"
   },
   {
     "at": "2026-11-19T19:30:00Z",
