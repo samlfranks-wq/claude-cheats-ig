@@ -1502,10 +1502,10 @@
     "style": "FACELESS"
   },
   {
-    "note": "[SITCOM] HOUR: 'interview at OpenAI in 1 hour' - job post + CV -> 5 likely questions, 30 s stories, the push-back answer. Honest take on the live-answer-app reel. Comment HOUR -> dm/HOUR.md",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour_9x16.jpg",
-    "caption": "Interview at OpenAI. In 1 hour. Nothing prepared 💀\r\n\r\nThere are apps that whisper answers to you live during the call. Then they ask a follow-up and you freeze. Prep beats a script.\r\n\r\nThe cheat: paste the job post and your CV into Claude and ask:\r\n\r\nWhat 5 questions will they ask me, and what's my best answer from my CV? What will they push back on? Turn each answer into a story I can tell in 30 seconds.\r\n\r\nYou get the questions they'll actually ask, a 30-second story for each one, and your answer to the weak spot, all from your own CV. One page, ready in minutes.\r\n\r\nThe catch: say every answer out loud, twice. If you read it off a screen, they'll know.\r\n\r\nWorst interview question you've ever had? 👇\r\n\r\n💬 Comment HOUR and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #interviewtips #jobsearch #careeradvice #claudecheats",
+    "note": "[SITCOM] KEYS: 'API key on GitHub for six minutes, £2,000 bill' - gitleaks (MIT) via Claude Code scans the whole history + pre-commit hook. Sequel to the cloned-app winner (free named tool + money threat; 19 Nov insights: saves drive reach). Comment KEYS -> dm/KEYS.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/keys.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/keys_9x16.jpg",
+    "caption": "My API key was on GitHub for six minutes 💀\r\n\r\nOne tiny commit, and the bill was £2,000. Deleting the commit doesn't help: the key is still in your git history, and bots scan GitHub for keys all day.\r\n\r\nThe cheat: install gitleaks (free, open source) and tell Claude Code:\r\n\r\nInstall gitleaks and scan this whole repo, every commit. Then add a pre-commit hook that blocks any commit with a secret in it.\r\n\r\nYou get every leaked key in your history listed, and a hook that stops the next one before it ships.\r\n\r\nThe catch: a leaked key stays leaked. Rotate it today, and ask the provider about the bill.\r\n\r\nEver pushed a key by accident? 👇\r\n\r\n💬 Comment KEYS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #vibecoding #github #cybersecurity #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-20T18:00:00Z"
@@ -1947,5 +1947,14 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-05T18:00:00Z"
+  },
+  {
+    "note": "[SITCOM] HOUR: 'interview at OpenAI in 1 hour' - job post + CV -> 5 likely questions, 30 s stories, the push-back answer. Honest take on the live-answer-app reel. Comment HOUR -> dm/HOUR.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour_9x16.jpg",
+    "caption": "Interview at OpenAI. In 1 hour. Nothing prepared 💀\r\n\r\nThere are apps that whisper answers to you live during the call. Then they ask a follow-up and you freeze. Prep beats a script.\r\n\r\nThe cheat: paste the job post and your CV into Claude and ask:\r\n\r\nWhat 5 questions will they ask me, and what's my best answer from my CV? What will they push back on? Turn each answer into a story I can tell in 30 seconds.\r\n\r\nYou get the questions they'll actually ask, a 30-second story for each one, and your answer to the weak spot, all from your own CV. One page, ready in minutes.\r\n\r\nThe catch: say every answer out loud, twice. If you read it off a screen, they'll know.\r\n\r\nWorst interview question you've ever had? 👇\r\n\r\n💬 Comment HOUR and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #interviewtips #jobsearch #careeradvice #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM",
+    "at": "2026-12-06T18:00:00Z"
   }
 ]
