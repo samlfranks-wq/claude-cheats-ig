@@ -1471,7 +1471,10 @@
     "ytTitle": "Claude Says It's Done. Nobody Checked. Add These 4",
     "caption": "Claude says it's done. Nobody checked. Plug in these four.\n\n1. Give Claude a check it can run: tests, a build, or a screenshot to compare.\n2. A hook that runs your linter after every edit. Ask Claude: \"write a hook that runs eslint after every file edit\".\n3. /code-review: a fresh subagent reviews the diff for bugs, without the reasoning that wrote it.\n4. A code intelligence plugin: type errors caught automatically after edits. Find yours in /plugin.\n\nIf you can't verify it, don't ship it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-19T15:35:25.099Z",
+    "fb": "2026-11-19T15:35:39.480Z",
+    "yt": "2026-11-19T15:35:44.627Z"
   },
   {
     "note": "[SITCOM] BACKUP: 'limit hit, deadline at five' - Ollama (MIT, 186k) as a free local backup; one line: ollama launch claude. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword BACKUP -> dm/BACKUP.md. End card included. videos/ollama/",
