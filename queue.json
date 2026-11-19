@@ -1480,6 +1480,16 @@
     "at": "2026-11-19T18:00:00Z"
   },
   {
+    "at": "2026-11-19T19:30:00Z",
+    "note": "[FACELESS] LOUDCLIP - cream one-card + timeline explainer (format test vs sitcoms, after theromanknox reel). GTA 6 launch-day loudness clipping with FFmpeg via Claude Code. Comment CLIPS -> dm/CLIPS.md. Sam approved 19 Nov; trial reel.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/loudclip.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/loudclip_9x16.jpg",
+    "ytTitle": "12-Hour GTA 6 Stream? Claude Clips the 10 Best Moments",
+    "caption": "GTA 6 is out today. Streamers are live for 12 hours straight 🎮\r\n\r\nThe best 30 seconds are buried in there somewhere. Here's the shortcut: big moments are loud. The streamer shouts and the audio jumps.\r\n\r\nSo I asked Claude Code for one small script:\r\n• FFmpeg (free, open source) measures how loud every second is\r\n• it picks the 10 loudest moments and clips them\r\n• vertical 9:16, captions already on\r\n• the detail that matters: the shout comes after the good bit, so each clip starts 5 seconds early\r\n\r\nOne line, a folder of clips. Free, on your own laptop.\r\n\r\nWatch every clip before you post it, and only clip streamers who allow it.\r\n\r\n💬 Comment CLIPS and I'll DM you the prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#gta6 #gta #clipping #twitch #claudeai #claudecode #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
+  },
+  {
     "at": "2026-11-20T12:00:00Z",
     "note": "[FACELESS] SPEED - 0/4 meter series (four verified plugs), cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/speed.mp4",
