@@ -1510,7 +1510,10 @@
     "ytTitle": "Claude Code Does One Job at a Time. Run Four Instead",
     "caption": "Your Claude Code does one job at a time. Here's how to run four.\n\n1. Skills: write a workflow once in .claude/skills/<name>/SKILL.md, then run it with /<name>.\n2. claude -p: pipe a file straight in from the terminal, e.g. cat error.log | claude -p \"what broke?\"\n3. Worktrees: separate sessions in separate git checkouts, so edits never collide.\n4. /batch: one instruction, split across up to 30 subagents.\n\nStart with skills. They're the easiest win.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-20T15:35:30.881Z",
+    "fb": "2026-11-20T15:35:44.038Z",
+    "yt": "2026-11-20T15:35:55.189Z"
   },
   {
     "at": "2026-11-20T15:00:00Z",
