@@ -1536,7 +1536,10 @@
     "caption": "My API key was on GitHub for six minutes 💀\r\n\r\nOne tiny commit, and the bill was £2,000. Deleting the commit doesn't help: the key is still in your git history, and bots scan GitHub for keys all day.\r\n\r\nThe cheat: install gitleaks (free, open source) and tell Claude Code:\r\n\r\nInstall gitleaks and scan this whole repo, every commit. Then add a pre-commit hook that blocks any commit with a secret in it.\r\n\r\nYou get every leaked key in your history listed, and a hook that stops the next one before it ships.\r\n\r\nThe catch: a leaked key stays leaked. Rotate it today, and ask the provider about the bill.\r\n\r\nEver pushed a key by accident? 👇\r\n\r\n💬 Comment KEYS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #vibecoding #github #cybersecurity #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-20T18:00:00Z"
+    "at": "2026-11-20T18:00:00Z",
+    "posted": "2026-11-21T12:35:57.596Z",
+    "fb": "2026-11-21T12:36:22.701Z",
+    "yt": "2026-11-21T12:36:34.942Z"
   },
   {
     "at": "2026-11-21T12:00:00Z",
