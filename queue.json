@@ -1550,7 +1550,10 @@
     "ytTitle": "Stop Describing Bugs to Claude. Do This Instead",
     "caption": "You wrote three paragraphs describing one broken button.\n\nClaude can't see your screen. But it can read a picture.\n\nAnthropic's own Claude Code docs: copy/paste or drag and drop images straight into the prompt.\n\nThe fix:\n1. Bug you can see? Screenshot it and paste it in.\n2. Error message? Paste the whole thing, not your summary of it.\n3. Building from a design? Paste the mockup, then ask Claude to screenshot its result and compare.\n\nShow it, don't describe it.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-21T15:35:06.745Z",
+    "fb": "2026-11-21T15:35:23.876Z",
+    "yt": "2026-11-21T15:35:35.779Z"
   },
   {
     "at": "2026-11-21T15:00:00Z",
