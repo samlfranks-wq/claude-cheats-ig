@@ -1590,7 +1590,10 @@
     "ytTitle": "Claude Wrote the Code AND the Tests. That's the Problem",
     "caption": "Claude wrote the code and the tests. And what do you know? They all pass.\n\nIt's marking its own homework. Same session, same blind spots, in the code and the tests.\n\nAnthropic's own Claude Code docs: have one Claude write tests, then another write code to pass them.\n\nThe fix:\n1. Session one writes the tests.\n2. Session two only gets to make them pass.\n3. When a test fails, fix the code, not the test.\n\nCode that matters deserves a second marker.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-22T12:35:28.113Z",
+    "fb": "2026-11-22T12:35:39.500Z",
+    "yt": "2026-11-22T12:35:43.711Z"
   },
   {
     "at": "2026-11-22T15:00:00Z",
