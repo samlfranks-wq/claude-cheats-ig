@@ -1654,7 +1654,10 @@
     "caption": "One PDF. Whole limit gone 💀\r\n\r\nClaude reads every PDF page as text plus a picture of the page. Ninety pages of team photos is a lot of pictures.\r\n\r\nThe free tool: MarkItDown on GitHub (Microsoft, MIT licence, 195k+ stars). It turns PDF, Word, Excel and PowerPoint into plain Markdown text. Paste this into Claude Code:\r\n\r\nInstall markitdown, then convert report.pdf to Markdown. Read the Markdown, not the PDF, then answer my question.\r\n\r\nSame words, a fraction of the tokens, and Claude stops re-reading pictures every time you ask a follow-up.\r\n\r\nThe catch: scanned pages have no text to pull out, and photos and charts get dropped. If the pictures matter, keep the PDF for those pages.\r\n\r\nWhat ate your limit this week? 👇\r\n\r\n💬 Comment MARKDOWN and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #github #opensource #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-23T18:00:00Z"
+    "at": "2026-11-23T18:00:00Z",
+    "posted": "2026-11-24T01:31:29.842Z",
+    "fb": "2026-11-24T01:31:52.751Z",
+    "yt": "2026-11-24T01:32:01.331Z"
   },
   {
     "at": "2026-11-24T12:00:00Z",
