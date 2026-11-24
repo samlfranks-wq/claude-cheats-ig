@@ -1668,7 +1668,10 @@
     "ytTitle": "Stop Pasting the Same Prompt Into Claude (Use Skills)",
     "caption": "You've pasted the same giant prompt forty times this month.\n\nEvery new chat, the recipe's gone. So you paste it again.\n\nAnthropic's fix: skills. They can define repeatable workflows you invoke directly.\n\nThe fix:\n1. Create .claude/skills/fix-issue/SKILL.md\n2. Add a name and description at the top, then write your steps once.\n3. Next time, just type /fix-issue.\n\nTyped it twice? Make it a skill.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-24T12:35:35.018Z",
+    "fb": "2026-11-24T12:35:48.156Z",
+    "yt": "2026-11-24T12:35:53.764Z"
   },
   {
     "at": "2026-11-24T15:00:00Z",
