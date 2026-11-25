@@ -1815,13 +1815,13 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-28T18:00:00Z",
-    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
-    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "note": "[SITCOM] TOKENS: 'limit gone by 11am' - ccusage (MIT, 19.6k) finds the chat that ate it + /clear per task. Comment TOKENS -> dm/TOKENS.md (25 Nov batch of 5, split screen, free tool that saves limit/time)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tokens.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tokens_9x16.jpg",
+    "caption": "My Claude limit was gone by 11am 💀\r\n\r\nI only asked three things, but all in one chat since Monday. Long chats use more of your limit, because Claude re-reads the whole chat every message.\r\n\r\nThe cheat: run ccusage (free, open source) and tell Claude Code:\r\n\r\nRun npx ccusage session and tell me which chat ate my limit. Then add to CLAUDE.md: when we finish a task, remind me to type /clear.\r\n\r\nYou see every session and how many tokens it used, and every new task starts in a small, fresh chat.\r\n\r\nThe catch: it only reads Claude Code's logs, not browser chats, and the dollar figure is API pricing, not your bill.\r\n\r\nWhen did your limit run out today? 👇\r\n\r\n💬 Comment TOKENS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #claudelimits #productivity #ai #claudecheats",
     "trial": "performance",
-    "style": "SITCOM"
+    "style": "SITCOM",
+    "at": "2026-11-28T18:00:00Z"
   },
   {
     "at": "2026-11-29T12:00:00Z",
@@ -1844,15 +1844,13 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-29T18:00:00Z",
-    "note": "[FACELESS] CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
-    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
-    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
+    "note": "[SITCOM] PACK: '40 files pasted one by one' - Repomix (MIT, 29k) packs the project into one file with token counts. Comment PACK -> dm/PACK.md (25 Nov batch of 5, split screen, free tool that saves limit/time)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pack.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pack_9x16.jpg",
+    "caption": "I pasted 40 files into Claude one by one 💀\r\n\r\nAn hour of pasting, and my limit was gone. Forty pastes is forty messages, and every message eats your limit.\r\n\r\nThe cheat: run Repomix (free, open source) and tell Claude Code:\r\n\r\nRun npx repomix --compress and show me the biggest files. Then leave out the data folder and the test fixtures.\r\n\r\nYour whole project in one file, with a token count. Upload it once and ask about anything.\r\n\r\nThe catch: a huge project still won't fit. Pack one folder at a time.\r\n\r\nHow many files do you paste in one go? 👇\r\n\r\n💬 Comment PACK and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #coding #vibecoding #ai #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "SITCOM",
+    "at": "2026-11-29T18:00:00Z"
   },
   {
     "at": "2026-11-30T12:00:00Z",
@@ -1877,15 +1875,13 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-11-30T18:00:00Z",
-    "note": "[FACELESS] PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
-    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
-    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "note": "[SITCOM] PING: 'watched the terminal 40 minutes' - ntfy (Apache-2.0) + Stop/Notification hooks ping your phone. Comment PING -> dm/PING.md (25 Nov batch of 5, split screen, free tool that saves limit/time)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ntfy.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ntfy_9x16.jpg",
+    "caption": "I watched the terminal for 40 minutes. Claude finished in 4 💀\r\n\r\nSix teas later, still staring. Walk away, and let Claude ping your phone when it's done.\r\n\r\nThe cheat: get the ntfy app (free, open source) and tell Claude Code:\r\n\r\nAdd a Stop hook that sends 'Claude is done' to my ntfy topic. Ping me when you need an answer too.\r\n\r\nYour phone buzzes when Claude finishes or gets stuck. You never stare at the terminal again.\r\n\r\nThe catch: anyone who guesses your topic name can read your pings. Make it long and random.\r\n\r\nHow long do you stare at the terminal? 👇\r\n\r\n💬 Comment PING and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #productivity #vibecoding #ai #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "SITCOM",
+    "at": "2026-11-30T18:00:00Z"
   },
   {
     "at": "2026-12-01T12:00:00Z",
@@ -1908,15 +1904,13 @@
     "style": "SITCOM"
   },
   {
-    "at": "2026-12-01T18:00:00Z",
-    "note": "[FACELESS] AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_16x9.jpg",
-    "ytTitle": "Stop Explaining the Same Checklist to Claude. Use Subagents",
-    "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "note": "[SITCOM] NOTES: 'exam tomorrow, 9 hours of lectures' - yt-dlp subtitles only -> notes + questions + exam hints. Comment NOTES -> dm/NOTES.md (25 Nov batch of 5, split screen, free tool that saves limit/time)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/notes.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/notes_9x16.jpg",
+    "caption": "Exam tomorrow. 9 hours of lectures 💀\r\n\r\nDouble speed, fell asleep twice. Don't watch them: your lectures have subtitles, and Claude reads nine hours of them in a minute.\r\n\r\nThe cheat: install yt-dlp (free, open source) and tell Claude Code:\r\n\r\nGet only the subtitles for my 6 lectures. Write notes and 20 practice questions. List every time he says it's on the exam.\r\n\r\nNotes with timestamps, practice questions, and every exam hint, from nine hours of lectures.\r\n\r\nThe catch: auto subtitles get names and formulas wrong. Check them against the slides.\r\n\r\nHow many lectures are you behind on? 👇\r\n\r\n💬 Comment NOTES and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #studytips #university #revision #ai #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "SITCOM",
+    "at": "2026-12-01T18:00:00Z"
   },
   {
     "at": "2026-12-02T12:00:00Z",
@@ -1941,15 +1935,13 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-02T18:00:00Z",
-    "note": "[FACELESS] CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
-    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_16x9.jpg",
-    "ytTitle": "Claude Says Your Site Works. It Never Opened It",
-    "caption": "Claude says your site works. It never even opened it.\n\nSo you click around yourself, and the sign-up button does nothing. Here's the problem: Claude can write the code, but it can't see the page.\n\nThe fix:\n1. Install the Playwright plugin from Microsoft. In Claude Code, type /plugin, search \"playwright\", install.\n2. Then say: \"Open my site, sign up, and screenshot every step.\"\n3. It clicks the buttons and fills the forms itself.\n\nThe catch: use a test account, never your real logins.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone who says \"it works on my machine\".\n\n#claudecode #claudeai #webdev #testing #aitools #vibecoding #playwright #claudecheats",
+    "note": "[SITCOM] WORD: 'pasted into Word, every heading broke' - Pandoc + reference doc -> real .docx. Comment WORD -> dm/WORD.md (25 Nov batch of 5, split screen, free tool that saves limit/time)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pandoc.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pandoc_9x16.jpg",
+    "caption": "I pasted Claude's report into Word. Every heading broke 💀\r\n\r\nTwo hours fixing it, the tables in one long column, and my boss wanted it by 5. Pasting moves the text, not the styles.\r\n\r\nThe cheat: install Pandoc (free, open source) and tell Claude Code:\r\n\r\nSave the report as report.md, then run pandoc report.md -o report.docx. Use my company template for the styles.\r\n\r\nA real Word file with your fonts, real tables and a contents page, in ten seconds.\r\n\r\nThe catch: fancy layouts like text boxes won't survive. Keep it simple and check the tables.\r\n\r\nHow long do you spend fixing formatting? 👇\r\n\r\n💬 Comment WORD and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #microsoftword #productivity #ai #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "SITCOM",
+    "at": "2026-12-02T18:00:00Z"
   },
   {
     "at": "2026-12-03T12:00:00Z",
@@ -2026,5 +2018,58 @@
     "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-06T18:00:00Z"
+  },
+  {
+    "at": "2026-12-07T18:00:00Z",
+    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
+    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "trial": "performance",
+    "style": "SITCOM"
+  },
+  {
+    "at": "2026-12-08T18:00:00Z",
+    "note": "[FACELESS] CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_16x9.jpg",
+    "ytTitle": "3 Claudes Grill You Before Your Coding Interview",
+    "caption": "I built a coding interview where 3 Claudes grill you before the real one does 💻\n\n💬 Comment CODE and I'll DM you the exact prompt. Follow so the DM lands 📩\n\n👇 The panel:\n1. The Interviewer gives you a problem and waits while you think out loud\n2. The Senior Dev asks why your solution is so slow\n3. The Hiring Manager makes you explain it like they've never coded\n\nSo the real interview feels like the easy round.\n\n📌 Save this for your next interview.\nFollow @claude.cheats for more.\n\n#codinginterview #leetcode #softwareengineer #cs #techjobs #claudeai #aitools #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
+  },
+  {
+    "at": "2026-12-09T18:00:00Z",
+    "note": "[FACELESS] PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_16x9.jpg",
+    "ytTitle": "Claude Says Your Idea Is Great. Make It a Panel of Tough Investors",
+    "caption": "Ask Claude about your app idea and it'll usually tell you it's great. That's not the feedback you need.\n\nMake it a panel of four tough investors instead. Each one asks a single hard question:\n1. Who exactly pays for this?\n2. What does it cost you to win one customer?\n3. What stops a bigger company copying it?\n4. How do your first 100 users even find you?\n\nPaste this:\n\"Be a panel of 4 sceptical investors. Each asks ONE question about my idea: who exactly pays for this, what one customer costs to win, what stops it being copied, how the first 100 users find it. Push back on weak answers. Then each says IN or OUT, with the reason. Don't be nice.\"\n\nEvery OUT comes with a reason. Fix one reason, pitch again. The day one of them says IN, you've got something.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #startup #indiehacker #vibecoding #aitools #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
+  },
+  {
+    "at": "2026-12-10T18:00:00Z",
+    "note": "[FACELESS] AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_16x9.jpg",
+    "ytTitle": "Stop Explaining the Same Checklist to Claude. Use Subagents",
+    "caption": "Every pull request, you explain the same security checklist to Claude. Again.\n\nClaude has no specialist on staff, so you've become the specialist.\n\nAnthropic's own Claude Code docs: define specialised subagents in .claude/agents/ that Claude can delegate to. They run in their own context with their own tools.\n\nThe fix:\n1. Create .claude/agents/security-reviewer.md\n2. Give it a name, a description, the tools it can use, and your checklist.\n3. Claude hands the review off to it.\n\nWrite the checklist once.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
+  },
+  {
+    "at": "2026-12-11T18:00:00Z",
+    "note": "[FACELESS] CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
+    "ytCover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_16x9.jpg",
+    "ytTitle": "Claude Says Your Site Works. It Never Opened It",
+    "caption": "Claude says your site works. It never even opened it.\n\nSo you click around yourself, and the sign-up button does nothing. Here's the problem: Claude can write the code, but it can't see the page.\n\nThe fix:\n1. Install the Playwright plugin from Microsoft. In Claude Code, type /plugin, search \"playwright\", install.\n2. Then say: \"Open my site, sign up, and screenshot every step.\"\n3. It clicks the buttons and fills the forms itself.\n\nThe catch: use a test account, never your real logins.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone who says \"it works on my machine\".\n\n#claudecode #claudeai #webdev #testing #aitools #vibecoding #playwright #claudecheats",
+    "trial": "performance",
+    "style": "FACELESS"
   }
 ]
