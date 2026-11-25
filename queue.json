@@ -1708,7 +1708,10 @@
     "ytTitle": "Claude Ignored Your Code Style? Point It at One File",
     "caption": "You asked for one calendar widget. Claude invented a brand new style.\n\nNew library. New naming. Nothing like the rest of your app. It never looked at how you already do it.\n\nAnthropic's tip from the Claude Code docs: point Claude to patterns in your codebase.\n\nThe fix:\n1. Name one file that already does it right.\n2. Say: \"look at how the other widgets work, then follow that pattern.\"\n3. Add \"no new libraries\" if you mean it.\n\nOne example beats a page of style rules.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-25T12:35:19.126Z",
+    "fb": "2026-11-25T12:35:30.170Z",
+    "yt": "2026-11-25T12:35:35.873Z"
   },
   {
     "at": "2026-11-25T15:00:00Z",
