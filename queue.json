@@ -1722,7 +1722,10 @@
     "ytTitle": "Claude Took 10 Steps to Read a GitHub Issue (The Fix)",
     "caption": "Claude tried to read one GitHub issue. It took ten steps.\n\nFetch the page. Parse it. Rate limited. Try again. It had no proper tool for the job, so it improvised.\n\nAnthropic's own Claude Code docs: if you use GitHub, install the gh CLI. Claude already knows how to use it for issues, pull requests and comments.\n\nThe fix:\n1. Install the GitHub CLI (gh).\n2. Run gh auth login once.\n3. Ask Claude to read the issue. It uses gh, no scraping.\n\nSame idea for other services: aws, gcloud, sentry-cli. Give Claude the proper tool.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-25T15:35:01.588Z",
+    "fb": "2026-11-25T15:35:16.150Z",
+    "yt": "2026-11-25T15:35:19.753Z"
   },
   {
     "note": "[SITCOM] WHISPER: '360 pounds to type up my own meetings' - Whisper (MIT, 112k) on your own laptop; one line: give me the decisions and who promised what. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword WHISPER -> dm/WHISPER.md. End card included. videos/whisper/",
