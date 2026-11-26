@@ -1808,6 +1808,15 @@
     "at": "2026-11-27T18:00:00Z"
   },
   {
+    "note": "[LOWPOLY] PS1-style Claude bot explainer, remake of the low-poly raccoon format. Comment POLY -> dm/POLY.md (trial reel)",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/lowpoly.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/lowpoly_9x16.jpg",
+    "caption": "This whole video is one code file Claude wrote 🤯\r\n\r\nNo Blender, no 3D app. One prompt, then six lines that turn a glossy jelly bean into a PlayStation 1 game:\r\n\r\n1. 300 triangles, flat shading\r\n2. 64-pixel textures, painted by code\r\n3. render at 270 × 480, no smoothing\r\n4. snap vertices to a grid, dither the colours\r\n5. slice it open to show the inside\r\n6. a new pose on every sentence\r\n\r\nSwap the bot for a volcano, a heart, a rocket or your own product. Save this for your next explainer.\r\n\r\n💬 Comment POLY and I'll DM you the full prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #lowpoly #ps1graphics #threejs #claudecheats",
+    "trial": "performance",
+    "style": "LOWPOLY",
+    "at": "2026-11-27T18:30:00Z"
+  },
+  {
     "at": "2026-11-28T12:00:00Z",
     "note": "[SITCOM] SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
