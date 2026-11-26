@@ -1748,7 +1748,10 @@
     "ytTitle": "Claude Built What You Said, Not What You Meant (Fix It)",
     "caption": "Claude built exactly what you asked for. Not what you wanted.\n\nYour prompt had ten words. The feature had forty decisions. Claude guessed every one.\n\nAnthropic's tip for bigger features: have Claude interview you first.\n\nThe fix:\n1. Start with: \"I want to build [your feature]. Interview me in detail using the AskUserQuestion tool.\"\n2. Answer its questions, then: \"Write a complete spec to SPEC.md.\"\n3. Open a fresh chat and build from the spec, with clean context.\n\nNo more guessing.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-26T12:35:41.550Z",
+    "fb": "2026-11-26T12:35:55.912Z",
+    "yt": "2026-11-26T12:36:02.299Z"
   },
   {
     "at": "2026-11-26T15:00:00Z",
