@@ -1762,7 +1762,10 @@
     "ytTitle": "Your Claude Code Bill Has 4 Leaks (Anthropic's Own Fixes)",
     "caption": "Your Claude Code bill has four leaks. All four fixes come straight from Anthropic's own cost guide (code.claude.com/docs/en/costs):\n\n1. Opus on every task. Sonnet handles most coding and costs less. Save Opus for hard architecture calls. Switch with /model.\n2. MCP servers you never use. Disable them in /mcp. CLI tools like gh and aws are cheaper still, because they add no tool listing.\n3. A giant CLAUDE.md that loads at the start of every session. Move workflows (PR reviews, migrations) into skills, which only load when used. Keep CLAUDE.md under 200 lines.\n4. Test runs and logs flooding your chat. Hand them to a subagent, so only the summary comes back to your main conversation.\n\nSame work, smaller bill. Screenshot this.\n\nFollow @claude.cheats for more.\n\n#claudecode #claudeai #claude #aitools #developertools #vibecoding #productivity #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-26T15:35:25.868Z",
+    "fb": "2026-11-26T15:35:35.742Z",
+    "yt": "2026-11-26T15:35:40.610Z"
   },
   {
     "note": "[SITCOM] CUTOUT: '300 photos erased by hand' - rembg (MIT, 25k) on a whole folder; one line: save as new files, never touch my originals. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword CUTOUT -> dm/CUTOUT.md. End card included. videos/cutout/",
