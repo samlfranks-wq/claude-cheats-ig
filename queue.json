@@ -1802,7 +1802,10 @@
     "ytTitle": "Claude Keeps Using Deleted Code? Install Context7",
     "caption": "Claude used a function that was deleted two versions ago. Confidently.\n\nSo you paste the error back, and it invents another one. Here's the problem: Claude learned from old docs.\n\nThe fix:\n1. Install the Context7 plugin. In Claude Code, type /plugin, search \"context7\", install.\n2. Add \"use context7\" to your prompt.\n3. It pulls today's docs for your exact version before it writes a line.\n\nThe catch: name the library and the version, so it fetches the right docs.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone fighting old code.\n\n#claudecode #claudeai #coding #aitools #vibecoding #developer #webdev #claudecheats",
     "trial": "performance",
-    "style": "FACELESS"
+    "style": "FACELESS",
+    "posted": "2026-11-27T15:35:33.126Z",
+    "fb": "2026-11-27T15:35:55.039Z",
+    "yt": "2026-11-27T15:35:58.904Z"
   },
   {
     "note": "[SITCOM] JOBS: '5 job sites, 3 hours a night' - JobSpy (MIT) pulls every site into one list; one line: one spreadsheet, delete the duplicates. Free-GitHub-tool batch 14 Nov (built on the SHIELD/PRINTER saves insight), MADEUP shape, cover v3, comedy music bed. Keyword JOBS -> dm/JOBS.md. End card included. videos/jobspy/",
