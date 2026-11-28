@@ -1826,16 +1826,7 @@
     "caption": "This whole video is one code file Claude wrote 🤯\r\n\r\nNo Blender, no 3D app. One prompt, then six lines that turn a glossy jelly bean into a PlayStation 1 game:\r\n\r\n1. 300 triangles, flat shading\r\n2. 64-pixel textures, painted by code\r\n3. render at 270 × 480, no smoothing\r\n4. snap vertices to a grid, dither the colours\r\n5. slice it open to show the inside\r\n6. a new pose on every sentence\r\n\r\nSwap the bot for a volcano, a heart, a rocket or your own product. Save this for your next explainer.\r\n\r\n💬 Comment POLY and I'll DM you the full prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #lowpoly #ps1graphics #threejs #claudecheats",
     "trial": "performance",
     "style": "LOWPOLY",
-    "at": "2026-11-27T18:30:00Z"
-  },
-  {
-    "at": "2026-11-28T12:00:00Z",
-    "note": "[SITCOM] SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
-    "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
-    "trial": "performance",
-    "style": "SITCOM"
+    "at": "2026-11-28T12:00:00Z"
   },
   {
     "at": "2026-11-28T15:00:00Z",
@@ -1852,7 +1843,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tokens.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/tokens_9x16.jpg",
     "caption": "My Claude limit was gone by 11am 💀\r\n\r\nI only asked three things, but all in one chat since Monday. Long chats use more of your limit, because Claude re-reads the whole chat every message.\r\n\r\nThe cheat: run ccusage (free, open source) and tell Claude Code:\r\n\r\nRun npx ccusage session and tell me which chat ate my limit. Then add to CLAUDE.md: when we finish a task, remind me to type /clear.\r\n\r\nYou see every session and how many tokens it used, and every new task starts in a small, fresh chat.\r\n\r\nThe catch: it only reads Claude Code's logs, not browser chats, and the dollar figure is API pricing, not your bill.\r\n\r\nWhen did your limit run out today? 👇\r\n\r\n💬 Comment TOKENS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #claudelimits #productivity #ai #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-28T18:00:00Z"
   },
@@ -1881,7 +1871,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pack.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pack_9x16.jpg",
     "caption": "I pasted 40 files into Claude one by one 💀\r\n\r\nAn hour of pasting, and my limit was gone. Forty pastes is forty messages, and every message eats your limit.\r\n\r\nThe cheat: run Repomix (free, open source) and tell Claude Code:\r\n\r\nRun npx repomix --compress and show me the biggest files. Then leave out the data folder and the test fixtures.\r\n\r\nYour whole project in one file, with a token count. Upload it once and ask about anything.\r\n\r\nThe catch: a huge project still won't fit. Pack one folder at a time.\r\n\r\nHow many files do you paste in one go? 👇\r\n\r\n💬 Comment PACK and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #coding #vibecoding #ai #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-29T18:00:00Z"
   },
@@ -1912,7 +1901,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ntfy.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/ntfy_9x16.jpg",
     "caption": "I watched the terminal for 40 minutes. Claude finished in 4 💀\r\n\r\nSix teas later, still staring. Walk away, and let Claude ping your phone when it's done.\r\n\r\nThe cheat: get the ntfy app (free, open source) and tell Claude Code:\r\n\r\nAdd a Stop hook that sends 'Claude is done' to my ntfy topic. Ping me when you need an answer too.\r\n\r\nYour phone buzzes when Claude finishes or gets stuck. You never stare at the terminal again.\r\n\r\nThe catch: anyone who guesses your topic name can read your pings. Make it long and random.\r\n\r\nHow long do you stare at the terminal? 👇\r\n\r\n💬 Comment PING and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #productivity #vibecoding #ai #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-11-30T18:00:00Z"
   },
@@ -1941,7 +1929,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/notes.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/notes_9x16.jpg",
     "caption": "Exam tomorrow. 9 hours of lectures 💀\r\n\r\nDouble speed, fell asleep twice. Don't watch them: your lectures have subtitles, and Claude reads nine hours of them in a minute.\r\n\r\nThe cheat: install yt-dlp (free, open source) and tell Claude Code:\r\n\r\nGet only the subtitles for my 6 lectures. Write notes and 20 practice questions. List every time he says it's on the exam.\r\n\r\nNotes with timestamps, practice questions, and every exam hint, from nine hours of lectures.\r\n\r\nThe catch: auto subtitles get names and formulas wrong. Check them against the slides.\r\n\r\nHow many lectures are you behind on? 👇\r\n\r\n💬 Comment NOTES and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #studytips #university #revision #ai #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-01T18:00:00Z"
   },
@@ -1972,7 +1959,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pandoc.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/pandoc_9x16.jpg",
     "caption": "I pasted Claude's report into Word. Every heading broke 💀\r\n\r\nTwo hours fixing it, the tables in one long column, and my boss wanted it by 5. Pasting moves the text, not the styles.\r\n\r\nThe cheat: install Pandoc (free, open source) and tell Claude Code:\r\n\r\nSave the report as report.md, then run pandoc report.md -o report.docx. Use my company template for the styles.\r\n\r\nA real Word file with your fonts, real tables and a contents page, in ten seconds.\r\n\r\nThe catch: fancy layouts like text boxes won't survive. Keep it simple and check the tables.\r\n\r\nHow long do you spend fixing formatting? 👇\r\n\r\n💬 Comment WORD and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claudecode #microsoftword #productivity #ai #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-02T18:00:00Z"
   },
@@ -2001,7 +1987,6 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/haggle.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/haggle_9x16.jpg",
     "caption": "My broadband went up £12 a month. I've been loyal for 6 years 💀\r\n\r\nNew customers were paying £25. I was paying £47. Loyal customers pay the most, and new ones get the deal.\r\n\r\nThe fix: give Claude your price and their new-customer price, then say:\r\n\r\nWrite my phone script to get the new customer price. Include what I say when they refuse.\r\n\r\nYou get four lines: ask for the cancellations team, quote the new price, say you'll leave today, then stop talking.\r\n\r\nThe catch: Claude can't make the call, and it only works if you're ready to leave. Check your contract end date first so there's no exit fee.\r\n\r\nWhich bill went up on you this year? 👇\r\n\r\n💬 Comment HAGGLE and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #moneysaving #billhacks #personalfinance #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-03T18:00:00Z"
   },
@@ -2030,39 +2015,20 @@
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapline.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/mapline_9x16.jpg",
     "caption": "Six hours in an editor for eight seconds of map 💀\n\nSo I stopped editing and asked for the code instead. Claude can't make video, but it can write the code that draws one.\n\nThe prompt in Claude Code:\n\"Use the map-video skill to make a video about Iraq.\"\n\nWhat the skill does for you:\n1. Real borders from historians' data, not Google Maps\n2. A camera flying over real satellite photos\n3. Voice, captions and sound, zero credits a video\n\nThat video got 150,000 views on @lostempiressss.\n\nThe catch: you need Claude Code, and it renders on your own computer.\n\nWhich empire would you map first? 👇\n\n💬 Comment MAP and I'll DM you the skill 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #claudecode #history #maps #claudecheats",
-    "trial": "performance",
     "style": "SITCOM",
     "at": "2026-12-04T18:00:00Z"
   },
   {
-    "note": "[SITCOM] FORMULA: '400 rows copied by hand' - describe the job in plain English, ask for the formula explained; one line: Excel or Sheets and name the columns (XLOOKUP). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword FORMULA -> dm/FORMULA.md. End card included. videos/formula/",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula_9x16.jpg",
-    "caption": "I copied 400 rows between two spreadsheets. By hand 💀\r\n\r\nI'd been at it since nine. I was doing a lookup with my eyes because I don't know formulas.\r\n\r\nThe fix: describe the job to Claude in plain English, then say:\r\n\r\nWrite the formula and explain each part. This is Excel, not Google Sheets. The IDs are in column A and the prices are in column C.\r\n\r\nYou get one formula to paste into the first row and drag down. 400 rows, about two seconds.\r\n\r\nThe catch: Claude can't see your sheet. Test the formula on three rows where you already know the answer before you trust the rest.\r\n\r\nWhat do you still do by hand at work? 👇\r\n\r\n💬 Comment FORMULA and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #excel #exceltips #productivity #claudecheats",
-    "trial": "performance",
-    "style": "SITCOM",
-    "at": "2026-12-05T18:00:00Z"
-  },
-  {
-    "note": "[SITCOM] HOUR: 'interview at OpenAI in 1 hour' - job post + CV -> 5 likely questions, 30 s stories, the push-back answer. Honest take on the live-answer-app reel. Comment HOUR -> dm/HOUR.md",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour_9x16.jpg",
-    "caption": "Interview at OpenAI. In 1 hour. Nothing prepared 💀\r\n\r\nThere are apps that whisper answers to you live during the call. Then they ask a follow-up and you freeze. Prep beats a script.\r\n\r\nThe cheat: paste the job post and your CV into Claude and ask:\r\n\r\nWhat 5 questions will they ask me, and what's my best answer from my CV? What will they push back on? Turn each answer into a story I can tell in 30 seconds.\r\n\r\nYou get the questions they'll actually ask, a 30-second story for each one, and your answer to the weak spot, all from your own CV. One page, ready in minutes.\r\n\r\nThe catch: say every answer out loud, twice. If you read it off a screen, they'll know.\r\n\r\nWorst interview question you've ever had? 👇\r\n\r\n💬 Comment HOUR and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #interviewtips #jobsearch #careeradvice #claudecheats",
-    "trial": "performance",
-    "style": "SITCOM",
-    "at": "2026-12-06T18:00:00Z"
-  },
-  {
-    "at": "2026-12-07T18:00:00Z",
-    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
-    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
-    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
-    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "at": "2026-12-05T12:00:00Z",
+    "note": "[SITCOM] SIXVIEWS: sitcom ep 9, how Claude makes video with code. Comment VIDEO -> dm/VIDEO.md. videos/sixviews/. IG-only trial at Sam request.",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/sixviews_9x16.jpg",
+    "caption": "My last video got six views. Five were my mum. One of Claude's got 227,000 💀\n\nHow it makes them, with no camera and no editor:\n\n1. Give it one line\n2. It sources every fact and cuts what it can't prove\n3. It writes code that builds the whole scene\n4. It checks its own frames and fixes what's weak\n5. Your computer renders it\n\nThis video was made the same way, voices aside. Sam, Claude and the flat are 246 lines of code. I counted.\n\nShould Claude fix my nose? 👇\n\n💬 Comment VIDEO and I'll DM you the exact prompt 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claudecode #aivideo #remotion #claudecheats",
     "trial": "performance",
     "style": "SITCOM"
   },
   {
-    "at": "2026-12-08T18:00:00Z",
+    "at": "2026-12-05T15:00:00Z",
     "note": "[FACELESS] CODE 2D - 3 Claudes run your coding interview. STUDY keyword template (26 Oct read: STUDY 3D 2,015 views / 61 comments / 50 saves; student exam/interview topics win, plugin + career-adjacent topics flop). Comment CODE -> dm/CODE.md.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/code_9x16.jpg",
@@ -2073,7 +2039,15 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-09T18:00:00Z",
+    "note": "[SITCOM] FORMULA: '400 rows copied by hand' - describe the job in plain English, ask for the formula explained; one line: Excel or Sheets and name the columns (XLOOKUP). MADEUP-shape episode (split screen, screen inserts, cover v3), universal-pain batch 13 Nov. Keyword FORMULA -> dm/FORMULA.md. End card included. videos/formula/",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/formula_9x16.jpg",
+    "caption": "I copied 400 rows between two spreadsheets. By hand 💀\r\n\r\nI'd been at it since nine. I was doing a lookup with my eyes because I don't know formulas.\r\n\r\nThe fix: describe the job to Claude in plain English, then say:\r\n\r\nWrite the formula and explain each part. This is Excel, not Google Sheets. The IDs are in column A and the prices are in column C.\r\n\r\nYou get one formula to paste into the first row and drag down. 400 rows, about two seconds.\r\n\r\nThe catch: Claude can't see your sheet. Test the formula on three rows where you already know the answer before you trust the rest.\r\n\r\nWhat do you still do by hand at work? 👇\r\n\r\n💬 Comment FORMULA and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #excel #exceltips #productivity #claudecheats",
+    "style": "SITCOM",
+    "at": "2026-12-05T18:00:00Z"
+  },
+  {
+    "at": "2026-12-06T12:00:00Z",
     "note": "[FACELESS] PANEL - plug-strip style (power3 engine), our take on nocodealex latest reel DeC3-Geybey (Claude as a tough investor panel). Original investors, no show branding/real people. videos/panel/render.py.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/panel_9x16.jpg",
@@ -2084,7 +2058,7 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-10T18:00:00Z",
+    "at": "2026-12-06T15:00:00Z",
     "note": "[FACELESS] AGENTS - single-topic misbehaving format, cream-stage bots, Harrison ElevenLabs, built 2026-10-05.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/agents_9x16.jpg",
@@ -2095,7 +2069,15 @@
     "style": "FACELESS"
   },
   {
-    "at": "2026-12-11T18:00:00Z",
+    "note": "[SITCOM] HOUR: 'interview at OpenAI in 1 hour' - job post + CV -> 5 likely questions, 30 s stories, the push-back answer. Honest take on the live-answer-app reel. Comment HOUR -> dm/HOUR.md",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/hour_9x16.jpg",
+    "caption": "Interview at OpenAI. In 1 hour. Nothing prepared 💀\r\n\r\nThere are apps that whisper answers to you live during the call. Then they ask a follow-up and you freeze. Prep beats a script.\r\n\r\nThe cheat: paste the job post and your CV into Claude and ask:\r\n\r\nWhat 5 questions will they ask me, and what's my best answer from my CV? What will they push back on? Turn each answer into a story I can tell in 30 seconds.\r\n\r\nYou get the questions they'll actually ask, a 30-second story for each one, and your answer to the weak spot, all from your own CV. One page, ready in minutes.\r\n\r\nThe catch: say every answer out loud, twice. If you read it off a screen, they'll know.\r\n\r\nWorst interview question you've ever had? 👇\r\n\r\n💬 Comment HOUR and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #interviewtips #jobsearch #careeradvice #claudecheats",
+    "style": "SITCOM",
+    "at": "2026-12-06T18:00:00Z"
+  },
+  {
+    "at": "2026-12-07T12:00:00Z",
     "note": "[FACELESS] CHECKED 2D - Playwright plugin (Microsoft, 320k installs). 2D frustration format (ATTEMPT6 template, our best reach: 1.4-2k, 13-15s watch) + a real plugin fix (25 Oct: plugin listicles top the niche, petergriffin 91K, nick_saraev 50K). Caption CTA Comment PLUGINS -> dm/PLUGINS.md. lever: frustration.",
     "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked.mp4",
     "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/checked_9x16.jpg",
@@ -2104,5 +2086,13 @@
     "caption": "Claude says your site works. It never even opened it.\n\nSo you click around yourself, and the sign-up button does nothing. Here's the problem: Claude can write the code, but it can't see the page.\n\nThe fix:\n1. Install the Playwright plugin from Microsoft. In Claude Code, type /plugin, search \"playwright\", install.\n2. Then say: \"Open my site, sign up, and screenshot every step.\"\n3. It clicks the buttons and fills the forms itself.\n\nThe catch: use a test account, never your real logins.\n\n💬 Comment PLUGINS and I'll DM you my 5 favourite Claude plugins. Follow so the DM lands 📩\n\nWant Claude doing whole jobs like this? My Chat to Agent course is the link in my bio.\n\nSend this to someone who says \"it works on my machine\".\n\n#claudecode #claudeai #webdev #testing #aitools #vibecoding #playwright #claudecheats",
     "trial": "performance",
     "style": "FACELESS"
+  },
+  {
+    "at": "2026-12-07T18:00:00Z",
+    "note": "[SITCOM] ONEMSG: limit saver, batch questions in one message (help 9797557 tip 4), sitcom + real help-page card, keyword BATCH Moved from 2026-11-12 on 11 Nov (new-format sitcoms took the slot).",
+    "url": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg.mp4",
+    "cover": "https://github.com/samlfranks-wq/claude-cheats-ig/releases/download/media-2026-10/onemsg_9x16.jpg",
+    "caption": "14 messages to ask 3 questions. That's where your Claude limit went 😅\n\nThe cheat:\n\n1. Put related questions in ONE message.\n2. Number them: 1, 2, 3. Claude answers in order.\n3. Follow-ups too: read the whole answer, then ask everything at once.\n\nAnthropic's own advice: batch similar requests in one message. Fewer back-and-forths, more left in your limit.\n\nDo you say hi to Claude first? Be honest 👇\n\n💬 Comment BATCH and I'll DM you my one-message template 📩\nFollow @claude.cheats for a new Claude cheat every day.\n\n#claudeai #claude #aitips #productivity #claudecheats",
+    "style": "SITCOM"
   }
 ]

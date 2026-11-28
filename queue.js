@@ -160,9 +160,13 @@ const item = items[dueIndex];
 const isCarousel = item.type === 'carousel';
 const postedToday = items.filter((it) => it.posted && it.posted.slice(0, 10) === today)
   .sort((a, b) => a.posted.localeCompare(b.posted));
-const reelsToday = postedToday.filter((it) => it.type !== 'carousel');
+// 28 Nov 2026: the cap counts reels by SLOT date (`at`), not by the UTC date they actually posted.
+// Counting by posted date made a self-perpetuating lag: one 18:00Z reel that slipped past midnight ate
+// the next day's cap, so every evening sitcom from 21-27 Nov went out at 00:49-02:51 UK.
+const slotDay = item.at.slice(0, 10);
+const reelsToday = items.filter((it) => it.posted && it.type !== 'carousel' && it.at.slice(0, 10) === slotDay);
 if (!isCarousel && reelsToday.length >= MAX_PER_DAY) {
-  console.log(`Already posted ${reelsToday.length} reels today (cap ${MAX_PER_DAY}) — stopping.`);
+  console.log(`Already posted ${reelsToday.length} reels for slot day ${slotDay} (cap ${MAX_PER_DAY}) — stopping.`);
   process.exit(0);
 }
 const lastToday = postedToday[postedToday.length - 1];
