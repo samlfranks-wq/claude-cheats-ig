@@ -1814,7 +1814,10 @@
     "caption": "5 job sites. 3 hours. Every night 💀\r\n\r\nI applied to the same job twice because it had a different logo. They rejected me both times.\r\n\r\nThe free tool: JobSpy on GitHub (MIT licence). It pulls jobs from Indeed, LinkedIn and Glassdoor into one list. Paste this into Claude Code, with your own job and town:\r\n\r\nInstall JobSpy, then find marketing jobs in Leeds from the last 7 days. Put them in one spreadsheet and delete the duplicates.\r\n\r\nOne sheet, every site, no job listed twice.\r\n\r\nThe catch: job sites block you if you search too fast or too much. LinkedIn blocks first, Indeed is steadier. Keep the search small and run it once a day.\r\n\r\nHow many job sites do you check? 👇\r\n\r\n💬 Comment JOBS and I'll DM you the exact prompt 📩\r\nFollow @claude.cheats for a new Claude cheat every day.\r\n\r\n#claudeai #claude #claudecode #jobsearch #github #claudecheats",
     "trial": "performance",
     "style": "SITCOM",
-    "at": "2026-11-27T18:00:00Z"
+    "at": "2026-11-27T18:00:00Z",
+    "posted": "2026-11-28T00:21:05.029Z",
+    "fb": "2026-11-28T00:21:33.273Z",
+    "yt": "2026-11-28T00:21:48.511Z"
   },
   {
     "note": "[LOWPOLY] PS1-style Claude bot explainer, remake of the low-poly raccoon format. Comment POLY -> dm/POLY.md (trial reel)",
